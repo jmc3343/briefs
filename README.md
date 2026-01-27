@@ -3,1282 +3,4091 @@ layout: default
 permalink: /
 ---
 
-# JMC 3343
-This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
+# JMC 3343: Advertising Design & Visual Storytelling
+## Creative & Production Briefs
 
-**Instructor**
+This site contains 30 semester-long advertising creative briefs across multiple industry categories for the Advertising Design & Visual Storytelling course at the University of Oklahoma's Gaylord College of Journalism and Mass Communication.
 
-Adam Croom<br>
-**Location**: Old Science Hall, Room 224<br>
-**Phone**: (405) 325-2960<br>
-**E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a><br>
-**Office hours**: Please email me if you would like to meet either face-to-face or online!
+---
 
-## Syllabus
+## Food & Drink
 
-Below is the formal syllabus explaining what the course exactly is but these tend to get a little jargony at times which won't be incredibly helpful if there is your first introduction into the course. The short of it is this: This course is _outcomes_ centric and thus you will learn by _doing_. While the first part of the course is focused on understanding design techniques and terminology and is a little more content driven, we will be simply applying this foundational knowledge through different use cases throughout the rest of the semester. The real work are the assignments in which you'll be creating tangible publication pieces. You'll then be putting these works onto your blog where you'll be expected to reflect on your work and give a narrative for your creative process. In the end, you'll have a robust portfolio (so to speak) which won't only be a collection of your final work which potential employers can see, but a collection of your thoughts, struggles, and victories throughout this 8-week experience. In essence, you'll be donning a potentially new hat of "Visual Designer" throughout this exploration. You'll also be a "Digital Storyteller." Terms like "digital," "visual," or "creative" can seem a little scary to some, but that's ok right now. Like a good ride at a theme park, a little bit of nervousness makes the ride much more memorable on the back end. Note that most of you are coming in at the same level: novice. This means you all are your biggest allies. I _want _you to be successful in this course and to do this you will see that I've set up ways in which you can lean on and learn from each other's experiences throughout the course.
 
-### Course Description
+**Client:** Braum's Ice Cream & Dairy Stores
+**Campaign:** *Still Made Here.*
 
-Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory.<br>
-**Prerequisites**: JMC 1013, 2033, 3413, and 3423.
+---
 
-### Course Objectives
+## Brand Background
 
-Think **critically, creatively and independently**. Recognize how public relations publications differ from other publications in purpose, publics, funding and design. Apply **graphic design concepts** and apply appropriate visual communication theories in the effective use and presentation of images and information. Apply **web design concepts** and apply web communication techniques and theories in the effective use and presentation of images and information online. **Conduct research**, evaluate information and use that knowledge to select appropriate communication channel. Design for a target audience. Distinguish and demonstrate the **use a variety of publication production techniques** and options.
+Braum's is a privately held Oklahoma-based company operating over 310 stores across five states (Oklahoma, Kansas, Texas, Missouri, and Arkansas). The company is uniquely vertically integrated, owning its dairy herd of 10,000+ cows on 40,000 acres in Tuttle, Oklahoma, plus its own processing plant, bakery, and distribution fleet. All stores must be located within a 300-mile radius of the Tuttle processing facility, ensuring products reach stores in less than 36 hours from farm to shelf—a constraint that defines both the brand's strength and its geographic limits.
 
-### Course Outcomes
+---
 
-Students will launch and maintain a blog as well as comment on the blogs of their peers. Students will build a foundational knowledge of the landscape of visual communication technologies. Students will design a business card and letterhead for a brand. Students will design a direct mail piece for multiple, specific publics. Students will design a newsletter for an entity. Students will develop a personal portfolio website.
+## Business Challenge
 
-### Course Rationale
+Braum's 300-mile radius model limits expansion opportunities while national chains continue to grow. Younger consumers (18–30) increasingly gravitate toward brands with stronger digital presence and modern aesthetics, viewing Braum's as a nostalgic family brand rather than a contemporary choice. The company's vertically integrated supply chain—a genuine competitive advantage—is largely unknown to Gen Z consumers who prioritize sustainability and local sourcing but don't connect those values to Braum's.
 
-This course strives to train students to recognize and apply good publication design techniques in a public relations setting. In addition, students will learn the importance of structuring visual communications for the web. The major goal of the course is to give students the ability to translate a concept of visual communication into an actual publication. Other goals include practice with computer graphics, knowledge of publication techniques and options in print and online, publication production skills and a knowledge of how to work with designers, graphic artists, publication specialists, photographers and commercial printers and web developers to convey their messages to target audiences.
+---
 
-### Assignments / Grading
+## Campaign Objective
 
-This course has a mix of Design projects assignments and weekly assignments. Weekly assignments will included course readings, watching tutorial videos, writing blog posts, and comment on other student's blogs. There will be eight (8) quizzes throughout the summer semester and they are worth 20 points. This one is fairly straight forward: you do what is asked and you will complete an online quiz about those assignments. You will self assess how much of the work you did each week through the unit quiz.
+Reposition Braum's as a proudly local, vertically integrated food brand that stands apart from corporate fast-food competitors.
 
-There will be four projects throughout the summer semester and they are worth 60 points per project. I grade these against a rubric, which you will get at the beginning of each assignment <a href="https://www.dropbox.com/s/9ge5xskau54ryb5/rubricsample.pdf?dl=0" target="_blank">click here to view a sample rubric</a>. Assignments are expected to be turned in on time. Quizzes are due on Thursdays at noon. I do give a 24-hour grace period for all assignments and will accept work until the following day at noon. Absolutely no assignment will be accepted later than the 24-hour grace period. This is an online class meaning that you have an incredible luxury of being able to work ahead in a lot of cases. My suggestion is to completely take advantage of this and stay ahead of the course schedule. You'll thank me when finals roll around and you've got this class out of the way!
+---
 
-### Grade Mix
+## Target Audience
 
-**Weekly Quizzes** (32% of final grade) 8 x 10 points Total = 160 points<br>
-**Design Projects (56% of final grade)**<br>
-Business Card and Letterhead Project - 70 points<br>
-Direct Mailer - 70 points<br>
-Social Media - 70 points<br>
-Newsletter - 70 points
+**Primary:** Ages 18–30 in Norman and the OKC metro.
+**Secondary:** Existing family customers.
 
-**Final Project** (12% of final grade)
-Summary of Learning - 60 points **TOTAL POINTS POSSIBLE: 500**
+---
 
-### Grading Scale
+## Key Insight
 
-A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 points F: 0 - 200 points
+Most fast-food brands do not own the farms, trucks, or plants that make their food. Braum's does.
 
-### Toolbox
+---
 
-*   **Blog** - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with the platform of your choice. There's more information about how to technically set this up in Week 1.
-*   **Course Website** - If you are reading this, you're on the course website! Hooray. Here is where you'll find the majority of course content. Each week has a corresponding module which will tell you what you are expected to do that week. That may include watching videos, reading material, working on a project, a Google Hangout, etc.
-*   **Course Hub** - These are where you'll be able to see all the different blog posts from all your peers. This will be helpful in seeing what everyone else is up to. You'll be asked periodically throughout the semester to comment on various posts from other students.
-*   **Software** - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are <a href="http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s" target="_blank">currently available for $19.99</a> as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
+## Single-Minded Proposition
 
-### Gaylord Computer Lab
+**Braum's isn't fast food. It's food made nearby.**
 
-This course focuses heavily on some paid tools that exist in Adobe Creative Suite. If you are located in Norman, you can access all of these programs for free in the Gaylord Computer labs. Your initial login uses your OU NetID (4x4) as your user name, and “changeme” as your password.  You will be prompted to change your password on your first logon Their Gaylord College network login is distinct from your OU Ozone/email login and only applies to the Gaylord College network. You may not share their login information with anyone.  Doing so may result in their losing access to the network. Please log off when finished using a workstation, but never shut down the computers. Please be courteous of the other students who use these spaces by keeping lids on drinks and by being careful with food. Trash and recycling bins are available in all labs and throughout the College.
+---
 
-#### Lab Hours
+## Tone & Personality
 
-**GYLD 2150** 8 a.m. to 5 p.m., Monday through Friday (Closed on Monday July 4th!)
+Confident, modern, plain-spoken, locally proud.
 
-### Special Needs
+---
 
-Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
+## Deliverables & Media Requirements
 
-## FAQ
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign logo / lockup that complements Braum's master brand
+- Three supporting graphic elements or motifs
 
-### How can I be successful online?
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One primary campaign image
+- Three supporting visual variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-#### 1. Set aside scheduled time
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-One of the hardest things for students to realize is that they are usually spending two and half hours a week in a class room getting a significant amount of work done. Just because this is an online class doesn't translate to the idea that this is less work. Set aside time a couple times a week where you work on this course just like you would class! Stick it in your calendar, make your bosses aware, and keep it like that.
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Logo & graphic system
+- Photography treatment
+- Final executions across platforms
 
-#### 2. Work ahead
+---
 
-My goal is to always have more lessons out there than the person who is the furthest in the class. You have the ability to move faster and you should take advantage of it if you have the extra time or get in a good groove. It's easy to fall behind particularly when you get into the thick of the semester. The beginning of the semester is PRIME for getting ahead in your online courses. While other classes may spending the class time talking through the syllabus and orientation materials, you can be getting a jump start on this one.
+## Visual Guardrails
 
-#### 3. Know how to ask for help.
+- Do not use retro diner imagery, cartoon mascots, or nostalgia clichés.
+- Photography must feel candid and grounded in real places.
+- Prioritize natural food tones over artificial neons.
+- Typography must favor clarity and restraint.
+- Designs must communicate without relying on heavy copy.
 
-Just because this is online doesn't mean I'm not available. Email is the easiest way I promise to promptly return all emails written to me at reasonable hours. If anything needs to be clarified, I'm happy to do so. If there is something we can't solve via email, we can visit in person or through a Google Hangout video chat.
+---
 
-Additionally, I've set up several ways in which you can ask each other! Add it to the forum or put it in a blog post. Check the blogroll for how other students have completed work.
+## Brand Integrity Rules
 
-Last, use the Googles! Seriously. Think about this when you are using technology... Technology was created by humans. Humans have questions. There's a 99.9999% chance your question has already been answered. If you can master Google, you will be a much more efficient problem solver.
+- The master Braum's logo should be respected but may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any logo refinements must be subtle, purposeful, and clearly documented in your campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Quality claims must be visually implied, not written.
 
-#### 4. Stay organized
+---
 
-There are several places where you can find due dates. You'll find a calendar in several places on PRPubs.us as well as D2L. You're much more likely to stay on top of the workload if you know the schedule.
+## Mandatory Creative Elements
 
-#### 5. Get familiar with the course site
+- Campaign tagline: *Still Made Here.*
+- Visual reference to Oklahoma sourcing (no flags or maps).
+- At least one visual referencing the supply chain.
 
-It's important that you know the course site inside and out. Almost as important as fully understanding the syllabus! If you're this far down the page you're doing great! Keep reading!
+---
 
-#### 6. Create your own classroom
+## Practical Production Constraints
 
-We don't have a dedicate physical place where this work is done. I suggest you create a false classroom for yourself. Tell yourself "Everything Monday and Wednesday, I'm going to go to the computer lab to do work" or to the library or the coffee. Or make your bedroom extra special. Take your favorite songs at the moment and put it on a Spotify playlist and tell yourself you can only listen to that playlist when you are working on PR Pubs.
+- Use a maximum of three base photographs.
+- Campaign must function in color and black-and-white.
+- All executions must adapt to light and dark backgrounds.
 
-#### 7. Really OWN your learning
+---
 
-This one is important throughout your entire collegiate experience, but you feel it a little more in online courses. This course will take a significant amount of self-discipline. This becomes easier when you accept full ownership of your learning. You'll get out of this, what you put into it. Decide now that you WANT to get a lot out of this course. If you own your learning experience, you'll enjoy the time you spend on this course.
+## Media-Specific Rules
 
-### What's a good blog post?
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-There are several good ways to improve a blog post.
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-#### 1. Always make sure you add context.
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-Because blog posts are public, when writing your post you should assume that the reader has no idea what the purpose of your post is for. Therefore, always lead off your posts with some context. It can be brief! Here's an example:
+---
 
-"In my PR Publications course, we are going to be designing a business card and letterhead for an organization of our choice. I chose Big Brothers/Big Sisters as I have volunteered with them since my freshman year. For this assignment, I'm analyzing the state of the current organization's resources, processes, and values overall."
+## What Success Looks Like
 
-#### 2. Use first person.
+- Campaign feels believable.
+- All pieces feel system-connected.
+- Nothing looks like a class project.
+- A stranger could recognize the campaign.
 
-Unlike essays, this is your space. Own it.
+---
 
-#### 3. Use images.
+## Media Specifications
 
-Also unlike essays, you can make add images (both still and animated) to your post. Take advantage of this new medium! Some things are better said through images than they are words.
+- Print: Full-page vertical
+- Social: 1080×1080 and 1080×1920
+- Motion: 5–7 seconds, silent-first viewing
 
-#### 4. Use links.
 
-You can also link to other pages. Did you read an article that helped you work through an assignment? Link to it! Did a classmate post something that was highly interesting? Link to it! Are you referring to a previous post? Li... you get the picture!
+---
 
-#### 5. Give a complete thought.
 
-Rather than focusing on a specific word count, you should focus on giving complete thoughts. Make sure your blog post has a beginning, middle, and end. I'll give you prompts throughout the semester that help you maintain this structure, but stick to it as much as you can.
+**Client:** Dutch Bros Coffee
+**Campaign:** *Speed. Energy. Positivity.*
 
-### How do I get ahold of you?
+---
 
-I'm best reached via email. I do not hold regular office hours but am happy to meet either face-to-face or through a digital medium such as Skype or Google Hangout.
+## Brand Background
 
-### Where can I find stock images?
-* <a href="http://www.freeimages.co" target="_blank">Free Stock Images</a>
-* <a href="http://www.stockvault.net" target="_blank">Stock Vault</a>
-* <a href="https://stocksnap.io)" target="_blank">Stocksnap</a>
-* <a href="http://gratisography.com" target="_blank">Gratisography</a>
-* <a href="https://unsplash.com" target="_blank">Unsplash</a>
-* <a href="http://images.superfamous.com" target="_blank">Superfamous Images</a>
-* <a href="http://nos.twnsnd.co" target="_blank">New Old Stock</a>
-* <a href="http://magdeleine.co" target="_blank">Magdeleine</a>
-* <a href="http://picography.co" target="_blank">Picography</a>
-* <a href="http://isorepublic.com" target="_blank">Isorepublic</a>
+Dutch Bros Coffee is a drive-through coffee chain founded in Oregon in 1992 that went public in 2021 and has since experienced explosive growth. As of February 2025, Dutch Bros operates over 1,000 locations across 18 states, making it the third-largest coffee chain by store count (behind Starbucks and Dunkin'). The company plans to open 160 new stores in 2025 alone, with a long-term goal of 4,000–7,000 locations. Dutch Bros generated $1.28 billion in revenue in 2024 (+32.6% YoY) and was named the top-performing coffee chain by QSR Magazine. The brand's Oklahoma City locations average $1.8 million in AUV, demonstrating strong market performance. Dutch Bros' drive-thru-only model and "broista" culture emphasize speed, personalization, and high-energy customer interactions.
 
-### What are some tips for Lynda.com?
+---
 
-Myself, sometimes I get confused with tutorial videos. I'll be moving back and forth through windows on my computer or the person doing the tutorial will simply be talking too fast for me to keep up. I want to give you some tips on how to best grasp these types of videos as I realize they can feel a smidge overwhelming the first time through.
+## Business Challenge
 
-#### 1. Don't be a perfectionist.
+Dutch Bros' hyper-growth strategy—from 441 locations (2020) to 1,000+ (2025)—raises a critical question: can the brand's people-first culture scale at this pace? While financial performance is strong (outpacing Starbucks in same-store sales growth), rapid expansion into new markets like Oklahoma, Georgia, and Ohio means hiring thousands of "broistas" and replicating a culture built on genuine human connection. The risk is clear: as Dutch Bros becomes more ubiquitous, does it lose the "underdog energy" that differentiates it from corporate coffee giants? New customers unfamiliar with Dutch Bros culture may see it as performative rather than authentic, reducing the brand to "that overly cheerful drive-thru."
 
-Again, remember... Right now it's about the process, not the product. I don't want you to get too bogged down if you can't get something down picture perfect right now. Don't spend endless hours trying to solve the tiniest thing. The point of the exercise right now is for you to make it through this and get a broad overview.
+---
 
-#### 2. Take advantage of the video controls.
+## Campaign Objective
 
-Our man for these videos, Justin, is a pretty speedy talker. Luckily, for us, we can manipulate the video so that it actually plays slower (or faster if you would like). You'll see a playback speed controller near the play button at the bottom at each video.
+Position Dutch Bros as the antidote to transactional, impersonal coffee experiences—a brand built on genuine human energy and connection.
 
-#### 3. Check out the transcript for terms that aren't familiar.
+---
 
-Sometimes you'll hear someone say something that just doesn't sound quite right. Lynda.com provides a scrolling transcript with each video which can be very helpful when you get stuck.
+## Target Audience
 
-#### 4. Download the exercise files.
+**Primary:** Ages 18–26 in Norman and OKC metro who value speed, customization, and positive experiences.
+**Secondary:** Coffee drinkers tired of corporate coffee shop routines.
 
-Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, please let me know via email ASAP. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
+---
 
-Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
+## Key Insight
 
+Most coffee runs feel like errands. Some feel like a boost.
 
-## Course Blogs
+---
 
-<a href="https://prpubs.us/summer16/" class="btn btn-primary btn-primary" target="_blank">View the Blogs</a>
+## Single-Minded Proposition
 
-This will be a place you visit quite often. As you and your fellow students blog about your work, it will get aggregated here, allowing you to see everyone's work. Where most courses are different, in that you work in individual silos, you'll be encouraged in this course to actually learn from each other and not just from me. Given that this course is ultimately based in creativity, this will allow you the opportunity to see how other students have interpreted and reflected the course assignments.
+**Dutch Bros doesn't just serve caffeine. We serve momentum.**
 
-## Week 1
+---
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016 at noon</div>
+## Tone & Personality
 
-### Introduction
+Energetic, genuine, uplifting, fast, human.
 
-Howdy! I'm glad you've made it to the course content area for PR Pubs. You'll see a unit for each week of the course similar to this one. In short, each week you will have some course content as well as assignments that you complete (more below on how that is graded). This week is slightly different as we are just easing into the course, so we are going to be spending the week prepping for the rest of the semester by building our toolkit. One thing to know, there is a LOT of things we want to get started this week. With that, things I want you to do:
+---
 
-### 1. Read the syllabus.
+## Deliverables & Media Requirements
 
-It's above. Please read through and make sure everything about the course is clear. If you have any questions, please email me.
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Dutch Bros master brand
+- Three supporting graphic motifs
 
-### 2. Build your domain / blog
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use <a href="https://wordpress.com" target="_blank">Wordpress</a>, <a href="https://www.blogger.com" target="_blank">Blogger</a>, <a href="http://tumblr.com" target="_blank">Tumblr</a>, or <a href="http://create.ou.edu" target="_blank">OU Create</a> (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-### 3. Submit your web address
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-<iframe src="https://docs.google.com/forms/d/10AiBcyHkrtehSh_m2SzYCKDFzKV4KVqYpDiOr0M0LPA/viewform?embedded=true" width="760" height="500" frameborder="0" marginwidth="0" marginheight="0">Loading...</iframe>
+---
 
-### 4. Write your first post
+## Visual Guardrails
 
-This activity is designed so that you have a creative way of introducing yourself to the rest of class as well as begin to understand how your blog technically functions. We are going to create a post that I'm going to call a "Professional Portrait." In your blog post, attempt to answer the following questions:
+- Avoid generic coffee shop aesthetics (chalkboards, latte art, rustic wood).
+- Emphasize movement, energy, and human moments over product shots.
+- Use bold color with intention—capture energy without visual chaos.
+- Typography should feel dynamic and forward-moving.
+- Celebrate speed and service without looking rushed or careless.
 
-*   <span style="font-weight: 400;">Who are you?</span>
-*   <span style="font-weight: 400;">What do you believe?</span>
-*   <span style="font-weight: 400;">What do you do?</span>
-*   <span style="font-weight: 400;">What guides you?</span>
-*   <span style="font-weight: 400;">What motivates you?</span>
-*   <span style="font-weight: 400;">Where does design fit in your life? </span>
+---
 
-You are required to have at least **one picture** in your post and it's preferable that you take it yourself. Taking this with your smartphone or any camera for that matter is fine. If you don't have access to camera and are on campus, cameras are available for checkout in Gaylord.
+## Brand Integrity Rules
 
-### 5. Build your technology toolkit
+- The master Dutch Bros logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Quality and service claims must be visually implied, not written.
 
-This is touched on heavily about in the syllabus. Go ahead and get Adobe Creative Cloud installed this week. You can also forgo the expense and use the Gaylord labs but it is recommended that you purchase a subscription, even if it's just for this semester.
+---
 
-### 6. What the heck is a PR Publication?
+## Mandatory Creative Elements
 
-Alright, now that we've got some of the housekeeping out the way. It's time to get into the content of the course.
+- Campaign tagline: *Speed. Energy. Positivity.*
+- At least one visual capturing the human energy or momentum of the Dutch Bros experience.
+- Visual language that feels genuinely uplifting, not forced or artificial.
 
-Let's start with a good ol' definition:** PR publications** provide a free, controlled media designed for publics who share characteristics and interest. Read that definition again. There's a lot there that's worth unpacking.
+---
 
-#### 1. **PR publications** provide a **free**, controlled media designed for publics who share characteristics and interest.
+## Practical Production Constraints
 
-Who pays? How? Why? Organizational funds support public relations publications to improve or maintain positive relationships with target publics. Some accept advertising, but most do not. Some are partially funded by memberships or subscriptions, but many are not. Usually the organization funds the publication as an operating expense. Usually the beneficial relationships resulting from the communication are worth more to the company than the cost of producing or distributing the publication.
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-#### 2. PR publications provide a free, **controlled media** designed for publics who share characteristics and interest.
+---
 
-Controlled media? What does that mean? **Controlled media** means that the organization controls the message, when it appears, to whom, and how. Most PR publications are distributed directly to the reader either in-person, by mail, or electronically.
+## Media-Specific Rules
 
-#### 3.  PR publications provide a free, controlled media **designed for publics who share characteristics and interest**.
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-PR Publications work best when you narrow your public. Know everything you can about the target public of each publication. You want to first learn what motivates your public to actually read the publication and to do this will require you to research your publics (which we will do in one of our next lessons).
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-#### **Types of PR Publications**
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-*   Identity Symbols (Logotypes, letterheads). **Identity symbols** combine verbal and visual communications to visually represent the organization.
-*   Flat publications (Flyers, posters, etc.) **Flat publications** consist of a single sheet of paper, unfolded, and usually printed on one side.
-*   Folded publications (Pamphlets brochures, some newsletters) **Folded publications** use folds to create format.
-*   Bound publications (Booklets, magazines, annual reports) **Bound publications** are those containing multiple sheets of paper, held together by binding.
+---
 
-### 7. Design Theory and PR Publications
+## What Success Looks Like
 
-#### Watch these videos and view these slides.
+- Campaign feels energetic and authentic, not hyper or fake.
+- All executions feel system-connected.
+- Work could plausibly appear in a professional Dutch Bros campaign.
+- The brand's human energy comes through visually.
 
- First things first. Design is design. The theory and principles do not change whether its interior design, fashion, or landscaping because they are all visual communications. What is different is that every design decision is based on information about the publication's purpose, key message, and target public. Design decisions only work when they consider the effect of the design options on the target public. For most of your career as a PR student, you have focused on writing or verbal communication. You know how to structure verbal communications and how words form sentences which for paragraphs, etc. Effectively understanding writing doesn't happen if it doesn't have that structure to support it. Similarly, **visual communication** uses image and patterns to convey messages (as opposed to language with verbal communication). You'll notice up in the upper right hand corner a set of media. This is a collection of what you are required to watch for the unit. The first video is from Lynda.com and is titled "What makes design great?" and the second is called "Exploring the principles of layout and composition." Check that one out first as its very similar to my in-class presentation. My slides for the in class presentation are below.
 
- <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/4zqb4t91QPhDPe" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+---
 
-<a href="http://www.lynda.com/course/sharerevideodirect/161817/177322?org=ou.edu" target="_blank">What makes design great?</a>
 
-Please watch the Lynda.com video If you aren't familiar with Lynda.com, it's a service that is newly available for free to the OU community (usually $30 a month!). Lynda.com specializes in a lot of technical tutorials and you can learn everything from Photoshop to programming languages like Ruby on Rails. We won't use it a ton, but more as a starting point of references. Of course, you are more than welcome to watch more videos through the course as you see fit.
+**Client:** Sonic Drive-In
+**Campaign:** *Order Your Way.*
 
-<a href="https://www.youtube.com/watch?v=3ResTHKVxf4&feature=youtu.be" target="_blank">Ira Glass on Being Creative</a>
+---
 
-Last, you'll find a video from Ira Glass, the host of This American Life. Before we get going too far, I think it's helpful to take a step back and breath again. Remember that creativity and design can be a little hard to grasp at first particularly because your taste is much more refined than your technique. Don't worry about too much about your "products" right now and let's focus on the "process." It's about the _process,_ not the _product_. It's about the _process_, not the _product_. This will slightly change throughout the semester, but, for now, let this be your mantra!
+## Brand Background
 
-### 8. Complete a design blitz!
+Sonic Drive-In operates over 3,500 locations across 46 states, built on a unique drive-in model featuring carhop service and extensive menu customization (over 1 million drink combinations). Acquired by Inspire Brands for $2.3 billion in 2018, Sonic has undergone significant brand evolution, retiring its iconic "Two Guys" campaign in 2020 and launching the "Live Free Eat Sonic" platform in June 2024. Nearly all locations are franchised, with average unit volumes around $1.6 million.
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+---
 
-Through the presentations above, you've learned about several design concepts:
+## Business Challenge
 
-*   Color
-*   Typography
-*   Metaphors/symbols
-*   Minimalism & use of space
-*   Form/function/message
-*   Balance
-*   Rhythm
-*   Proportion
-*   Dominance
-*   Unity
+Following years of declining traffic and missed earnings pre-acquisition, Sonic is working to modernize its brand identity under new ownership while preserving the drive-in experience that differentiates it. The June 2024 brand relaunch signals a strategic shift, but the challenge remains: younger consumers see Sonic as retro nostalgia rather than recognizing its customization model as a contemporary advantage. In an era dominated by mobile ordering and streamlined drive-thrus, Sonic's make-it-your-way complexity can feel inconvenient rather than premium.
 
-After reading and reviewing the slides, you should be able to provide a basic explanation of each of these concepts. To reinforce your understanding, I want you to undertake a “Design Blitz”. Carry your camera with you this unit and take photos of objects, ads, signs, etc. that illustrate one of these concepts. When you have completed your Design Blitz, **write a blog post** that embeds the photos and your analysis of the design elements and what makes them effective or not. (You can do this in one single post if you like, or in several.) **Provide an example of at least five of the concepts listed above. Make sure to tag your blog post "Design Blitz.** **PRO TIP:** Sometimes we can learn just as much from badly designed things as we can from well-designed things! So feel free to include bad elements as examples to avoid.
+---
 
-### 9. Typography Games
+## Campaign Objective
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+Reposition Sonic's customization and ordering flexibility as a modern advantage, not a retro gimmick.
 
-Typography is a CRITICAL part of how we tell stories. To practice some of our typography skillz (with a emphasized Z!) we are going to play some typography games. For this assignment, you are to choose three of these font games and play them for a little bit. **Write a short blog post about this experience (don't be afraid to include screenshots!). Tag your blog post "Typography."** Of course, you are more than welcome to play all of them if you want.
+---
 
-1. <a href="http://www.tothepoint.co.uk/more/fun/shoot_the_serif/" target="_blank">Shoot the serif</a>
-This is one of my favorites and if I was to say choose one it would be this one. It helps you practice identifying serif vs sans serif fonts.
+## Target Audience
 
-2. <a href="http://www.typeconnection.com" target="_blank">Type Connection</a>
-In this game, you'll choose a font as a main character, give them a story, and then find them a partner or love interest. This is a great game for understanding how fonts can take on certain personality types that you can leverage. Have you ever thought a font looked girly? Or formal? Or hipster? How can you take advantage of that if your brand appeals to audiences with similar characteristics?
+**Primary:** Ages 18–28 in Norman and OKC metro who value personalization and convenience.
+**Secondary:** Families seeking flexible meal options.
 
-3. <a href="http://www.empireonline.com/features/posterletters/" target="_blank">Poster Letters</a>
-This is a fun game where you try to guess a movie based off of one letter from the movie title as it appears on its poster. I'll be honest. When I played this game, I expected to do better than I actually did. Bragging rights for the person who gets the most right on this one.
+---
 
-4. <a href="http://typewar.com" target="_blank">Type War</a>
-This is a sort of "this or that" game where you look at a letter and decide what font it is. Want to know how to beat this game? Cheat. I'm dead serious. I think this one worth knowing enough that I would actually recommend you open up a word processing application such as Microsoft Word and literally figure it out before you answer. You'll still learn the different looks of fonts and it will get you a little further. If you can make it through all 10 levels of this game and send me a screenshot, I'll throw in some extra points this week.
+## Key Insight
 
-5. <a href="http://type.method.ac" target="_blank">Kern Type</a>
-Instructions (from the website): Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity _kerning_. Your solution will be compared to a typographer's solution, and you will be given a score depending on how close you nailed it. Good luck!
+People want food their way, but most fast-food chains make you settle for theirs.
 
-### 10. Finally, take the quiz!
+---
 
-At the end of each unit you will take a quiz on D2L <a href="learn.ou.edu" target="_blank">learn.ou.edu</a> that is worth a total of 20 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently. When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the <strong><a href="http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations" target="_blank">OU Guide to Academic Integrity</a></strong>.
+## Single-Minded Proposition
 
-## Week 2
+**At Sonic, you don't adapt to the menu. The menu adapts to you.**
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 26, 2016 at noon</div>
+---
 
-### Introduction
+## Tone & Personality
 
-So this is where we start to familiarize with ourselves with the tools we will be using throughout this course. Your main two tools in your toolbox will be using Adobe Photoshop and Adobe InDesign. Now I want to stress that this course isn’t all about using Photoshop and InDesign. It’s really thinking about how we can critically express PR messages through a visual medium. What this means is I’m not going to be giving you lesson after lesson on Photoshop. Rather we’ll be applying the tools to solve problems and create new works. As I mentioned in Lesson 1.2, there is some fundamental knowledge that is worth going through.
+Confident, playful, unapologetic, refreshingly flexible.
 
-For this week we are going to go through roughly two hours of tutorial videos on Lynda.com. The good news is that in several of these you will be following along with the tutorial leader (I believe his name is Justin) and will actually be doing several of the same things he is. If I was to give a recommendation on how to prepare for this, I would say break it up and allot yourself 90 minutes (minimum) for Photoshop and then come back later and doing 90 minutes (minimum) for InDesign.
+---
 
-**Some Lynda.com tips**
+## Deliverables & Media Requirements
 
-I've written a <a href="#what-are-some-tips-for-lyndacom">short answer in the FAQ</a> that I would recommend reading before you get started with Lynda.com. Feel free to check that out.
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Sonic's master brand
+- Three supporting graphic motifs
 
-**Downloading the Lynda.com Exercise files**
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, <strong>please let me know via email ASAP</strong>. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-![image](images/exfilesfolder-1030x612.png)
+---
 
-We will using the files inside of Chapter 06 and Chapter 07 for this week.
+## Visual Guardrails
 
-![image](images/chapt6-1030x615.png)
+- Avoid 1950s nostalgia tropes, checkered floors, or vintage car imagery.
+- Prioritize contemporary food photography with bold, clean styling.
+- Use color confidently but avoid artificial neon overload.
+- Typography should feel modern and accessible, not retro script.
+- Celebrate variety and choice visually without creating clutter.
 
-I've provided a couple of screenshots above of what those files should look like. Yours should look the same if you are on a Mac. The files will work either way whether you are on a Windows or Mac computer.
+---
 
-### 1. Understanding Adobe Photoshop
+## Brand Integrity Rules
 
-Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
+- The master Sonic logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Quality and customization claims must be visually implied, not written.
 
-To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos from "Introduction to Graphic Design" on Lynda.com and you will follow along with the corresponding exercise files. By the time you are done, you should have completely watching the following videos:
+---
 
-<table class="table  table-striped">
-<thead>
-  <tr>
-  <th>Video Name</th>
-  <th>Video Link</th>
-  </tr>
-  <tbody>
-    <tr>
-    <td>Getting started with Photoshop</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-Photoshop/419419/478871-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Making selections in Photoshop</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Making-selections/419419/478872-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Working with layer masks</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Working-layer-masks/419419/478873-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+## Mandatory Creative Elements
 
-    </tr>
-    <tr>
-    <td>Challenge: Masking</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Challenge-Masking/419419/478874-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+- Campaign tagline: *Order Your Way.*
+- At least one visual showcasing menu customization or variety.
+- Visual language that feels current, not nostalgic.
 
-    </tr>
-    <tr>
-    <td>Solution: Masking</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Solution-Masking/419419/478875-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+---
 
-    </tr>
-    <tr>
-    <td>Combining two images together</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Combining-two-images-together/419419/478876-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+## Practical Production Constraints
 
-    </tr>
-    <tr>
-    <td>Removing unwanted objects from photos</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Removing-unwanted-images/419419/478877-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-    </tr>
-    <tr>
-    <td>Changing the color of photos</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Changing-color-photos/419419/478878-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+---
 
-    </tr>
-    <tr>
-    <td>Converting images to black and white</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Converting-images-black-white/419419/478879-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+## Media-Specific Rules
 
-    </tr>
-    <tr>
-    <td>Cropping images nondestructively</td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Cropping-images-nondestructively/419419/478880-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-    </tr>
-    <tr>
-    <td>Saving your work for print
-    </td>
-    <td><a href="http://www.lynda.com/Illustrator-tutorials/Saving-your-Photoshop-files/419419/478881-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-    </tr>
-  </tbody>
-</thead>
-</table>
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-### 2. Understanding Adobe InDesign
+---
 
-InDesign is the page layout application that helps you aggregate the work that you've done in Photoshop and combine it with really amazing typographical tools to produce commercial print-ready files, interactive documents, and even tablet-based applications. I like to think of InDesign as sort of the steroid-infused cousin of Microsoft Word. InDesign lends itself really well to producing magazines, brochures, flyers, etc. Since this course focuses on PR Publications, specifically, we'll be spending a lot of time familiarizing ourselves with InDesign.
+## What Success Looks Like
 
-To better understand Adobe InDesign, we'll be watching the Chapter 07 videos from "Introduction to Graphic Design" on Lynda.com and, similarly to what we did with the Adobe Photoshop tutorials, you will follow along with the corresponding exercise files. By the time you are done, you should have completely watching the following videos:
+- Campaign feels modern, not retro.
+- All executions feel system-connected.
+- Work could plausibly appear in a professional Sonic campaign.
+- Customization feels like a strength, not complexity.
 
-<table class="table  table-striped">
-<thead>
-  <tr>
-  <th>Video Name</th>
-  <th>Video Link</th>
-  </tr>
-    <tbody>
-      <tr>
-      <td>Getting started with InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-InDesign/419419/478883-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </tr>
-      <tr>
-      <td>Creating a wireframe in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-wireframe-InDesign/419419/478884-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </tr>
-      <tr>
-      <td>Importing graphics into InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-graphics-InDesign/419419/478885-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Adjusting the fit of your graphics</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Adjusting-fit-graphics/419419/478886-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Creating master pages in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-master-pages-InDesign/419419/478887-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Getting your color swatches into InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-color-swatches-InDesign/419419/478888-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Importing text documents into InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-text-documents-InDesign/419419/478889-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Creating styles in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-styles-Indesign/419419/478890-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Working with tabs</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Working-tabs-InDesign/419419/478891-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Creating tables in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-tables-InDesign/419419/478892-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Adding the final touches to your design
-      </td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Adding-final-touches-your-design/419419/478893-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Creating PDFs in InDesign
-      </td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Packaging your work for print
-      </td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-    </tbody>
-</thead>
-</table>
 
-### 3. Complete a Newspaper Markup
+---
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
-Now that we know more about the tools we will be using, it will be helpful to also know the specific elements of a newsletter or newspaper. These are some key terms worth knowing:
-<ul>
-	<li>Masthead</li>
-	<li>Headlines</li>
-	<li>Deck</li>
-	<li>Subhead</li>
-	<li>Bylines</li>
-	<li>Body text</li>
-	<li>Photo cutline</li>
-	<li>Pull quote</li>
-	<li>Dividers</li>
-	<li>Jump Line</li>
-</ul>
-I go over these terms and show you where they correspond on the page in this video below:
+**Client:** Torchy's Tacos
+**Campaign:** *Taco Rebellion.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gdEgaOzrjLE" frameborder="0" allowfullscreen></iframe>
+---
 
-This short assignment is to grab any newspaper and see if you can locate all of these elements. Take a photo of the marked up newspaper and submit it in a blog post. <strong>Give you blog post the tag "Newspaper Markup"</strong>. Here's an example of a front page that displays all the elements:
+## Brand Background
 
-<a href="https://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg" target="_blank"><img class="wp-image-216 aligncenter" src="https://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716-300x300.jpg" alt="IMG_8460" width="436" height="436" /></a>
+Torchy's Tacos is a Texas-based fast-casual taco chain founded in Austin in 2006, now operating 130 company-owned locations across 15 states. Following a $400 million investment led by General Atlantic in 2020, Torchy's has aggressively expanded with plans to double its footprint. The brand generated $470 million in revenue (2023) and was ranked #2 fast-casual restaurant by USA Today readers in 2024, beating Chipotle. Torchy's refuses to franchise, maintaining control over quality and brand voice across all locations. The brand occupies a "craft-casual" niche, competing on creative menu innovation rather than price or customization.
 
-### 4. Practice with a Typesetting Assignment
+---
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+## Business Challenge
 
-Final task for the lesson! We are going to perform a Typesetting assignment where you recreate only the textual portion of the front page of a newsletter. I've provided you with an InDesign document that is already pre-populated with the masthead, images, and logos. You're job is to place the following:
-<ul>
-	<li>Headlines</li>
-	<li>Subheads</li>
-	<li>Bylines</li>
-	<li>Body text</li>
-	<li>Photo cutlines</li>
-	<li>Pull quotes</li>
-	<li>Dividers</li>
-	<li>Jump Line</li>
-</ul>
-You can download the necessary files by clicking the big button below:
+Torchy's rapid expansion—from 83 units (2020) to 130 (2024)—creates tension between maintaining its rebellious Austin identity and becoming a scalable regional chain. As the brand enters markets like Oklahoma City where it lacks cultural cache, it must prove it's more than "another Chipotle alternative." The fast-casual Tex-Mex segment is projected to reach $20.5 billion by 2025, intensifying competition. Additionally, Torchy's faces operational challenges including labor costs, supply chain complexity for fresh ingredients, and occasional food safety incidents that threaten its quality reputation. The core question: can Torchy's scale its "damn good" ethos without becoming generic?
 
-<a href="https://www.dropbox.com/s/joufn2cy8o21sva/TypesettingAssignment.zip?dl=0" class="btn btn-primary btn-default" target="_blank">Assignment Files</a>
+---
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/tnALQTucEzU" frameborder="0" allowfullscreen></iframe>
+## Campaign Objective
 
-If you need some extra guidance in how to lay text, refer to the Typesetting video above.
+Reinforce Torchy's as the unapologetically bold taco brand for people who reject boring food and cookie-cutter dining experiences.
 
-When you are complete, Export your InDesign document as a PDF and post a link to it on your blog. <strong>Tag your blog post "Typesetting Assignment"</strong>
+---
 
-### 5. Write a blog post reflecting on the week
+## Target Audience
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+**Primary:** Ages 21–32 in OKC metro who value flavor, creativity, and brands with personality.
+**Secondary:** Existing Torchy's fans and Texas transplants seeking familiar quality.
 
-Whew. You've made it! 'It's now time to write a post reflecting on what this week was like. Here's a template for a thorough blog post:
+---
 
-1. What were you asked to do?
+## Key Insight
 
-2. How did you respond to what you were asked to do?
+Most people settle for safe, predictable food. Some people refuse to.
 
-3. How did react to what you actually <em>did</em>?
+---
 
-4. Now go one level deeper: Why do you think your reaction was what it was?
+## Single-Minded Proposition
 
-Feel free to include images in your post if they help you convey what you are trying to say. Then <strong>tag your blog post "Reflection</strong>."
+**Torchy's doesn't do subtle. And neither should your taste buds.**
 
-### 6. Take the quiz
+---
 
-Once you've completed the assignments and activities above, you need to complete the quiz on D2L.
+## Tone & Personality
 
-## Week 3
+Bold, irreverent, confident, flavorful, unapologetic.
 
-### Introduction
+---
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 2, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 2, 2016 at noon</div>
+## Deliverables & Media Requirements
 
-Week 3 begins our very first design project, which is to design a business card and letterhead. This design project is due <strong>Thursday, June 2, 2016 at noon</strong>. This week we will be focusing on our first piece, the business card. Over the media attachments, you will notice an extra <a href="http://youtu.be/QXNpxlPiCbA" target="_blank">video on InDesign</a>. This is just a quick refresher in case you've forgotten anything over the last couple of weeks. I walk through the following:
-<ul>
-	<li><a href="http://youtu.be/QXNpxlPiCbA" target="_blank">Drawing Shapes</a></li>
-	<li><a href="http://youtu.be/QXNpxlPiCbA?t=4m52s" target="_blank">Placing an Image</a></li>
-	<li><a href="http://youtu.be/QXNpxlPiCbA?t=6m58s" target="_blank">Fit Content Proportionally</a></li>
-	<li><a href="http://youtu.be/QXNpxlPiCbA?t=7m47s" target="_blank">Scale Tool</a></li>
-	<li><a href="http://youtu.be/QXNpxlPiCbA?t=8m51s" target="_blank">Clipping Path</a></li>
-	<li><a href="http://youtu.be/QXNpxlPiCbA?t=9m59s" target="_blank">Effects Panel</a></li>
-	<li><a href="http://youtu.be/QXNpxlPiCbA?t=12m46s" target="_blank">Typesetting</a></li>
-</ul>
-As mentioned in Week 2, the way to be most effective with PR publications is to understand your public, so we are going to also walk through how to effectively complete design research.
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Torchy's master brand
+- Three supporting graphic motifs
 
-#### Some tips on business cards:
-<strong>1. Consider your essential text content.</strong>
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-Every business needs your name, your job title, and some form of contact information. The appropriate contact information can vary based on your organization. At minimum, you want to include a phone number and an email address. If your organization is strictly online or you want to drive traffic to the website, make sure to include the website URL. If you have a physical location, an address is most likely necessary. If your organization is very socially conscious or holds their mission in high regard, maybe consider putting the mission statement on the back of the card.
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-<strong>2. Legibility is key.</strong>
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-If you can't read the text on a business card, it is essentially useless. Make sure your font isn't too small. The best way to check for too small of font is to print your document out and actually look at it. Also make sure that your contrast is high. If you are using a dark background color, make the text white or light (and vice versa).
+---
 
-<strong>3. Keep your art simple.</strong>
+## Visual Guardrails
 
-Remember, business cards are fairly small so detailed images won't be very legible. This isn't the type of piece for a photo collage. Stick with your company logo and your organizations primary colors.
+- Avoid stereotypical Tex-Mex clichés (sombreros, piñatas, sugar skulls).
+- Food photography should emphasize texture, ingredients, and bold flavor.
+- Use color fearlessly but intentionally—avoid looking cartoonish.
+- Typography should feel energetic and handcrafted, not corporate.
+- Celebrate bold flavors visually without relying on flames or heat icons.
 
-### 1. Pick an organization and locate their logo
+---
 
-You will choose an organization for your assignment. It would serve you well to design for an organization you have an interest in. If you want to pursue event planning when you graduate, choose an organization that has a major event and design around that event. If you want to pursue corporate communications, choose an organization that is in need of or has an internal awareness campaign, and design around that. If you aren’t sure what you want to do when you graduate, choose an organization that you are interested in. If you love working with your fraternity or sorority, choose your sorority and identify its campaign need.  You may want to choose an organization that you will be able to develop a personal relationship with, as you may need assistance from the organization in the form of assets and information. It is best if you choose an organization that can be aware of your work for this class. You may choose an organization that already has public relations material, however, if you do, you will perform a redesign and develop new materials in a new design style.
+## Brand Integrity Rules
 
-### 2. Locate the organization logo
+- The master Torchy's logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Flavor and quality claims must be visually implied, not written.
 
-Once you have decided on an organization, you will need to locate their logo. If this is a local organization, my best advice is to email them and ask for a "high resolution or print ready" version of their logo. Usually, these will be a .eps file or a large size .pdf. It is also okay to use a large .jpg if that is all the company has. <strong>Do not just steal an image of Facebook</strong>. I've had several students attempt to do this before. Facebook compresses the image for screens meaning that it is no longer print ready.
+---
 
-### 3. Research: The Analysis-Synthesis Bridge Model
+## Mandatory Creative Elements
 
-I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
+- Campaign tagline: *Taco Rebellion.*
+- At least one visual highlighting Torchy's signature creative taco ingredients or flavor combinations.
+- Visual tone that feels rebellious but never sloppy.
 
-![synthesis](images/1_analysis-synthesis.png)
-<small>Source: <a href="http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html" target="_blank">http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html</a></small>
+---
 
-You'll notice that the process begins in the lower left quadrant where the designer states what we explicitly know about the organization. Moving to the upper lefthand quadrant, you begin to answer more abstract questions that aren't as concrete. As we move to the upper right hand corner, we start to interpret how we can leverage what we know to propel our design. The lower right hand quadrant is where the design begins to prototype the idea. Let's examine how we may use this for in researching for our PR Publications.
+## Practical Production Constraints
 
-![image](images/pr_analysis-synthesis.jpg)
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-### 4. Analyzing your organization
+---
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+## Media-Specific Rules
 
-For this blog post we are going to focus on the majority of the questions on this post.
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-![image](images/leftside.jpg)
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-Write a post that address the following questions:
-<ol>
-	<li>What is your organization's mission--the service or product it sells?</li>
-	<li>Who are its main competitors?</li>
-	<li>What are your organization's most dominant attitudes and core values?</li>
-</ol>
-<strong>Tag the post "Research."</strong>
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-### 5. Competitor Analysis: Create a Pinterest Board
+---
 
-We are now focusing solely on the upper left hand corner quadrant.
+## What Success Looks Like
 
-![image](images/upperleft.jpg)
+- Campaign feels bold and confident, never apologetic.
+- All executions feel system-connected.
+- Work could plausibly appear in a professional Torchy's campaign.
+- The brand personality comes through visually, not just verbally.
 
-For this part of the lesson, we want to conduct a competitor analysis on an organization similar to our own. It's even better if they have a visual strategy that you admire.
 
-#### How to Create a Pinterest Board
-**1. Create a Pinterest Account at <a href="http://pinterest.com" target="_blank">pinterest.com</a>**
-**2. Create a Board**
-![image](images/acroom-.jpg)
+---
 
-When creating your board, give it a relevant name to the project such as "JMC 3433 - Competitor Analysis." Also be sure that it is a PUBLIC board as we will be posting links to this board on our blog.
 
-![image](images/Screen-Shot-2015-01-06-at-12.49.01-PM.png)
+**Client:** Whataburger
+**Campaign:** *Still Ours.*
 
-**3. Add a pin**
+---
 
-![image](images/Screen-Shot-2015-01-06-at-1.15.25-PM.png)
+## Brand Background
 
-Once the board is created, we want to create pins. You have the ability to either add images from the web or images from your computer.
+Whataburger is a Texas-born fast-food chain founded in 1950, now operating 1,100 locations across 17 states with close to 800 in Texas alone. In June 2019, the founding Dobson family sold majority ownership to BDT Capital Partners, a Chicago-based investment firm, while retaining a minority stake. The sale triggered immediate backlash from Texans who viewed it as a betrayal of the brand's regional identity. Despite the controversy, Whataburger achieved record revenue and 9.4% sales growth in 2024. The brand is known for 24-hour service, customizable burgers, distinctive A-frame architecture, and average unit volumes of $3.54 million—the highest of any QSR burger chain. Oklahoma, an early expansion market, now has 18 locations.
 
-![image](images/Screen-Shot-2015-01-06-at-1.15.20-PM.png)
+---
 
-![image](images/Screen-Shot-2015-01-06-at-1.17.00-PM.png)
+## Business Challenge
 
-Once you have uploaded the image, pick the board you want the image to go in and add a short description about the image. It's helpful if the description is relevant to class!
+Whataburger faces a credibility crisis with its core Texas audience. Since the 2019 BDT Capital acquisition, customer complaints have surged regarding declining food quality—cold fries, smaller portions, slower service—though the company denies any operational changes. Online reviews are brutal (1.1–1.5 stars on complaint sites), and social sentiment reflects a belief that "Whataburger isn't what it used to be." The challenge is perceptual as much as operational: how does a brand synonymous with Texas pride rebuild trust after selling to a Chicago firm? Meanwhile, accelerated expansion into states like North Carolina risks spreading the brand too thin while the Texas base remains skeptical. Whataburger must prove its authenticity is non-negotiable, not just marketing.
 
-<a href="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png" target="_blank"><img  src="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"></a>
+---
 
-Your final Pinterest board should look something like this:
+## Campaign Objective
 
-<a href="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png" target="_blank"><img  src="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"  /></a>
+Reaffirm Whataburger's unwavering Texas identity and demonstrate that authenticity isn't negotiable, regardless of ownership structure.
 
-### 6. Competitor Analysis: Blog Post
+---
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+## Target Audience
 
-Create a new blog post where you will:
-<ol>
-	<li>Answer the following questions:
-<ol>
-	<li>How does your organization differ from its competitors?</li>
-	<li>How should your organization's image and message differ from its competitors?</li>
-</ol>
-</li>
-	<li>Add a link to your Competitor Analysis Pinterest Board. You will find it in the address bar of your browser:</li>
-</ol>
+**Primary:** Ages 18–30 in Oklahoma and Texas who value regional identity and authenticity.
+**Secondary:** Whataburger loyalists seeking reassurance of unchanged quality and values.
 
-![image](images/Screen-Shot-2015-01-06-at-1.12.58-PM.png)
+---
 
-<strong> Tag the blog post "Research."</strong>
+## Key Insight
 
-### 7. Build a Communications Strategy
+Most brands claim to care about where they're from. Whataburger never had to claim it.
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+---
 
-Moving on in our hike across the Analysis-Synthesis Bridge Model, we are going to now move to the upper right hand quadrant.
+## Single-Minded Proposition
 
-![image](images/upperleft.jpg)
+**You can't fake Texas. And we never have.**
 
-Create a new blog post. For this blog post, I want you to try to "destructure" what you know about writing so far. Have you taken off your super professional writer hat? Good. Now, put on your brainstorming hat. With this post, you have permission to be brief and sloppy! I want you to really ideate and write as many ideas down as you consider the following questions: What kind of visual language will you use? Will the visuals be type or image driven? What do the type and images need to mean? What connotations do they need to have? As you make your way these questions, begin to visualize your business card, what it looks like, and the message it sends when someone hands it out.
+---
 
-### 8. Inspiration and Mood Boards
+## Tone & Personality
 
+Proud, straightforward, unwavering, authentically Texan, unpretentious.
 
-Now that we are Pinterest pros, we are going to use the same technique to think about our own pieces. We are going to create two separate boards with different purposes:
-<ol>
-	<li><strong>Create a Pinterest Inspiration Board</strong> - For this board, you want to show examples of other campaign designs that you will draw inspiration from. I've created an example board which you can <a href="http://www.pinterest.com/acroom/letterhead-inspiration-jmc3433-004/" target="_blank">view here</a>.</li>
-	<li><strong>Create a Pinterest Mood Board</strong> - Next we are going to create a Pinterest mood board. A mood board is a series of photographs or designs that embody the visual spirit of your proposed design. You can check out some <a href="http://www.pinterest.com/mindbolt/inspiring-mood-boards/" target="_blank">great mood boards examples here</a>.</li>
-</ol>
-Once you have completed those, add the links to your Pinterest boards in your previous Communications Strategy post that you wrote or simply create a new post.
+---
 
-### 9. Begin your design: Setup your InDesign document
+## Deliverables & Media Requirements
 
-![image](images/Screen-Shot-2015-01-06-at-10.11.19-PM.png)
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Whataburger's master brand
+- Three supporting graphic motifs
 
-Your document will look like this:
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-<a href="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM.png" target="_blank"><img src="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM-1030x644.png" alt="Screen Shot 2015-01-06 at 10.18.49 PM"/></a>
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-The black border is where the business card would be cut if it is sent to the printer. The red indicates that we have set up a .25" bleed. Make sure to extend your background color to the red. The pink/purple box are our margins. Keep all important information (logo, text) within this space for safety!
+---
 
-<strong>3. Save, save, save your document. Then save again.</strong>
+## Visual Guardrails
 
-It is utmost importance that you save your work early and often. Save the file as an INDD. If you are not using your own computer, save it onto a thumb drive or external hard drive. Be sure to do the same thing with any other files that correspond with the publication (images, fonts, etc.).
+- Avoid stereotypical Texas clichés (cowboy hats, boots, longhorns, state outlines).
+- Photography should feel real and unvarnished—actual people, actual locations.
+- Respect the iconic orange and white but use them with restraint and purpose.
+- Typography should feel honest and unfussy, not overly designed.
+- Celebrate Texas identity through authenticity, not symbols.
 
-<strong>4. Get to work!</strong>
+---
 
-Time to put all of your time from last weeks tutorials to work. Start by placing your logo and dropping in some of your important text.
+## Brand Integrity Rules
 
-### 10. Design your letterhead
+- The master Whataburger logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Quality and Texas origin claims must be visually implied, not written.
 
-For this assignment, you are being asked to design a business card and a paired letterhead. You want your letterhead to have a very similar look and feel to the brand design you create for the business card.
+---
 
-In your letterhead's text, I want you to write a letter from someone at the company so that you can show what text looks like on the page. This could be a Letter from the CEO thanking a donor, an internal memo, etc. The letterhead to be 8.5 in. x 11 in. The number of columns, margins, and bleed is up to you. Below is a screenshot of a dialogue box and of my recommendation for how you should set it up:
+## Mandatory Creative Elements
 
-![image](images/letterhead.png)
+- Campaign tagline: *Still Ours.*
+- At least one visual that communicates Texas authenticity without relying on obvious Texas iconography.
+- Visual language that feels genuine and earned, not manufactured.
 
-### 11. Write a reflection post
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+---
 
-I want you to reflect on the whole process of your first design project. You accomplished a lot! You've researched a company or organization that you chose, revised drafts, and gave/received feedback. Not bad, eh? I've included below some questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
+## Practical Production Constraints
 
-1. What were you asked to do?
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-2. How did you respond to what you were asked to do?
+---
 
-3. How did react to what you actually <em>did</em>?
+## Media-Specific Rules
 
-4. Now go one level deeper: Why do you think your reaction was what it was?
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-Supplemental questions:
-<ul>
-	<li>Any long term goals for this design? Do you have any interest in actually pitching this to the organization?</li>
-	<li>Do you or do you not feel yourself becoming more confident with the tools you are being asked to used?</li>
-	<li>Is there anything you would do differently if you were to start over?</li>
-	<li>Do you have any recommendations for future students doing this project?</li>
-</ul>
-<strong>Tag your blog post "Reflection." Make sure you embed both of your final products!</strong>
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-### 12. Take the quiz
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-The quiz is due Thursday, June 2, 2016.
+---
 
-### 13. Turn in work to the Dropbox
+## What Success Looks Like
 
-The submission needs to be turned in by Thursday, June 9, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
+- Campaign feels authentic and grounded, not performative.
+- All executions feel system-connected.
+- Work could plausibly appear in a professional Whataburger campaign.
+- Texas identity feels earned and real, not decorative.
 
-## Week 4
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 9, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 9, 2016 at noon</div>
+---
 
-### Introduction
+## Apparel & Footwear
 
-<strong>For this next design project, you are only allowed to use Adobe Photoshop</strong>. Since we've spent a fair amount of time bonding with InDesign, Photoshop has felt a little lonesome. It's time to give PS some love.
 
-This week brings Design Project #2, where you will designing two direct mailers for two separate separate stakeholders. <strong>Design Project #2 is due June 9, 2016</strong>. Deliverables for Design Project #2 are as followed:
-<ul>
-	<li>One completed segmentation matrix</li>
-	<li>Two separate mailers turned in as JPGs (front and back for both)</li>
-</ul>
+**Client:** Alo Yoga
+**Campaign:** *Move Like You Mean It.*
 
-We will be analyzing these two separate stakeholders through completing a segmentation matrix.  Similar to the first project, an excellent final product will be one where you can demonstrate proficiency in creating the full print product, where the design clearly ties to the stakeholder, it's not cluttered, it has excellent readability, and where you have effective use of contrast, proximity, alignment &amp; repetition. <strong>Make sure your direct mailer also has a clear call to action for the recipient</strong>. To get clear information on how this assignment will be graded, you'll find a grading rubric below.
+---
 
-<a href="https://www.dropbox.com/s/foviw0idvjqtplf/Assignment%20Two%20Rubric.pdf?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Grading Rubric</a>
+## Brand Background
 
-Through the segmentation matrix, you will want to demonstrate clear knowledge of how to prioritize stakeholders by attributes, situation, and communication strategy. Additionally it needs to demonstrate clear knowledge of stakeholder by generation, life stage, social class, lifestyle, gender, and race/nationality. The document must be typed.
+Alo Yoga is a Los Angeles-based athleisure brand founded in 2007 by co-CEOs Danny Harris and Marco DeGeorge, who retain 100% ownership. The company generates over $1 billion in annual revenue and operates 100–130 stores globally after explosive growth from just 10 locations in early 2023. Alo employs 1,167 people and maintains a 75% DTC / 25% wholesale business model. The brand built its success on Instagram-first marketing, influencer partnerships (4,000+ yoga instructors in its "Pro Program"), and celebrity seeding. Alo runs two distinct Instagram accounts: @alo (fashion/celebrity-focused) and @aloyoga (yoga authenticity). The brand currently holds 1.3% of the US athleisure market.
 
-### 1. Understand the client and assignment
+---
 
-The client who you will be designing for is OU Recruitment Services. OU Recruitment Services strives to recruit highly qualified direct from high school and transfer students to the University of Oklahoma. Recruitment Services mission is to provide services that will help any student find post-secondary educational opportunities.  These services include, but are not limited to, helping prospective students make educated decisions through the admission, housing, scholarship, and financial aid processes.
+## Business Challenge
 
-Your objective is to create two direct mailers for OU Recruitment Services that are directed at two different stakeholders. Knowing that OU Recruitment Services aim is to recruit new students, you'll want to be thinking about who are stakeholders that could influence a decision like that?
+Despite rapid growth, Alo faces a critical retention problem: only 16.5% of customers make repeat purchases long-term, compared to Lululemon's 36.2%. While 63% of Alo customers also shop at Lululemon, Alo hasn't converted Instagram engagement into sustained loyalty. The brand grew on influencer culture and aspirational celebrity associations, but as it scales to 100+ stores, it risks becoming another Lululemon clone without a distinct functional or emotional advantage. Average customer age is 28—younger than Lululemon—but younger consumers are notoriously fickle. The challenge: can a brand built on "studio to street" aesthetics convince customers it's worth coming back to, or will it remain a one-time Instagram-influenced purchase?
 
-As mentioned above, every direct mailer needs a specific call to action. The call to action is up to you, and should be based upon the knowledge you gather about your stakeholder.
+---
 
-### 2. Understanding publics and stakeholders
+## Campaign Objective
 
-One of the most important steps in strategic and effective public relations is accurately identifying the publics with which you want to build mutually beneficial relationships. A popular axiom for public relations is that there is no such thing as a “general public.” In other words, an organization has a variety of key groups who bring different expectations for their relationship with the organization. These differences help an organization segment its publics into groups with similar values and expectations and to focus communication strategies.
+Shift Alo's positioning from aspirational fashion brand to movement-first performance brand that happens to look good—building loyalty beyond aesthetics.
 
-Below, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix.
+---
 
-<a href="http://2012books.lardbucket.org/books/public-relations/s08-identifying-and-prioritizing-s.html" class="btn btn-lg btn-primary" target="_blank">Identifying Stakeholders and Prioritizing Stakeholders and Publics</a>
+## Target Audience
 
-You can prioritize them three different ways:
+**Primary:** Ages 22–32 in OKC metro who practice yoga, value wellness, and engage with fitness content on Instagram and TikTok.
+**Secondary:** Existing Alo customers who need a reason to return beyond another influencer post.
 
-#### By Attributes
-<ul>
-	<li><strong>Definitive Stakeholders</strong> - An expectant stakeholder who gains the relevant missing attribute. Often dominant stakeholders with an urgent issue, or dependent groups with powerful legal support. Finally those classed as dangerous could gain legitimacy e.g. democratic legitimacy achieved by a nationalist party.</li>
-	<li><strong>Dominant Stakeholders</strong> - The group that many theories position as the only stakeholders of an organisation or project. Likely to have a formal mechanism in place acknowledging the relationship with the organisation or project e.g. Boards of directors, HR department, public relations.</li>
-	<li><strong>Dependent Stakeholders</strong> – Stakeholders who are dependent on others to carry out their will, because they lack the power to enforce their stake. For example local residents &amp; animals impacted by the BP oil spill. Advocacy of their interests by dominant stakeholders can make them definitive stakeholders.</li>
-	<li><strong>Dangerous Stakeholders</strong> – Those with powerful and urgent claims will be coercive and possibly violent. For example employee sabotage or coercive/unlawful tactics used by activists. Note that Mitchell et al. identify these stakeholders, but don't require them to be acknowledged &amp; thus awarded legitimacy (ibid, p.878).</li>
-	<li><strong>Dormant Stakeholders</strong> - Possess power to impose their will through coercive, utilitarian or symbolic means, but have little or no interaction /involvement as they lack legitimacy or urgency.
-<strong>Discretionary Stakeholders</strong> - Likely to recipients of corporate philanthropy. No pressure on managers to engage with this group, but they may choose to do so. Examples are beneficiaries of charity.
-<strong>Demanding Stakeholders</strong> - Those with urgent claims, but no legitimacy or power. Irritants for management, but not worth considering. Examples are people with unjustified grudges, serial complainers or low return customers.</li>
-</ul>
-<small><a href="http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html" target="_blank">Source</a></small>
+---
 
-#### By Situation
-<ul>
-	<li><strong>Active publics</strong>. This group is highly involved and actively seek information and act on that information.</li>
-	<li><strong>Aware publics.</strong> This group will process information and might act, but are limited by lower levels of involvement and problem recognition, or higher levels of constraint recognition</li>
-	<li><strong>Aroused publics.</strong> This group has low levels of knowledge, but recognize a potential problem or issue. As their level of involvement is heightened, and they are more likely to begin seeking information.</li>
-	<li><strong>Inactive publics. </strong>Inactive as groups of individuals with low levels of knowledge and involvement regarding an organization and its operation</li>
-</ul>
+## Key Insight
 
-#### By Communication Strategy
-<ul>
-	<li><strong><span class="margin_term"><a class="glossterm">Advocate stakeholders</a></span>.</strong> This is the group that you want involved in supportive actions such as third-party endorsements, letter-writing campaigns, donations, investments, and attendance at functions. Communication should be action and behavior oriented.</li>
-	<li><strong><span class="margin_term"><a class="glossterm">Dormant stakeholders</a></span></strong>. This is a group that is not ready to be involved. If inactivity is due to lack of knowledge, messages should focus on creating awareness and understanding of the issues that affect them. If the publics are aroused, but not active, then communication should address potential causes of apathy by reducing perceptions of constraints or using affective cues to increase emotional attachment.</li>
-	<li><strong><span class="margin_term"><a class="glossterm">Adversarial stakeholders</a></span></strong>. The initial response to this group is to be defensive. However, defensive communication will not work on this group, it will only entrench them in their position. Defensive communication is better intended for aroused publics who have not decided whether they are supportive or not. Instead, organizations should use conflict resolution strategies that involve nonsupportive stakeholders to seek win-win solutions.</li>
-	<li><strong><span class="margin_term"><a class="glossterm">Apathetic stakeholders</a></span></strong>. Again, the gut reaction to this group is to ignore it. But if this group faces an issue but is not aware of it or does not see its resonance yet, it may still move to an aroused, then aware, and then active public. A better strategy is to increase awareness of the issue with an invitation to collaborate with the organization on the issue before it becomes a problem or crisis. Since it would be difficult to get this group involved, most of the communication effort should be focused on increasing the salience of the issue and invitations for involvement.</li>
-</ul>
-<small>From “Identifying and Prioritizing Stakeholders and Publics”, chapter 7 from the book <a href="http://2012books.lardbucket.org/books/public-relations/index.html" target="_blank">Public Relations</a> (v. 1.0). Licensed under a <a href="http://creativecommons.org/" target="_blank">Creative Commons</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="license">by-nc-sa 3.0</a> license.</small>
+People buy Alo because it looks good in photos. They keep buying it when it performs in real life.
 
-### 3. Define your stakeholder
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+---
 
-It will be your choice to decide who to direct their mailers towards. One obvious stakeholder is the prospective student, but there can be several influencers on the decision to attend an institution. To better target the stakeholder, you'll want to be more specific about who that student actually is. Rural / urban? 18 years old or a transfer student? Are their parents alumni? Do they attend sporting events? ACT score? Household income? <strong>Come up with a statement that pinpoints the stakeholder</strong>. Examples are below:
-<ul>
-	<li>17-19 years of age, ACT/SAT accepted scores, Income: $90,000</li>
-	<li>North American Females (17-23 years old) who have already been accepted to OU</li>
-	<li>Entry level employees and recent graduates (21-30, avg. age of 23)</li>
-	<li>High school seniors who are National Merit Scholars that are trying to choose a school. (17-18 yo)</li>
-</ul>
-You can see with how with these different publics, that you would want to target different messages. For someone with the ACT score to qualify at you, you may be encouraging them to apply. For a female that has been accepted, you may be inviting them to join an on campus organization. For someone who already who has already graduated, you may be targeting them for grad school. You could come up with hundreds of different individuals, at different stages of the recruitment experience, that would require different messages.
+## Single-Minded Proposition
 
-Once you've defined your stakeholder, you'll want to <strong>write a short blog post</strong> brainstorming who this stakeholder is and what messages one might be directing towards them. <strong>Tag your post Stakeholder</strong>.
+**Alo isn't for looking like you work out. It's for actually working out.**
 
-### 4. Complete the Segmenting Stakeholders matrix
+---
 
-Below to this page, you'll find a word document which needs to be completed for a stakeholder. Now that you have information on how to prioritize stakeholders, you'll want to apply that to the stakeholder you defined earlier. In the stakeholder matrix, you will prioritize them by attributes, situation, and communication strategy.
+## Tone & Personality
 
-<a href="https://www.dropbox.com/s/cu0yfbho5yge4b0/Segmenting20Stakeholders20Matrix.docx?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Segmenting Stakeholders Matrix</a>
+Intentional, grounded, movement-focused, unpretentious, elevated.
 
-Once that is complete, you'll begin to attempt to understand the stakeholders. I've also included several documents that will assist you with that portion of the matrix. These include the documents titled:
+---
 
-<a href="https://prpubs.us/file/149826" class="btn btn-lg btn-primary" target="_blank">VALS</a>
-<a href="https://prpubs.us/file/159826" class="btn btn-lg btn-primary" target="_blank">Generation Segmentation</a>
-<a href="https://prpubs.us/file/169826" class="btn btn-lg btn-primary" target="_blank">Life Stages</a>
-<a href="https://prpubs.us/file/179826" class="btn btn-lg btn-primary" target="_blank">Social Class</a>
+## Deliverables & Media Requirements
 
-Last, I've included a sample completed matrix. While this assignment may feel time consuming, it will help you understand the values and expectations of your stakeholder and focus your communication strategies.
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Alo's master brand
+- Three supporting graphic motifs
 
-<a href="https://www.dropbox.com/s/cr2qpzhibrk0bto/gamermatrix-2-2.docx?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Sample Segmenting Stakeholders Matrix</a>
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-### 5. Draft your first direct mailer
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-Below you will find a screenshot of the dialogue box for a new Photoshop document.
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-<a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" /></a>
+---
 
-Remember: One difference between Photoshop and InDesign is that Photoshop creates a single image whereas InDesign allows you to create document packages. Because of this, you will want to do this process TWICE so that you have one document that is the front and one that is the back.
+## Visual Guardrails
 
-You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
+- Avoid posed, aspirational lifestyle shots and influencer aesthetics.
+- Prioritize real movement, sweat, effort, and authentic practice over perfect poses.
+- Show functional details (fabric stretch, moisture management, movement range).
+- Typography should feel active and kinetic, not decorative or zen.
+- Celebrate the work of movement, not the performance of wellness.
 
-<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" target="_blank" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
+---
 
-### 6. Define your second stakeholder
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+## Brand Integrity Rules
 
-Now that you've defined your first stakeholder you want to design a direct mailer towards a second stakeholder. Though it's not required, it's preferred that you stakeholder has some level of influence on your first stakeholder. This could be a parent, a relative who is an alum, a friend of the stakeholder, someone in a similar geographical area, etc. Write a blog post defining who this second stakeholder is and tag the post <strong>Stakeholder</strong>.
+- The master Alo logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
 
-### 7. Complete the Segmenting Stakeholders Matrix (optional)
+---
 
-This is NOT required this week, but I do want you to do it if you want to complete the exercise again in order to start to generate ideas about how you can specifically target your next stakeholder. Feel free to also do the research methods of the previous assignments as well, such as the the Analysis-Synthesis Bridge model or creating a Pinterest Board. A download button is below for a blank matrix if you so desire to go that route.
+## Mandatory Creative Elements
 
-<a href="https://www.dropbox.com/s/o8hhqa8ewblmudd/SegmentingStakeholdersMatrix.docx?dl=0" target="_blank" class="btn btn-primary btn-primary">Download the Matrix</a>
+- Campaign tagline: *Move Like You Mean It.*
+- At least one visual demonstrating actual athletic performance or practice (not posing).
+- Visual language that prioritizes function over fashion.
 
-### 8. Draft your second direct mailer
+---
 
-Below you will find a screenshot of the dialogue box for a new Photoshop document. <a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"/></a> Keep it mind that you will want to do this process TWICE so that you have one document that is the front and one that is the back. You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
+## Practical Production Constraints
 
-<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" target="_blank" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-### 9. Write your reflection post
+---
 
-I want you to reflect on the whole process of your second design project. You accomplished a lot! I've included below the usual questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
+## Media-Specific Rules
 
-1. What were you asked to do?
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-2. How did you respond to what you were asked to do?
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-3. How did react to what you actually <em>did</em>?
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-4. Now go one level deeper: Why do you think your reaction was what it was?
+---
 
-Supplemental questions:
-<ul>
-	<li>Do you or do you not feel yourself becoming more confident with the tools you are being asked to used?</li>
-	<li>What are some differences you found between Photoshop and InDesign? Do you feel like you prefer either one?</li>
-	<li>Is there anything you would do differently if you were to start over?</li>
-</ul>
-<strong>Tag your blog post "Reflection."</strong>
+## What Success Looks Like
 
-### 10. Take the quiz
+- Campaign shifts perception from "Instagram brand" to "performance brand."
+- All executions feel system-connected.
+- Work could plausibly live in a professional Alo campaign.
+- Movement feels central, aesthetics feel secondary.
 
-The quiz is due Thurs. June 2, 2016 at noon.
 
-### 11. Turn in both direct mailers into the D2L Dropbox.
+---
 
-The submission needs to be turned in by Thurs., June 2, 2016. You will need to turn in four total saved JPGs (1. front and 2. back of first direct mailer and 3. front and 4. back of the second direct mailer). If you don't remember how to save as a JPG, please re-watch the Lynda.com video below:
 
-<a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a>
+**Client:** New Balance
+**Campaign:** *Earned, Not Given.*
 
-## Week 5
+---
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 16, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 16, 2016 at noon</div>
+## Brand Background
 
-### Introduction
+New Balance achieved $7.8 billion in revenue in 2024 (+20% YoY), marking its fourth consecutive year of over 20% growth. The Boston-based company remains privately held, with 95% ownership by the Davis family since Jim Davis acquired it in 1972. New Balance has capitalized on Nike's market share decline (dropping double digits) by expanding retail partnerships and occupying more shelf space than ever. The brand operates 90 new stores with 50 remodels planned (2024), scores a 91 Digital Experience Score (vs. Nike's 53), and has successfully repositioned its "dad shoe" heritage—particularly the 990 series—into cultural relevance. The company aims to reach $10 billion in sales within the next few years.
 
-During the past several lessons, you've been working in what I call "capital A" Applications. Photoshop, InDesign, and even Wordpress to a degree, are applications that do a lot of "stuff." They are big, robust, systems that give you the freedom to build and manipulate canvases of any shape and size. While understanding these products and the language that comes with it is great, we are simultaneously living in a world where photo manipulation is mainstream through applications such as Instagram which have streamlined the editing process. These "small A" apps give end users more constraints such as a limited number of templated filters. Yet in situation where you have a specific targeted outcome, such as a very specific size, look, and feel, the ability to quickly create your work can be a worthy tradeoff.
+---
 
-For this lesson, we will be exploring a new, web-based design application called Canva. Throughout this lesson, I want you to consider:
-<ul>
-	<li>What are some of the affordances that an app like Canva brings?</li>
-	<li>What limitations does an app like Canva have?</li>
-	<li>How can a public relation practitioner leverage tools like Canva?</li>
-</ul>
-In this lesson, you are going to be asked to design a suite of social media assets for a new, integrated PR social media campaign. These pieces will include:
-<ul>
-	<li>Facebook Cover</li>
-	<li>Twitter Cover</li>
-	<li>Facebook Post</li>
-	<li>Instagram Post</li>
-</ul>
+## Business Challenge
 
-### 1. Choose an organization/company
+New Balance's resurgence is real, but sustainability isn't guaranteed. The brand still operates at smaller marketing scale than Nike and Adidas, with limited presence in crucial growth markets (China, India, Southeast Asia). While the "dad shoe" trend propelled the 990 series into fashion relevance, trends fade—and New Balance is still primarily known for running shoes, lacking diversification across sports and lifestyle categories. The company must prove its comeback is structural, not cyclical. As Nike stumbles and opens market share, multiple competitors (On Running, Hoka, Asics) are also capitalizing. New Balance's challenge: convert trend-driven customers into loyal advocates who choose the brand for performance, not just because it's cool right now.
 
-You can choose any company or organization that you would like to design for. Since these are all web graphics, high resolution logos aren't nearly as necessary as they would be for a print publication. In fact, you may find that, in the context of social media, there isn't a significant need for a logo as the brand marking probably already exists somewhere on their social media page. That said, if its a major brand, a good place to look for high resolution logos is a website called <a href="http://www.brandsoftheworld.com">Brands of the World</a>. <strong>Note:</strong> If you are interested in an extra credit opportunity, you'll want to pick someone that you are more likely to be able to contact after the project is complete.
+---
 
-### 2. Read the following article
+## Campaign Objective
 
-<a href="http://www.cision.com/us/2014/11/daily-social-media-design-ideas-for-pr-pros/" target="_blank" class="btn btn-primary btn-primary">7 Social Media Design Ideas for PR Pros</a>
+Position New Balance's heritage and "Fearlessly Independent" ethos as a competitive advantage—celebrating the brand's refusal to follow trends while ironically benefiting from one.
 
-This article will be helpful in coming up with a theme for your campaign. The idea is that you have a consistent, integrated message throughout all of these pieces. Essentially, they all will look like variations of the same piece. Some ideas for potential messages include:
-<ul>
-	<li>Creating inspirational quote graphics</li>
-	<li>Designing an infographic</li>
-	<li>Sparking a conversation with an open ended question graphic</li>
-	<li>Promoting your website's blog</li>
-	<li>A cross promotion of the company's various social media pages</li>
-	<li>Thanking the company's or organization's followers</li>
-</ul>
-This list is meant to merely get you thinking about different types of campaigns you can build as you are, of course, not limited to any of these options. To get more ideas, you might consider creating a social media focused Pinterest board.
+---
 
-### 3. Complete Canva tutorials
+## Target Audience
 
-You'll have to first create an account with Canva. After you do that, you'll find a set of short tutorials that will familiarize you with the tool. <strong>Complete all the required tutorials and complete TWO additional tutorials.</strong>
+**Primary:** Ages 25–44 in OKC metro (38% of customer base) who value performance, heritage, and brands with authenticity.
+**Secondary:** Ages 18–34 (32% of customer base) drawn to New Balance through recent cultural momentum.
 
-#### Required Tutorials
+---
 
-<table class="table  table-striped">
-<thead>
-  <tr>
-  <th>Video Name</th>
-  <th>Video Link</th>
-  </tr>
-  <tbody>
-    <tr>
-    <td>Beginner's Challenge</td>
-    <td><a href="https://designschool.canva.com/tutorials/beginners-challenge/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Essential Canva Tools</td>
-    <td><a href="https://designschool.canva.com/tutorials/essential-canva-tools/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Less is More</td>
-    <td><a href="https://designschool.canva.com/tutorials/less/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
+## Key Insight
 
-  </tbody>
-</thead>
-</table>
+People respect brands that don't chase approval—especially when those brands quietly outperform the ones that do.
 
-#### Additional tutorials
+---
 
-<table class="table  table-striped">
-<thead>
-  <tr>
-  <th>Video Name</th>
-  <th>Video Link</th>
-  </tr>
-  <tbody>
-    <tr>
-    <td>Designing for Social Media</td>
-    <td><a href="https://designschool.canva.com/tutorials/design-social-media/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Introduction to Infographics</td>
-    <td><a href="https://www.canva.com/design/DABK5q4lV7o/Nd9PZqprDu1Tac9pv0VXeg/edit" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Designing with Shapes</td>
-    <td><a href="https://designschool.canva.com/tutorials/designing-shapes/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>The Art of Alignment</td>
-    <td><a href="https://designschool.canva.com/tutorials/art-alignment/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Working With White Space</td>
-    <td><a href="https://designschool.canva.com/tutorials/working-white-space/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
-    <tr>
-    <td>Harnessing Hierarchy</td>
-    <td><a href="https://designschool.canva.com/tutorials/harnessing-hierarchy/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-    </tr>
+## Single-Minded Proposition
 
-  </tbody>
-</thead>
-</table>
+**New Balance doesn't care if you think we're cool. We care if you think we're better.**
 
-### 4. Design your first social media piece on Canva
+---
 
-Below is a quick reference tutorial for working through Canva. As you've learned from the tutorials, Canva offers thousands of free photos, backgrounds, and layouts. You are more than welcome to begin your work from one of those areas. For my project, I uploaded my own images for a social media campaign around a fictional "Open House" at Gaylord College.
+## Tone & Personality
 
-#### 1. Choose the asset you want to begin to design.
+Confident, unpretentious, performance-focused, independently-minded, quietly superior.
 
-For me, I chose the Facebook cover as it gives me a lot of real estate.
+---
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva1.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva1.png" alt="canva1" /></a>
+## Deliverables & Media Requirements
 
-It will give you a work space that looks like this,
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements New Balance's master brand
+- Three supporting graphic motifs
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva2.png" target="_blank"><img  src="http://prpubs.us/wp-content/uploads/2015/03/canva2.png" alt="canva2"  /></a>
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-#### 2. Add a background, texture, or image. Your discretion.
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva3.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva3.png" alt="canva3" /></a>
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-#### 3. Add any other elements such as text, icons, graphics, etc.
+---
 
-One thing to remember with social media design is that you want to be minimal with the text on your graphics. Remember, you'll have space within the post to elaborate on your message.
+## Visual Guardrails
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva4.png" target="_blank"><img  src="http://prpubs.us/wp-content/uploads/2015/03/canva4.png" alt="canva4" /></a>
+- Avoid hype culture, sneakerhead aesthetics, or trend-chasing imagery.
+- Prioritize real performance contexts (running, training, movement) over lifestyle.
+- Use clean, restrained design that reflects engineering over decoration.
+- Typography should feel precise and functional, not flashy.
+- Show the work—training, effort, miles—not the rewards.
 
-#### 4. Download the design as an image.
+---
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva5.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva5.png" alt="canva5"  /></a>
+## Brand Integrity Rules
 
-After it's done processing, it will automatically download a copy of the image to your computer. This is what you'll turn into the Dropbox.
+- The master New Balance logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva6.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva6.png" alt="canva6"  /></a>
+---
 
-### 5. Design Design the other three pieces
+## Mandatory Creative Elements
 
-These pieces will have the same look and feel as your first piece. For example, below I've taken my Facebook Cover and did a similar treatment to a Facebook post. I added some icons to give it a little more depth and elaborated on the text a bit.
+- Campaign tagline: *Earned, Not Given.*
+- At least one visual demonstrating performance or craftsmanship (USA manufacturing, engineering, testing).
+- Visual language that prioritizes substance over style.
 
-<a href="http://prpubs.us/wp-content/uploads/2015/03/canva71.png" target="_blank"><img  src="http://prpubs.us/wp-content/uploads/2015/03/canva71.png" alt="canva7" /></a>
+---
 
-### 6. Turn in your work on D2L.
+## Practical Production Constraints
 
-The submission needs to be turned in by Thursday, June 16, 2016. You will need to turn in four total saved JPGs (1. Facebook Cover 2. Facebook Post 3. Twitter Cover 4. Instagram Post).
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-### 7. Take the quiz.
+---
 
-The quiz is due Thursday, June 16, 2016.
+## Media-Specific Rules
 
-## Week 6
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 23, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 23, 2016 at noon</div>
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-### Introduction
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-Week 6 is Design Project #4 and we’re going back to our roots: InDesign. Design Project #4 is about designing a newsletter, so we’ll be focusing on how to create long-form documents within InDesign.
+---
 
-#### Project Requirements:
+## What Success Looks Like
 
-Three pages (minimum)
-Four complete stories (minimum) (Stories do not have to be original! In fact I *encourage* you to find stories that are listed in the news section of the company or organization website and adapt them to fit the newsletter.
+- Campaign feels grounded in performance, not trends.
+- All executions feel system-connected.
+- Work could plausibly live in a professional New Balance campaign.
+- Independence feels like strength, not stubbornness.
 
-#### The newsletter must include:
 
-<ul>
-	<li class="p1">One nameplate</li>
-	<li class="p1">Headlines (for every article)</li>
-	<li class="p1">Deck (for every article)</li>
-	<li class="p1">Bylines (for every article)</li>
-	<li class="p1">Photos (one per article)</li>
-	<li class="p1">Caption (one per photo)</li>
-	<li class="p1">At least one pull quote</li>
-	<li class="p1">At least one jump article</li>
-	<li class="p1">At least one article must have subheads</li>
-</ul>
+---
 
-Don't remember what any of these mean? Refer to the <a href="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg">Typesetting and Newspaper Markup assignment</a> we did way back during Bootcamp.
 
-Last, since we are transitioning from novice designers to more intermediate, the rubric is going to be slightly more geared towards design:
-<p class="p1"><b>Design process (10 total points) </b>Subject matter is well-researched, sketches are complete and show a variety of designs, several design solutions have been explored.</p>
-<p class="p1"><b>Layout (5 total points)</b> Grids and guides have been used to create order and alignment, elements are aligned and spacing is clear.</p>
-<p class="p1"><b>Color (5 total points)</b> Colors used support message of the brand, work well together and are consistent.</p>
-<p class="p1"><b>Design (15 total points)</b> Format, proportion/scale, balance, contrast, harmony, focus, rhythm/continuity, unity, use of art (photograph, illustration, correct resolution), negative/white space, creativity.</p>
-<p class="p1"><b>Typography (10 total points)</b> Appropriate style choices, type size, alignment, line length, leading. Legible. Appropriate for campaign.</p>
-<p class="p1"><b>Self-reflection post (5 total points)</b> Blog post explains your newsletter and how you leveraged your knowledge of fundamental design concepts throughout the design.<i> Students must embed the work in the post.</i> Walk the reader through the conceptualization and design process.</p>
+**Client:** On Running
+**Campaign:** *Run What's Next.*
 
-### 1. Choose a Fortune 500 company
+---
 
-For this project, we are going to pick a large company. I want you to work on a larger organization so you have more materials to start with. A good company would be 1.) one that interests you (this is actually a really big one) 2.) has a newsroom on their website that you can use stories from 3.) has a good logo (check <a href="http://www.brandsoftheworld.com/" target="_blank">brandsoftheworld.com</a>). One tip is to leverage filtering on the <a href="http://fortune.com/fortune500/" target="_blank">Fortune website</a> to find a company within a specific industry that interests you.
+## Brand Background
 
-### 2. Begin your document
+On Running is a Swiss performance footwear and apparel company known for CloudTec® cushioning technology and minimalist design language. The brand sits at the intersection of elite performance and lifestyle culture, attracting runners who value innovation, precision, and premium aesthetics.
 
-hat you'll be turning in by the end of this lesson is what is called a dummy layout. A <strong>dummy layout</strong> is a term that simply refers to a document that has only placeholder text and images. They can look like this.
+---
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png"></a>
+## Business Challenge
 
-It may be beneficial to rewatch this video from Bootcamp:
+On has strong brand recognition in performance circles but is increasingly challenged by Nike, HOKA, and emerging tech-forward footwear startups. The brand must reinforce its leadership in innovation without losing its distinct clean, Swiss design sensibility.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gdEgaOzrjLE" frameborder="0" allowfullscreen></iframe>
+---
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png" alt="A sample InDesign dialogue box to get you started"></a>
+## Campaign Objective
 
-<i>A sample InDesign dialogue box to get you started</i>.
+Position On as the future-facing performance brand for runners who embrace technology, experimentation, and progression.
 
-You are required do a dummy layout this week for all of your pages. Your final design doesn't have to stick to this, of course, but it will help you visualize specifically how long each article will have to be. Again, this is the only part of the newsletter that is due at the end of this lesson.
+---
 
-### 3. Begin to gather images, photos, and stories
+## Target Audience
 
-Start to acquire photos and stories which you can use for your newsletter. Remember: each article and photo needs to be attributed to the original author so make sure you are keeping that info. If you are struggling to find high quality photos from that company, you can use stock photos as well from free websites like <a href="http://www.stockvault.net" target="_blank">http://www.stockvault.net</a> or <a href="http://www.freeimages.com" target="_blank">http://www.freeimages.com</a>.
+**Primary:** Ages 20–35, urban runners and fitness enthusiasts in OKC and surrounding metro areas who value premium design and performance.
+**Secondary:** Recreational runners seeking to upgrade from mass-market brands.
 
-### 4. Decide what stories will go in your newsletter
+---
 
-As mentioned above, you should base your content and graphic design decisions on the target public, purpose and key messages to produce an effective, as well as good-looking, newsletter. One key ingredient to know before you start to embed your stories into your newsletter is how much space you have. Make sure your columns are linked together (even if they jump to a new page). If you aren’t sure on how to do that, I’ve created a video to show you how I do that:
+## Key Insight
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/OT4235ZN22Q" frameborder="0" allowfullscreen></iframe>
+Runners don't just want better shoes — they want to feel like they're part of what's coming next.
 
-### 5. Decide what IMAGES will go in your newsletter
+---
 
-I cannot say this enough. Remember: this is a print publication. Print is different than web. You will want you use large, high resolution photos. Here are some ways you can do that:
-<ul>
-	<li><a href="http://www.google.com/advanced_image_search" target="_blank">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
-	<li><a href="https://www.flickr.com/search/advanced/" target="_blank">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
-	<li><a href="http://www.morguefile.com/archive" target="_blank">MorgueFile</a> - Free stock image site</li>
-	<li><a href="http://www.freeimages.com" target="_blank">freeimages.com</a> - Name speaks for itself.</li>
-</ul>
-Now the company you are designing for may have many good quality photos that you might think could get the job the done. If you ever have the question, "How will this look when I print it out?" then the solution is simple: print it out. Look at it and examine it. Does it look pixelated or distorted? If not, you should be good to go.
+## Single-Minded Proposition
 
-### 6. Write a reflection post
+**The future of running isn't louder. It's smarter.**
 
-I want you to reflect on the whole process of your fourth design project. I've included below the usual questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
+---
 
-1. What were you asked to do?
+## Tone & Personality
 
-2. How did you respond to what you were asked to do?
+Clean, confident, precise, progressive.
 
-3. How did react to what you actually <em>did</em>?
+---
 
-4. Now go one level deeper: Why do you think your reaction was what it was?
+## Deliverables & Media Requirements
 
-Supplemental questions:
-<ul>
-	<li>How did your target public affect your overall content and design strategy?</li>
-</ul>
-<strong>Tag your blog post "Reflection</strong>."
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements the existing On master brand
+- Three supporting graphic motifs derived from motion, data, or performance patterns
 
-### 7. Take the quiz
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero performance visual
+- Three supporting visual variations
+- Print execution (full-page magazine or retail poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-The quiz is due Thursday, June 23rd.
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution emphasizing movement or data
 
-### 8. Turn in your newsletter into the D2L Dropbox.
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Performance imagery system
+- Final executions
 
-The submission needs to be turned in by Thursday, June 23rd, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
+---
 
-## Week 7
+## Visual Guardrails
 
-### Introduction
+- Avoid lifestyle clichés and "athleisure" tropes.
+- Prioritize movement, structure, and product mechanics.
+- Use restrained color with intentional contrast.
+- Typography should feel engineered, not decorative.
 
-You are hitting the home stretch of our time in this experience. It’s time that we start thinking about the Finals week and what will be on your Final. But, of course, we have to do this PR Pubs style, which means that the Final we will created by none other than yourself.
+---
 
-The last assignment is going to be the mecca of the reflection post we’ve been doing all semester which is referred to as a “Summary of Learning.” You will not turn this project into a Dropbox submission, but it will be graded as part of your Final grade, which is due Wednesday, May 4.
+## Brand Integrity Rules
 
-These summaries of learning are typically a 3-5 minutes reflection/presentation/celebration of what students learned throughout the course.
+- The master brand logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, and improve legibility while preserving core recognition.
+- Changes must be minimal, defensible, and documented with before/after rationale in the campaign book.
+- You may refine form, spacing, weight, or proportion, but not invent a new identity.
+- The campaign mark must live alongside the master brand.
+- No celebrities or paid spokespersons.
+- Quality claims must be visually implied, not written.
 
-### 1. Read through all your blog posts
+---
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+## Mandatory Creative Elements
 
-Seriously. Do it. But read it backwards (or chronologically). The "Summary of Learning" is a shortened version of your story and, luckily for you, your entire story is right in front you. The only way to start to think about your summary is to relive the process. It's sort of like watching a movie. What can you pick up on now that you didn't before?  What were those early days like? Did you ever turn a corner? Can you identify a project in which you take a lot of pride in the outcome of it? Or can you look back now, be a little honest with yourself, and see a project where you wish you would have given it slightly more effort? Most importantly your story needs to answer the question: <strong>How did you grow (or not grow) this semester as a public relations practitioner? Why or why not?</strong>
+- Campaign tagline: *Run What's Next.*
+- At least one visual must highlight CloudTec® technology.
 
-### 2. Decide a medium for your summary of learning
+---
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+## Practical Production Constraints
 
-This artifact can be completed in whatever medium you wish: graphic, video, presentation, etc. The only requirement is that it needs to be able to be embedded or linked to on your blog once its completed. I've included some ideas are below (hint: I really like the idea of a video),<strong> but you are NOT limited to choosing one of these</strong>. The more CREATIVE the better. Videos need to stay around 3 minutes long.
+- Maximum of three base photographs.
+- Must function in both color and monochrome.
+- Adaptable to light and dark backgrounds.
 
-#### 1. Design an infographic using <a href="http://canva.com" target="_blank">Canva</a>. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it).
+---
 
-<img src="http://aliviadekker.oucreate.com/wp-content/uploads/2016/05/MyPR-PUBS-EXPERIENCE.jpg">
+## Media-Specific Rules
 
-#### 2. Design a direct mailer recruiting someone to PR Pubs in InDesign. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it)
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" target="_blank"><img class=" size-full wp-image-7656 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" alt="propaganda" /></a>
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
 
-#### 3. Create a <a href="https://support.apple.com/kb/PH14711?locale=en_US" target="_blank">movie trailer with iMovie</a> and share it on <a href="http://youtube.com" target="_blank">YouTube</a>.
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-DApJb_bbUo" target="_blank" frameborder="0" allowfullscreen></iframe>
+---
 
-#### 4. Use a phone app such as <a href="https://itunes.apple.com/us/app/silent-film-studio/id447304552?mt=8" target="_blank">Silent Film Studio</a> to create a video.
+## What Success Looks Like
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/II7Se55mtnc" frameborder="0" allowfullscreen></iframe>
+- The campaign feels like a natural extension of the On brand.
+- All executions feel system-connected.
+- Work could plausibly live in a professional On campaign.
+- The system translates cleanly across platforms.
 
-#### 5. <a href="https://docsstorybuilder.appspot.com" target="_blank">Build an interactive story</a> with Google Docs.
 
-<a href="http://goo.gl/YUqHsG" target="_blank">Example Here </a>
+---
 
-#### 6. Create an animation (easily!) with <a href="http://goanimate.com" target="_blank">GoAnimate</a> or <a href="http://digitalfilms.com/index.php?act=4" target="_blank">Digital Films</a>.
 
-<a href="https://goanimate.com/videos/0gnJG8dRBJN4?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent" target="_blank">Example Here </a>
+**Client:** Patagonia
+**Campaign:** *Built to Last, Built to Matter.*
 
-#### 7. Create a <a href="https://www.peanutgalleryfilms.com" target="_blank">peanut gallery</a> film.
+---
 
-<a href="https://www.peanutgalleryfilms.com/play?video=2bugqdLUC00&title=The%20Kid&ending=5&intertitles=%5B%5B1.261,%22Guess%20what%20you’re%20going%20to%20summer%20school.%22%5D,%5B3.601,%22Oh%20you’re%20hilarious.%22%5D,%5B5.361,%22No%20I’m%20serious.%22%5D,%5B8.348,%22And%20you’ll%20have%20to%20use%20Photoshop%20and%20InDesign.%22%5D,%5B10.91,%22Now%20you’re%20pulling%20my%20leg.%22%5D,%5B14.648,%22You’ll%20do%20great%20kid.%22%5D,%5B16.908,%22I’ll%20see%20what%20I%20can%20do.%22%5D%5D" target="_blank">Example Here </a>
+## Brand Background
 
-#### 8. Create a storyboard with <a href="https://www.storyboardthat.com/?utm_expid=58652488-7.178199R2Seue5F7W89UKvQ.0" target="_blank">StoryboardThat.</a>
+Patagonia is a California-based outdoor apparel company generating $1.5 billion in annual revenue across 160+ global stores and 5,700 wholesale partners. In September 2022, founder Yvon Chouinard transferred ownership to two entities: the Patagonia Purpose Trust (2% voting stock, overseen by the Chouinard family) and Holdfast Collective (98% nonvoting stock, a 501(c)(4) nonprofit). Since restructuring, Patagonia has donated $180 million to Holdfast to fight climate change. The company employs 3,300 people across 6 continents and operates under the mission "we're in business to save our home planet."
 
-<img src="http://i0.wp.com/christymontenegro.oucreate.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-04-at-11.21.52-PM-1.png?zoom=2&resize=613%2C187">
+---
 
-### 3. Create an action plan for your domain
+## Business Challenge
 
-<div class="alert alert-warning" role="alert">Blog Post Required</div>
+Patagonia's premium pricing and limited physical presence (only 37 US stores) restrict market share against competitors like The North Face, Columbia, and Arc'teryx with larger footprints and marketing budgets. The brand faces pressure from Amazon's e-commerce dominance and economic vulnerability—as a discretionary purchase brand, Patagonia is exposed during downturns. Most critically, the 2022 ownership transfer to "save the planet" created a perception paradox: if Earth is Patagonia's only shareholder, why should consumers keep buying new products? The brand must reconcile its anti-consumption ethos ("Buy Less, Demand More") with running a $1.5B business dependent on continued sales.
 
-My hope is that creating a domain or blog has been a valuable experience for you and will be something you can use beyond PR Pubs. Write a blog post about how you plan to use the domain afterwards. Will it be something that you will utilize when looking for jobs? Do you see yourself continuing the blogging reflection process for other courses or internships? Do you see yourself wiping it clean and completely redesigning it? Do you see yourself using a DIFFERENT space now that you've had this experience? Are there pages you would like to create to fill out the domain such as an "About" page or a "Contact Me" page. Write a blog post and tag it "Reflection."
+---
 
-### 4. Create a portfolio page for your website
+## Campaign Objective
 
-The best way to present your work to future employers is through a concise page that gives examples of your work. If you don't already have a page, create one titled "Portfolio." If you have created a portfolio page, such as a writing portfolio page, for another course, you can use this page. Additionally, if you have a main website that is separate from your PR Pubs blog, it would be preferred that you do this project on THAT website. While you can design this page as you sit fit, the BEST portfolio pages will have:
-<ul>
-	<li>A thumbnail of final work</li>
-	<li>A short summary of the project. This can be as little as a few sentences but gives the reader an understanding of the "client" (the company or organization it was designed for), the project scope, and the outcome. It's also in good taste to let the reader know which projects are class projects and which projects are commercial projects.</li>
-	<li>A link to your blog post where you did your final reflection on that project. This will give the reader to dig deeper into the project if they wish.</li>
-</ul>
-Also make sure your portfolio page is LINKED to from your menu.
+Reframe Patagonia's ownership structure and durability promise as complementary, not contradictory—positioning the brand as the responsible choice for consumers who do need to buy gear.
 
-### 5. Write an Summary of Learning Action Plan blog post.
+---
 
-Now that you've read your post, started to formulate your own personal Summary of Learning, and chose a medium, write a blog post describing your plan of attack for completing this project. What is the medium? What tools will you need? What will be your process for completing this assignment? Do you have further research to do and could you take advantage of processes in which we learned about this semester such as the <a href="http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html" target="_blank">Analysis-Synthesis Bridge Model?</a>. Tag your post <strong>Summary of Learning</strong>.
+## Target Audience
 
-### 6. DON'T TAKE A QUIZ.
+**Primary:** Ages 25–40 in OKC and surrounding areas who value sustainability, outdoor recreation, and purpose-driven brands.
+**Secondary:** Existing Patagonia customers seeking validation for premium purchases.
 
-There is no quiz this week. The quiz <a href="https://www.youtube.com/watch?v=qdrs3gr_GAs">is a lie</a>.
+---
 
-## Week 8
+## Key Insight
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, July 7, 2016 at noon</div>
+People who care about the environment feel guilty buying new things—unless those things are built to replace disposable consumption.
 
-### Introduction
+---
 
-You did it!
+## Single-Minded Proposition
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/ulj1bdwnugezvk5olm8e.gif" target="_blank"><img class=" size-full wp-image-9457 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/ulj1bdwnugezvk5olm8e.gif" alt="ulj1bdwnugezvk5olm8e"></a>
+**When you buy Patagonia, you're buying the last one you'll need.**
 
-### 1. Write your final reflection blog post
+---
 
-This is it. The last piece of the puzzle for PR Pubs. Write your final blog post which will contain your Summary of Learning project. In your blog post, explain your project and what it represents. Add any final reflections you have that pertain to the course (the course format, writing with a public audience in mind, how you've seen yourself grow, etc.).
+## Tone & Personality
 
-### 2. Submit to the Wisdom Wall
+Purposeful, uncompromising, durable, quietly confident.
 
-The wisdom wall is designed to give advice to future students in PR Pubs. This is going to be read by students at the beginning so it's helpful to give students practical advice on how they can best succeed in PR Pubs.
+---
 
-<iframe src="https://docs.google.com/forms/d/1tuUvhIccFpceYYjHuJ8vldGKtyLXaUCXlwuH4kLWXts/viewform?embedded=true" width="760" height="500" frameborder="0" marginwidth="0" marginheight="0">Loading...</iframe>
+## Deliverables & Media Requirements
 
-### 3. Submit your portfolio to the D2L Dropbox
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Patagonia's master brand
+- Three supporting graphic motifs
 
-Take a screenshot of your portfolio page and submit it will the LINK to the portfolio page in the corresponding textbox.
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
 
-### 4. Submit your FINAL D2L QUIZ!!!!!11!111!1.
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
 
-The quiz is due on Thursday, July 7, 2016 at noon.
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
 
-![image](images/portalcake.png)
+---
+
+## Visual Guardrails
+
+- Avoid idealized wilderness photography or "adventure porn."
+- Prioritize worn, repaired, real gear over pristine product shots.
+- Use natural, desaturated color palette reflecting longevity over newness.
+- Typography should feel utilitarian and timeless, not trendy.
+- Show evidence of durability (patches, repairs, years of use) as proof, not flaw.
+
+---
+
+## Brand Integrity Rules
+
+- The master Patagonia logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Environmental claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Built to Last, Built to Matter.*
+- At least one visual featuring visibly worn or repaired Patagonia gear.
+- Visual reference to the Earth-as-shareholder concept without being literal.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes premium pricing feel justified, not indulgent.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Patagonia campaign.
+- The ownership structure becomes a sales argument, not an apology.
+
+
+---
+
+
+**Client:** Vuori
+**Campaign:** *Made for More.*
+
+---
+
+## Brand Background
+
+Vuori is a California-based men's activewear brand founded in 2015 by Joe Kudla, who retains majority ownership. Following a November 2024 funding round of $825 million led by General Atlantic and Stripes, Vuori is valued at $5.5 billion with estimated annual revenue of $1 billion. The company operates 40 stores with plans to exceed 100 by 2026, maintaining a 75% DTC / 25% wholesale business model. Originally men's-focused, women's apparel now represents approximately 50% of sales. Vuori has successfully captured market share from Lululemon—7.8% of Lululemon customers now shop Vuori (vs. 1.2% in 2018)—with an average transaction of $185 compared to Lululemon's $145. The brand targets affluent consumers and has seen 23% sales growth in 2024.
+
+---
+
+## Business Challenge
+
+Vuori's rapid ascent from startup to $5.5B valuation in nine years creates a classic premium brand dilemma: scaling without diluting. Opening 20 stores in 2024 and planning 60+ more by 2026 risks transforming Vuori from an exclusive discovery into just another mall brand. The company launched as men's performance wear and pivoted to 50% women's sales—a smart business move, but one that blurs original brand identity. Upcoming IPO plans add pressure for continued explosive growth, which typically conflicts with maintaining premium positioning. Meanwhile, competitors like Lululemon and Alo aren't standing still. Vuori's core customer (affluent, educated urbanites) chose the brand precisely because it wasn't ubiquitous. What happens when it is?
+
+---
+
+## Campaign Objective
+
+Reframe Vuori's expansion as proof of versatility and performance—not dilution—positioning growth as validation that the brand delivers on its "run, hike, train, travel, chill" promise across contexts.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 28–45 in OKC metro, household income $150K+, active lifestyle, values premium quality and versatility.
+**Secondary:** Lululemon customers seeking alternatives with less brand saturation.
+
+---
+
+## Key Insight
+
+People who can afford premium activewear don't want to look like they're in a uniform.
+
+---
+
+## Single-Minded Proposition
+
+**Vuori doesn't just perform in one place. It performs in your whole life.**
+
+---
+
+## Tone & Personality
+
+Versatile, understated, premium, effortlessly functional, West Coast ease.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Vuori's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- Avoid single-activity imagery (just yoga, just running, just gym).
+- Prioritize versatility—same person, same gear, multiple contexts in one frame.
+- Use natural, coastal-inspired color palette reflecting West Coast design roots.
+- Typography should feel premium but accessible, elevated but not pretentious.
+- Show seamless transitions between activities, not staged lifestyle moments.
+
+---
+
+## Brand Integrity Rules
+
+- The master Vuori logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance and versatility claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Made for More.*
+- At least one visual showing the same apparel across multiple activity contexts.
+- Visual language emphasizing versatility without sacrificing performance.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes expansion feel intentional, not opportunistic.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Vuori campaign.
+- Versatility becomes the brand's competitive advantage, not a compromise.
+
+
+---
+
+## Health & Fitness
+
+
+**Client:** ClassPass
+**Campaign:** *Try Everything.*
+
+---
+
+## Brand Background
+
+ClassPass operates as a fitness marketplace connecting 30,000+ partner studios with millions of members across 2,500+ cities worldwide. The company was acquired by Mindbody in 2021 for an undisclosed amount as part of a $3 billion valuation transaction. ClassPass expects $500 million in revenue for 2024, growing at 20% year-over-year, and is preparing for an IPO within 12–18 months. The business model allows members to purchase credits ($12–$18 each) and book classes at partner studios, with ClassPass taking a percentage and studios receiving reduced rates compared to direct bookings. The company also operates a B2B wellness platform serving 1,000+ corporate partners. ClassPass's pitch: access to yoga, Pilates, boxing, cycling, strength training, and more—without committing to a single studio.
+
+---
+
+## Business Challenge
+
+ClassPass's marketplace model creates inherent tension: members love variety and flexibility, but studios increasingly resent the platform for cannibalizing direct bookings and squeezing margins. Many premium studios (SoulCycle, Equinox) have pulled out or restricted availability, forcing ClassPass to rely on lower-tier partners. The company also faces competition from Gympass (corporate wellness focus) and direct studio subscription apps. As ClassPass prepares for an IPO, it must prove the marketplace is sustainable—not just for members seeking deals, but for studio partners whose long-term viability funds the platform. The brand risks becoming a Groupon for fitness: great for discovery, terrible for loyalty. Can ClassPass convince consumers that variety is worth paying for—or will members churn once they find their preferred studio?
+
+---
+
+## Campaign Objective
+
+Reframe ClassPass's variety as a feature, not a bug—positioning exploration and flexibility as the antidote to fitness burnout and subscription fatigue.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 25–38 in OKC metro, household income $60K+, who get bored with single-studio routines and value flexibility over commitment.
+**Secondary:** Fitness experimenters who haven't found "their thing" yet and want to explore without long-term contracts.
+
+---
+
+## Key Insight
+
+People don't quit fitness because they're lazy—they quit because they get bored doing the same thing.
+
+---
+
+## Single-Minded Proposition
+
+**ClassPass keeps fitness interesting when commitment gets boring.**
+
+---
+
+## Tone & Personality
+
+Exploratory, flexible, anti-commitment, variety-driven, liberating.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements ClassPass's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid single-discipline hero shots (just yoga, just cycling)** → **Prioritize variety—multiple fitness modalities in one frame or sequence.**
+- **Avoid commitment language or loyalty visuals** → **Show freedom, exploration, trying new things without pressure.**
+- **Avoid exclusive, high-end studio aesthetics** → **Use diverse, accessible studio environments reflecting real ClassPass options.**
+- **Avoid static, single-location imagery** → **Show movement between studios, cities, modalities.**
+- Typography should feel dynamic and modular, reflecting variety and flexibility.
+
+---
+
+## Brand Integrity Rules
+
+- The master ClassPass logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokesperspers.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Try Everything.*
+- At least one visual showing multiple fitness modalities or studio environments.
+- Visual language emphasizing exploration and flexibility over commitment.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes variety feel like the solution to fitness burnout, not indecision.
+- All executions feel system-connected.
+- Work could plausibly live in a professional ClassPass campaign.
+- Exploration becomes the brand's competitive advantage over single-studio loyalty.
+
+
+---
+
+
+**Client:** Orangetheory Fitness
+**Campaign:** *Your Hour. Your Power.*
+
+---
+
+## Brand Background
+
+Orangetheory Fitness operates 1,500+ studios with nearly 1 million members globally, built on a science-backed 60-minute HIIT workout combining treadmill, rowing, and strength training. In 2024, Orangetheory merged with Self Esteem Brands (parent company of Anytime Fitness) to form a $3.5 billion entity under the leadership of CEO Mark King. The franchise model requires a $49,500–$59,500 initial fee plus 6–7% ongoing royalties, with members paying $59–$199/month for unlimited classes. Orangetheory uses heart rate monitoring to track members' performance in five color-coded zones, with the goal of spending 12+ minutes in the "Orange Zone" (84–91% max heart rate). The brand launched "Every Reason is the Right Reason" as its December 2024 campaign, emphasizing accessibility and inclusivity.
+
+---
+
+## Business Challenge
+
+Despite 1 million members and aggressive expansion, Orangetheory faces fierce competition from boutique fitness studios (Barry's Bootcamp, F45), ClassPass aggregation, and digital fitness platforms (Apple Fitness+, Peloton). The 2024 merger with Self Esteem Brands creates operational scale but risks diluting Orangetheory's premium positioning by association with budget gym Anytime Fitness. Additionally, the rise of GLP-1 weight loss drugs (Ozempic, Wegovy) introduces uncertainty around fitness motivation and studio economics. Orangetheory's challenge: the brand offers a structured, science-backed workout, but lacks the lifestyle cachet of SoulCycle or the performance credibility of CrossFit. Can Orangetheory prove that one hour is enough—or will members migrate to cheaper, more flexible, or more prestigious alternatives?
+
+---
+
+## Campaign Objective
+
+Position Orangetheory's 60-minute format as the most efficient, results-driven hour in fitness—validating the premium price through science and accountability.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 28–45 in OKC metro, household income $75K+, time-constrained professionals seeking structured, efficient workouts.
+**Secondary:** Gym members frustrated by lack of structure or results who need external accountability.
+
+---
+
+## Key Insight
+
+People don't lack motivation—they lack time and a system that guarantees results.
+
+---
+
+## Single-Minded Proposition
+
+**One hour with Orangetheory delivers what two hours at the gym can't.**
+
+---
+
+## Tone & Personality
+
+Efficient, science-backed, no-nonsense, results-driven, empowering.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Orangetheory's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid group class energy shots with smiling faces** → **Prioritize individual effort, sweat, heart rate monitors showing Orange Zone.**
+- **Avoid generic fitness lifestyle imagery** → **Show the 60-minute structure—treadmill, rower, floor, clock ticking.**
+- **Avoid soft, welcoming, "everyone belongs" aesthetics** → **Use hard data, numbers, zones, metrics as visual language.**
+- **Avoid instructor hero shots** → **Focus on the member, the work, the hour.**
+- Typography should feel precise and performance-oriented, not motivational or friendly.
+
+---
+
+## Brand Integrity Rules
+
+- The master Orangetheory logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Your Hour. Your Power.*
+- At least one visual incorporating heart rate zones or performance data.
+- Visual language emphasizing efficiency and measurable results.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes the 60-minute format feel like an advantage, not a limitation.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Orangetheory campaign.
+- Science and structure become the brand's competitive advantage over vibes-based fitness.
+
+
+---
+
+
+**Client:** Peloton
+**Campaign:** *The Comeback Starts Here.*
+
+---
+
+## Brand Background
+
+Peloton generated $2.71 billion in revenue in 2024 with 2.98 million connected fitness subscribers, though revenue declined 2.8% year-over-year—marking the third consecutive year of decline. The company went public in 2019 at a $8.1 billion valuation, peaked at $50 billion during the pandemic, then crashed to under $2 billion by 2024. CEO Barry McCarthy stepped down in May 2024 after a 15% workforce reduction and $200 million in cost cuts. Peloton's core product—a $1,495 Bike+ or $2,495 Tread paired with a $44/month subscription—pioneered the connected fitness category but now faces intense competition from Echelon, NordicTrack, and Apple Fitness+. Total members fell from 6.4 million to 6 million in one year.
+
+---
+
+## Business Challenge
+
+Peloton's turnaround depends on convincing lapsed members to return and skeptical consumers that the brand represents more than pandemic desperation purchases collecting dust. The company faces a perception problem: many see Peloton as expensive home equipment that becomes an expensive clothes rack. Declining revenue and subscriber churn suggest the product isn't sticky enough to justify ongoing subscription costs when cheaper alternatives and return-to-gym trends compete for attention. New CEO Peter Stern (from Ford and Apple Fitness+) must rebuild credibility while competitors flood the market with cheaper hardware and subscription-free options. Can Peloton prove its premium price delivers premium results—or will it remain a cautionary tale of pandemic excess?
+
+---
+
+## Campaign Objective
+
+Reframe Peloton from expensive equipment to essential accountability partner—positioning the subscription as the real product and the bike as the vehicle for transformation.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 28–45 in OKC metro, household income $100K+, who purchased fitness equipment during the pandemic but struggle with consistency.
+**Secondary:** Gym-goers considering home fitness who view Peloton as overpriced or overhyped.
+
+---
+
+## Key Insight
+
+People don't abandon fitness equipment because it doesn't work—they abandon it because they lose accountability.
+
+---
+
+## Single-Minded Proposition
+
+**Peloton doesn't let you quit on yourself.**
+
+---
+
+## Tone & Personality
+
+Motivational, unapologetic, resilient, accountability-driven, no-excuses.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Peloton's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid pristine, aspirational studio imagery** → **Prioritize home environments with real clutter, real effort, real sweat.**
+- **Avoid finish-line celebration moments** → **Show the grind—mid-workout struggle, determination, returning after a break.**
+- **Avoid celebrity instructor worship** → **Use the bike/tread as the constant, the user as the hero.**
+- **Avoid sleek product photography** → **Show equipment integrated into real homes, used daily, lived-in.**
+- Typography should feel bold and uncompromising, not soft or inspirational.
+
+---
+
+## Brand Integrity Rules
+
+- The master Peloton logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *The Comeback Starts Here.*
+- At least one visual showing someone returning to their Peloton after time away.
+- Visual language emphasizing accountability and resilience over aesthetic perfection.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes the subscription feel like the value, not the hardware.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Peloton campaign.
+- Accountability becomes the brand's competitive advantage, not technology.
+
+
+---
+
+
+**Client:** WHOOP
+**Campaign:** *Know Your Body.*
+
+---
+
+## Brand Background
+
+WHOOP is a wearable fitness tracker valued at $3.6 billion (August 2021 funding round) with an estimated $260 million in annual revenue. The company employs 1,225 people and pioneered a subscription-first business model: the hardware is free, but members pay $239/year (or $30/month) for access to data, analytics, and coaching. WHOOP tracks strain, recovery, and sleep without a screen, focusing exclusively on performance optimization rather than notifications or apps. The device is worn 24/7 and calculates daily recovery scores to guide training intensity. WHOOP has built a loyal following among professional athletes, CrossFit enthusiasts, and biohackers, positioning itself as a serious performance tool—not a lifestyle accessory.
+
+---
+
+## Business Challenge
+
+WHOOP's $239/year subscription model faces existential pressure as Apple Watch and Garmin add similar recovery, HRV, and sleep tracking features at no additional cost beyond hardware. Oura Ring—a direct competitor—reached a $5.2 billion valuation and is on track for $1 billion in 2025 sales, offering sleeker hardware and comparable analytics. WHOOP's screenless design was once a differentiator; now it feels like a limitation as consumers expect more functionality from wearables. The brand must justify a $300/year subscription when competitors deliver 80% of the value for free (after hardware purchase). Additionally, WHOOP's hardcore athlete positioning alienates casual fitness users who might subscribe but feel intimidated by the brand's intensity. Can WHOOP prove its data is worth paying for—or will free alternatives commoditize recovery tracking?
+
+---
+
+## Campaign Objective
+
+Position WHOOP's subscription as essential infrastructure for anyone serious about performance—reframing the cost as investment in self-knowledge, not another wearable expense.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 25–40 in OKC metro, household income $80K+, who train consistently (running, CrossFit, cycling) and want to optimize performance and recovery.
+**Secondary:** Apple Watch users curious about deeper recovery analytics and data-driven training.
+
+---
+
+## Key Insight
+
+People who train hard don't want more data—they want better decisions based on their data.
+
+---
+
+## Single-Minded Proposition
+
+**WHOOP doesn't tell you what you did. It tells you what to do next.**
+
+---
+
+## Tone & Personality
+
+Data-driven, uncompromising, performance-focused, no-BS, optimized.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements WHOOP's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid sleek product shots or wrist candy imagery** → **Prioritize data visualization, recovery scores, strain metrics, decision-making.**
+- **Avoid aspirational athlete endorsements** → **Show real users making real training decisions based on WHOOP data.**
+- **Avoid lifestyle wearable aesthetics (notifications, apps, screens)** → **Use raw data, numbers, charts as visual language.**
+- **Avoid generic fitness motivation** → **Show the intelligence—training smarter, not just harder.**
+- Typography should feel analytical and precise, not inspirational or friendly.
+
+---
+
+## Brand Integrity Rules
+
+- The master WHOOP logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Know Your Body.*
+- At least one visual incorporating WHOOP's recovery score, strain data, or sleep analytics.
+- Visual language emphasizing decision-making and optimization over tracking.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes the subscription feel like essential coaching, not optional tracking.
+- All executions feel system-connected.
+- Work could plausibly live in a professional WHOOP campaign.
+- Data intelligence becomes the brand's competitive advantage over feature-rich smartwatches.
+
+
+---
+
+## Technology & Apps
+
+
+**Client:** Airbnb
+**Campaign:** *Stay Where It Matters.*
+
+---
+
+## Brand Background
+
+Airbnb generated $11.1 billion in revenue for 2024 (+12.1% YoY), facilitating 491 million bookings and nearly $82 billion in gross booking value across 8.1 million listings worldwide. The San Francisco-based company is valued at $89.98 billion (February 2025) and operates in 220+ countries with support from five million hosts. Airbnb went public in December 2020 and has since maintained profitability with $4.5 billion in free cash flow and 36% Adjusted EBITDA margin in 2024. The platform pioneered the short-term rental marketplace with its "Belong Anywhere" brand positioning (adopted in 2014), differentiating itself from hotels by offering unique properties and local experiences. Recent campaigns like "Get an Airbnb" (2024) emphasize specific travel scenarios where Airbnb delivers superior value over hotels.
+
+---
+
+## Business Challenge
+
+Airbnb dominates short-term rentals but faces mounting pressure from all sides: regulatory crackdowns in major cities (NYC Local Law 18, Barcelona restrictions) reduce available inventory, while Booking.com surpassed Airbnb's market share in Australia (22.9% vs. 20.3% in Q4 2024) through aggressive loyalty programs and broader inventory. Meanwhile, travelers increasingly find Airbnb more expensive than hotels in 75% of markets, with complex pricing (cleaning fees, service fees) eroding perceived value. The platform also suffers from a trust deficit—hosts complain about guest damage and platform favoritism, while guests report cleanliness issues, access problems, and bait-and-switch properties. Can Airbnb justify its premium pricing and prove it's worth the friction—or will budget hotels and simpler booking platforms win back disillusioned travelers?
+
+---
+
+## Campaign Objective
+
+Reframe Airbnb's value proposition around place-based experiences hotels can't replicate—positioning the platform as essential for trips where location, space, and authenticity matter more than convenience.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 28–45 in OKC metro, families and groups traveling together who need space, kitchens, and neighborhood immersion.
+**Secondary:** Budget-conscious travelers comparing Airbnb to hotels and questioning whether the platform is still worth it.
+
+---
+
+## Key Insight
+
+People don't choose Airbnb to save money—they choose it to stay in places hotels can't reach and live like locals, not tourists.
+
+---
+
+## Single-Minded Proposition
+
+**Airbnb doesn't just give you a place to sleep. It puts you where you actually want to be.**
+
+---
+
+## Tone & Personality
+
+Neighborhood-rooted, authentic, space-conscious, locally-immersed, anti-tourist.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Airbnb's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid generic vacation imagery (beaches, landmarks, tourist attractions)** → **Prioritize neighborhood context—local bakeries, residential streets, kitchens being used, spaces lived in.**
+- **Avoid empty, staged property shots** → **Show families, groups, multi-generational trips using the space—cooking, gathering, spreading out.**
+- **Avoid hotel comparison language** → **Focus on place—where you are, not what you're avoiding.**
+- **Avoid influencer-style aspirational travel** → **Show real trips—kids playing, dogs welcome, laundry drying, life happening.**
+- Typography should feel grounded and neighborhood-specific, not polished or corporate.
+
+---
+
+## Brand Integrity Rules
+
+- The master Airbnb logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Stay Where It Matters.*
+- At least one visual demonstrating location/neighborhood advantage or space utilization impossible in hotels.
+- Visual language emphasizing place and authenticity over price or convenience.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes location and space feel worth paying for, even when hotels are cheaper.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Airbnb campaign.
+- Place-based authenticity becomes the brand's competitive advantage over convenience and price.
+
+
+---
+
+
+**Client:** BeReal
+**Campaign:** *No Filter. No Pressure.*
+
+---
+
+## Brand Background
+
+BeReal was acquired by French mobile app developer Voodoo for €500 million in 2024, after peaking at 73.5 million users in August 2022 before declining to 16 million monthly active users by March 2025. The Paris-based social app pioneered "anti-Instagram" authenticity by sending users a daily two-minute notification to simultaneously post front- and back-camera photos—no filters, no edits, no retakes. BeReal went viral among Gen Z in 2022 as a reaction against curated, algorithm-driven perfectionism on Instagram and TikTok, but struggled to monetize (losing $3 million/month pre-acquisition) and retain users beyond the initial novelty. Under Voodoo's ownership, BeReal introduced in-app advertising in July 2024 and is now breaking even while working on "BeReal 2.0" with video, chat, and bug fixes. The app's tagline: "Your daily dose of real life."
+
+---
+
+## Business Challenge
+
+BeReal's authenticity premise resonated with Gen Z's Instagram fatigue, but the novelty wore off fast. Daily active users plummeted 78% from peak (73.5M to 16M), with downloads falling 60% in 2024 to just 12.7 million. The core problem: users can only post once per day, limiting content and engagement—fine for friends-only sharing, but disastrous for platform growth and ad-supported monetization. Competitors like Instagram (IG Candid) and TikTok (TikTok Now) cloned BeReal's features, diluting differentiation. Meanwhile, early experiments with brand partnerships triggered user backlash, as loyalists felt betrayed seeing influencers and companies invade their "friends-only space." BeReal must prove it's more than a pandemic-era fad—can the app convince users that daily authenticity is worth returning to, or will it remain a cautionary tale of viral growth without retention?
+
+---
+
+## Campaign Objective
+
+Reframe BeReal's once-daily constraint as a feature, not a bug—positioning the app as the antidote to performance anxiety and endless scrolling on Instagram and TikTok.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 18–25 in OKC metro, Gen Z users exhausted by Instagram curation and TikTok performance pressure who want social media to feel like connection, not competition.
+**Secondary:** Lapsed BeReal users who downloaded the app in 2022-2023 but stopped posting after the novelty faded.
+
+---
+
+## Key Insight
+
+People don't quit social media because they don't care about their friends—they quit because performing for an audience is exhausting.
+
+---
+
+## Single-Minded Proposition
+
+**BeReal isn't asking you to be interesting. It's asking you to be honest.**
+
+---
+
+## Tone & Personality
+
+Unfiltered, pressure-free, anti-performance, Gen Z-authentic, liberating.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements BeReal's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid polished, aspirational, or influencer aesthetics** → **Prioritize unfiltered, unglamorous, real moments—messy rooms, bad lighting, caught off-guard.**
+- **Avoid single perfect shots** → **Use dual-camera format showing front/back simultaneously—what you see vs. where you are.**
+- **Avoid Instagram/TikTok visual language (trends, poses, filters)** → **Show boring, mundane, everyday reality as the point.**
+- **Avoid performance or curation cues** → **Emphasize the two-minute window—no time to stage, just post.**
+- Typography should feel spontaneous and unpolished, not designed or branded.
+
+---
+
+## Brand Integrity Rules
+
+- The master BeReal logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *No Filter. No Pressure.*
+- At least one visual demonstrating dual-camera simultaneous capture or unglamorous real-life moments.
+- Visual language emphasizing authenticity and mundanity over curation and performance.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes once-daily posting feel liberating, not limiting.
+- All executions feel system-connected.
+- Work could plausibly live in a professional BeReal campaign.
+- Anti-performance authenticity becomes the brand's competitive advantage over Instagram and TikTok.
+
+
+---
+
+
+**Client:** Duolingo
+**Campaign:** *Learn It. Keep It.*
+
+---
+
+## Brand Background
+
+Duolingo achieved $748 million in revenue in 2024 (+40.8% YoY), reaching a $9.5 billion valuation with 40.5 million daily active users and 9.5 million paid subscribers by Q4 2024. The Pittsburgh-based language learning platform went public in July 2021 and has been downloaded 950 million times cumulatively, with 130 million monthly active users as of early 2025. Duolingo pioneered gamified language learning through streaks, XP points, and leaderboards, offering a freemium model where 93% of users access the app for free while 7% pay $30/month (or $239/year) for Super Duolingo. The company launched its "Learning Just Got Louder" rebrand in December 2024 and operates under a viral social media strategy led by its mascot Duo the Owl. Duolingo controls 60% of all language learning app usage and approximately 50% of industry app revenue.
+
+---
+
+## Business Challenge
+
+Duolingo dominates language learning apps, but faces a fundamental credibility problem: does gamification actually teach languages, or just create addictive habits? Research shows users engage more than traditional learners but struggle with practical communication skills, pronunciation, and cultural context. Critics argue the platform optimizes for daily engagement (streaks, XP farming) rather than learning outcomes, with users completing one easy lesson just to maintain their streak. Meanwhile, competitors like Babbel ($270M revenue) and Rosetta Stone emphasize structured pedagogy over gamification. Duolingo's 7% paid-user conversion rate suggests most treat it as a casual game, not serious education. Can Duolingo prove its method delivers real fluency—or will it remain a productivity theater app that makes people feel like they're learning without actually speaking the language?
+
+---
+
+## Campaign Objective
+
+Reframe Duolingo's gamification as a retention tool that serves learning, not replaces it—positioning streaks and engagement as proof of habit formation that leads to real language acquisition.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 18–35 in OKC metro who started learning a language on Duolingo but worry they're not making real progress beyond vocabulary.
+**Secondary:** Lapsed users who abandoned their streak and need motivation to return and commit seriously.
+
+---
+
+## Key Insight
+
+People don't quit learning languages because it's hard—they quit because they lose momentum before seeing results.
+
+---
+
+## Single-Minded Proposition
+
+**Duolingo doesn't make language learning easy. It makes it impossible to quit.**
+
+---
+
+## Tone & Personality
+
+Persistent, playful-but-serious, accountability-driven, motivational, unrelenting.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Duolingo's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid generic travel/culture imagery (Eiffel Tower, sushi, flamenco dancers)** → **Prioritize streak data, progress charts, real conversations happening because someone stuck with it.**
+- **Avoid Duo the Owl as cute mascot** → **Use Duo as relentless accountability partner—persistent, unavoidable, motivating.**
+- **Avoid gamification as distraction** → **Show gamification as the bridge—streaks leading to real fluency moments.**
+- **Avoid finish-line celebration** → **Show the grind—day 47, day 183, day 365—progress through persistence.**
+- Typography should feel bold and relentless, reflecting daily commitment.
+
+---
+
+## Brand Integrity Rules
+
+- The master Duolingo logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Learn It. Keep It.*
+- At least one visual showing streak persistence or long-term progress leading to real language use.
+- Visual language emphasizing retention and habit formation over quick wins.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes habit formation feel like the path to fluency, not a distraction from it.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Duolingo campaign.
+- Persistence becomes the brand's competitive advantage over structured pedagogy.
+
+
+---
+
+
+**Client:** Notion
+**Campaign:** *Where Ideas Become Systems.*
+
+---
+
+## Brand Background
+
+Notion generated $600 million in revenue in December 2025, up from $400 million in 2024, reaching a valuation of $11 billion through a 2025 tender offer. The San Francisco-based productivity platform crossed 100 million users worldwide in 2024 and serves 4 million paying customers, including over 50% of Fortune 500 companies. Notion combines notes, databases, wikis, and project management in a single workspace, popularized through grassroots adoption by students and startups before expanding into enterprise. The company employs approximately 800 team members and launched its flagship "Think it. Make it." brand campaign in 2024, adding bold primary colors to its traditionally minimalist aesthetic. Notion's challenge: it grew revenue 19x over four years while competitors like Microsoft Loop and Coda threaten its market position.
+
+---
+
+## Business Challenge
+
+Notion dominates productivity software among startups and small teams, but Microsoft Loop—launched in 2023—brings similar functionality directly to millions of enterprise users already embedded in the Microsoft 365 ecosystem. Notion's pricing complexity increased in 2024-2025, with AI features moved from an add-on to higher-tier plans, leaving users frustrated and distrustful. The platform also suffers from a steep learning curve: new users find Notion overwhelming, with limited integrations and offline support compared to competitors. Meanwhile, Coda offers more powerful databases but with even steeper complexity. Notion must prove its all-in-one workspace is worth the investment—or risk becoming a niche tool for power users while Microsoft captures the enterprise majority.
+
+---
+
+## Campaign Objective
+
+Position Notion as the flexible workspace that adapts to how you think—not how software companies think you should work—justifying the learning curve as liberation, not limitation.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 22–35 in OKC metro, knowledge workers, freelancers, and small teams who juggle multiple tools and feel overwhelmed by app sprawl.
+**Secondary:** Microsoft 365 users frustrated by rigid structures and looking for customizable workflows.
+
+---
+
+## Key Insight
+
+People don't abandon productivity tools because they're bad—they abandon them because the tools force them to think in someone else's system.
+
+---
+
+## Single-Minded Proposition
+
+**Notion doesn't tell you how to work. It works the way you think.**
+
+---
+
+## Tone & Personality
+
+Flexible, empowering, minimalist-but-powerful, thoughtful, liberating.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Notion's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid rigid grids, templates, or pre-built structures** → **Prioritize blank canvases transforming into personalized systems, modularity, flexibility.**
+- **Avoid typical productivity imagery (laptops, coffee, to-do lists)** → **Show the mental process—ideas connecting, systems forming, thoughts organizing.**
+- **Avoid sterile tech UI screenshots** → **Use Notion's bold primary colors (yellows, blues, reds) introduced in 2024 campaign.**
+- **Avoid corporate productivity language** → **Show individual thinking styles—visual thinkers, list makers, database builders—each using Notion their way.**
+- Typography should feel modular and customizable, reflecting Notion's flexibility.
+
+---
+
+## Brand Integrity Rules
+
+- The master Notion logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Where Ideas Become Systems.*
+- At least one visual demonstrating Notion's adaptability to different thinking styles or workflows.
+- Visual language emphasizing customization and flexibility over pre-built templates.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes the learning curve feel like empowerment, not friction.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Notion campaign.
+- Flexibility becomes the brand's competitive advantage over rigid enterprise tools.
+
+
+---
+
+
+**Client:** Spotify
+**Campaign:** *Listening Pays Off.*
+
+---
+
+## Brand Background
+
+Spotify generated €15.6 billion in revenue for 2024 (+18% YoY), marking its first full-year profit of €1.138 billion after years of losses. The Swedish streaming platform reached 675 million monthly active users and 263 million paid subscribers by year-end 2024, commanding 30.5% of the global music streaming market—more than double Apple Music's 13.7%. Spotify went public in 2018 and has maintained market leadership through personalized playlists (Discover Weekly, Release Radar), a freemium business model, and aggressive international expansion. The company added 28 million subscribers in 2024 alone—more than the combined total of Apple, Amazon, and Tencent. Spotify's challenge: it finally achieved profitability through price increases and subscriber growth, but faces persistent criticism from artists over royalty payments.
+
+---
+
+## Business Challenge
+
+Spotify dominates streaming but operates in a perpetual tension: listeners want free or cheap access to unlimited music, while artists want fair compensation. The company pays between $0.003–$0.005 per stream and implemented a controversial 1,000-stream threshold in 2024, meaning tracks below that limit generate zero royalties. Artists and industry advocates argue this exploits creators, especially independent musicians, while major labels benefit disproportionately. Meanwhile, Apple Music and YouTube Music leverage ecosystem advantages (hardware, ads) that Spotify lacks. As competitors add similar personalization features, Spotify's differentiation narrows. Can Spotify convince consumers that its platform delivers value worth paying for—while artists quietly subsidize the experience?
+
+---
+
+## Campaign Objective
+
+Reframe Spotify's value proposition around discovery and personalization as listener benefits worth paying for—positioning Premium as essential infrastructure for music lovers, not a luxury.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 18–34 in OKC metro, currently using Spotify Free, who skip ads and love curated playlists but resist paying for Premium.
+**Secondary:** Apple Music and YouTube Music users open to switching for better personalization.
+
+---
+
+## Key Insight
+
+People don't pay for unlimited music—they pay for the music they didn't know they needed until Spotify found it for them.
+
+---
+
+## Single-Minded Proposition
+
+**Spotify doesn't just play what you want. It shows you what you'll love next.**
+
+---
+
+## Tone & Personality
+
+Personalized, music-obsessed, algorithmically-smart, indispensable, unapologetic.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Spotify's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid generic music lifestyle imagery (headphones, concerts, dancing)** → **Prioritize data visualization, playlist algorithms, discovery moments, "how did Spotify know?" reactions.**
+- **Avoid artist worship or celebrity endorsements** → **Focus on the listener's relationship with discovery, not fandom.**
+- **Avoid sterile tech/UI screenshots** → **Use Spotify's brand green dynamically—show playlists as living, evolving systems.**
+- **Avoid passive listening visuals** → **Show active discovery—scrolling, saving, sharing new finds.**
+- Typography should feel dynamic and rhythm-driven, reflecting music's energy.
+
+---
+
+## Brand Integrity Rules
+
+- The master Spotify logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Listening Pays Off.*
+- At least one visual demonstrating Spotify's discovery/personalization algorithm in action.
+- Visual language emphasizing curation and intelligence, not just access.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes Premium feel essential for discovery, not just ad removal.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Spotify campaign.
+- Personalization becomes the brand's competitive advantage over unlimited access.
+
+
+---
+
+## Entertainment & Media
+
+
+**Client:** HBO Max
+**Campaign:** *Back to Quality.*
+
+---
+
+## Brand Background
+
+HBO Max, owned by Warner Bros. Discovery, generated $54 million in revenue with $5.8 million profit in Q2 2025—its fourth consecutive profitable quarter after years of losses. The platform serves 122.3 million global subscribers (adding 22 million in 2024) with access to HBO's premium library, Warner Bros. films, and Discovery content. Originally launched in May 2020, the service rebranded to "Max" in May 2023 before returning to "HBO Max" in July 2025, using the self-aware tagline "Same app. New-ish name." The platform operates under the pressure of achieving profitability while competing against Netflix ($39B revenue, $10.4B profit) and Disney+ ($28.6B revenue, $0.7B profit). HBO Max posted its first profitable quarter in Q3 2024 with a $2.6 million operating profit, representing a dramatic turnaround from a $7.9 million loss the previous year.
+
+---
+
+## Business Challenge
+
+HBO Max finally achieved profitability in 2024, but the path there eroded subscriber trust: Warner Bros. Discovery cut $3 billion in costs by removing thousands of hours of content in 2024, including HBO originals like The Leftovers, Max Originals like Titans, and beloved sitcoms like The Fresh Prince of Bel-Air. Fans accused the platform of breaking its "HBO = quality" promise by sacrificing library depth for balance sheets. The rebrand confusion—HBO Max to Max (2023) back to HBO Max (2025)—signaled strategic uncertainty, while introducing ads to a previously ad-free premium service alienated paying subscribers. Meanwhile, Netflix (21-30% U.S. market share) and Amazon Prime Video (22% U.S. market share) offer larger libraries and clearer identities. Can HBO Max convince subscribers that "HBO quality" still means something—or has the platform become just another struggling streamer cutting corners to survive?
+
+---
+
+## Campaign Objective
+
+Reframe HBO Max's return to its original name as a recommitment to HBO's legacy of premium storytelling—positioning content selectivity as intentional curation, not cost-cutting.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 30-50 in OKC metro who value prestige TV (Game of Thrones, Succession, The Last of Us) and feel disappointed by content removals and brand confusion.
+**Secondary:** Lapsed HBO subscribers considering return who need reassurance the platform still delivers quality over quantity.
+
+---
+
+## Key Insight
+
+People don't subscribe to HBO for more content—they subscribe for content they can't get anywhere else.
+
+---
+
+## Single-Minded Proposition
+
+**HBO Max doesn't compete for your attention. It earns it.**
+
+---
+
+## Tone & Personality
+
+Prestige-focused, quality-obsessed, uncompromising, cinematic, premium.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements HBO Max's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid generic streaming platform imagery or endless scrolling** → **Prioritize cinematic quality, prestige drama moments, awards, critical acclaim.**
+- **Avoid volume or quantity messaging** → **Show singular iconic shows—one great series worth subscribing for.**
+- **Avoid content graveyard references** → **Focus on what's here and what's coming, not what was removed.**
+- **Avoid comparing to competitors** → **Position HBO Max as a different category—quality tier, not volume competitor.**
+- Typography should feel premium and cinematic, reflecting HBO's legacy.
+
+---
+
+## Brand Integrity Rules
+
+- The master HBO Max logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Back to Quality.*
+- At least one visual referencing HBO's prestige legacy or award-winning original programming.
+- Visual language emphasizing singular quality over content volume.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes HBO Max's return to original name feel like a quality promise, not brand confusion.
+- All executions feel system-connected.
+- Work could plausibly live in a professional HBO Max campaign.
+- Prestige becomes the brand's competitive advantage over content volume.
+
+
+---
+
+
+**Client:** Netflix
+**Campaign:** *Worth Watching.*
+
+---
+
+## Brand Background
+
+Netflix generated $9.4 billion in revenue for Q1 2025 (+15% YoY), posting net income of $2.3 billion (+79% YoY) with 310 million subscribers globally. The streaming giant pioneered binge-watching culture and original content production after transitioning from DVD rentals in 1997 to streaming in 2007. Netflix operates in 190+ countries and invested $17 billion in content during 2024, with plans for $18 billion in 2025. The company's password-sharing crackdown (2023-2024) converted an estimated 100 million freeloading households into paying customers, adding 50 million subscribers since May 2023. Netflix holds approximately 21-30% U.S. market share and launched an ad-supported tier reaching 91 million monthly active users by Q1 2025. The platform's tagline "See What's Next" reflects its strategy of staying ahead through original programming.
+
+---
+
+## Business Challenge
+
+Netflix dominates streaming but faces intensifying pressure on multiple fronts: Amazon Prime Video (22% U.S. market share) and Disney+ ($23.3B revenue, newly profitable) compete for subscribers and content budgets, while Netflix's $17 billion annual content spend creates unsustainable expectations for constant hits. The company led all platforms in cancellations for 2024, ending 22 series and cutting 130+ original shows—triggering subscriber backlash over "binge-or-die" viewing pressure and beloved shows axed after one season. Price increases ($15.49-$22.99/month) combined with password crackdowns alienated loyal users who feel Netflix prioritizes growth metrics over viewer loyalty. Most critically: can Netflix justify premium pricing when competitors offer comparable content for less, and when its own aggressive cancellation policy makes subscribing feel like a gamble?
+
+---
+
+## Campaign Objective
+
+Reframe Netflix's content volume and curation as quality control—positioning cancellations and investments as proof that Netflix only keeps what's worth your time, not just what fills a library.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 25-40 in OKC metro who subscribe to multiple streaming services and increasingly question whether Netflix justifies its premium price.
+**Secondary:** Lapsed subscribers considering return who left due to price increases or show cancellations.
+
+---
+
+## Key Insight
+
+People don't abandon streaming services because there's nothing to watch—they abandon them because there's too much mediocre content and not enough time to find what's actually good.
+
+---
+
+## Single-Minded Proposition
+
+**Netflix doesn't give you everything. It gives you what's worth watching.**
+
+---
+
+## Tone & Personality
+
+Selective, quality-obsessed, unapologetic, curator-confident, time-respecting.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Netflix's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid endless scrolling or overwhelming library imagery** → **Prioritize curated selections, quality indicators, "this is the one" moments.**
+- **Avoid generic binge-watching visuals (couch, remote, popcorn)** → **Show intentional viewing—people choosing Netflix for specific shows they've heard about.**
+- **Avoid quantity messaging or "unlimited" language** → **Use Netflix's iconic red as a signal of quality, not volume.**
+- **Avoid passive consumption** → **Show active discovery and recommendation trust—"Netflix knew I'd love this."**
+- Typography should feel confident and editorial, reflecting curation over abundance.
+
+---
+
+## Brand Integrity Rules
+
+- The master Netflix logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Worth Watching.*
+- At least one visual demonstrating curation/selection over volume.
+- Visual language emphasizing quality and intentionality over endless options.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes Netflix's selectivity feel like value, not limitation.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Netflix campaign.
+- Curation becomes the brand's competitive advantage over content volume.
+
+
+---
+
+
+**Client:** The Athletic
+**Campaign:** *Sports. Done Right.*
+
+---
+
+## Brand Background
+
+The Athletic generated $54 million in revenue with $5.8 million profit in Q2 2025—its fourth consecutive profitable quarter since The New York Times acquired it for $550 million in 2022. The subscription-based sports journalism platform serves 5.83 million subscribers (up from 1.2 million at acquisition) and reaches 5 million newsletter subscribers (+67% YoY). Founded in 2016, The Athletic pioneered ad-free, paywall-protected sports coverage through local beat reporters and long-form storytelling before pivoting in 2023 to discontinue team-specific beats and cut 4% of staff. The platform operates under the tagline "Here for every sports story that matters" and competes against ESPN+ (25.3M subscribers), Bleacher Report, and free sports media. After years of venture capital losses, The Athletic posted its first profitable quarter (Q3 2024) under NYT ownership, generating $44.7 million revenue (+30% YoY).
+
+---
+
+## Business Challenge
+
+The Athletic finally achieved profitability in 2024, but the path there betrayed its founding promise: the 2023 reorganization eliminated local beat reporters—the very feature that differentiated The Athletic from ESPN and Bleacher Report—replacing team-specific coverage with generalized national content. Subscribers who paid $72-$120/year for dedicated local journalism now receive the same aggregated coverage available elsewhere. Meanwhile, the strict paywall that once signaled premium quality now feels punitive—investigative reports sit behind paywalls while ESPN distributes breaking news for free, and The Athletic admitted it needs to "move away from the more sturdy paywall" to grow. Adding insult: subscribers now see ads despite paying for ad-free content, violating the original value proposition. Can The Athletic convince sports fans that $10/month delivers irreplaceable value—or has it become just another struggling sports site sacrificing differentiation for profitability?
+
+---
+
+## Campaign Objective
+
+Reframe The Athletic's paywall as protection for quality journalism worth paying for—positioning subscriptions as investment in storytelling ESPN's highlight reels and Bleacher Report's hot takes can't replicate.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 25-45 in OKC metro, passionate sports fans who want depth beyond scores and highlights, willing to pay for analysis and storytelling.
+**Secondary:** Lapsed subscribers who canceled after local beat coverage cuts or ad introductions, needing reasons to return.
+
+---
+
+## Key Insight
+
+Sports fans don't need another place to check scores—they need someone to explain what actually happened and why it matters.
+
+---
+
+## Single-Minded Proposition
+
+**The Athletic doesn't just tell you what happened. It tells you why you should care.**
+
+---
+
+## Tone & Personality
+
+In-depth, journalist-credible, storytelling-focused, analysis-driven, score-transcending.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements The Athletic's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid highlight reels, scoreboards, or game-action photography** → **Prioritize long-form storytelling, reporter notebooks, behind-the-scenes access, locker room insights.**
+- **Avoid hot takes or debate show aesthetics** → **Show thoughtful analysis, investigative journalism, the story behind the story.**
+- **Avoid generic sports fandom imagery** → **Use typography and layout to emphasize depth—pull quotes, bylines, journalist credibility.**
+- **Avoid free content comparisons** → **Position The Athletic as a different category—journalism vs. highlights.**
+- Typography should feel editorial and credible, reflecting quality journalism.
+
+---
+
+## Brand Integrity Rules
+
+- The master The Athletic logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Sports. Done Right.*
+- At least one visual emphasizing storytelling, analysis, or journalist credibility over highlights/scores.
+- Visual language emphasizing depth and context over immediacy and hot takes.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes the paywall feel like protection for quality, not a barrier to access.
+- All executions feel system-connected.
+- Work could plausibly live in a professional The Athletic campaign.
+- Depth and storytelling become the brand's competitive advantage over free highlights and hot takes.
+
+
+---
+
+
+**Client:** YouTube Music
+**Campaign:** *Everything You Want to Hear.*
+
+---
+
+## Brand Background
+
+YouTube Music reached 125 million paid subscribers globally by 2025, growing from 100 million in February 2024 and 50 million in September 2021. The Google-owned streaming service generated $1.1 billion in revenue as of February 2024, commanding 17.60% of the global streaming market with 868.4 million active users. YouTube Music launched in its current form in 2018 after replacing Google Play Music, entering a crowded market years after Spotify (2008) and Apple Music (2015). The platform leverages YouTube's massive video library, offering both audio-only streaming and music video access, bundled with YouTube Premium ($13.99/month) for ad-free viewing across both services. Despite rapid growth, YouTube Music remains a distant fourth behind Spotify (675M users, 30.5% market share), Apple Music (13.7% market share), and Amazon Music in total U.S. subscribers.
+
+---
+
+## Business Challenge
+
+YouTube Music's late entry (2018) means Spotify's subscriber base is 5x larger, and combined, Spotify and Apple Music dwarf YouTube Music by roughly 10x. The platform faces an identity crisis: is it a music streamer or a video platform with audio? While YouTube's integration offers unique advantages (official music videos, live performances, covers, remixes), it also creates problems—users complain that AI-generated tracks flood recommendations, with "Not interested" and thumbs-down failing to stop the algorithmic spam. Algorithm changes in late 2024 broke recommendations for many users, surfacing old watched content instead of new music discoveries. YouTube Music also struggles with perception: it's seen as a bonus feature for YouTube Premium subscribers, not a standalone music destination. Can YouTube Music convince listeners it's a serious Spotify alternative—or will it remain the afterthought service bundled with ad-free YouTube?
+
+---
+
+## Campaign Objective
+
+Reframe YouTube Music's video integration as a unique advantage—positioning the platform as the only service offering official music videos, live performances, and audio streaming in one place.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 18-35 in OKC metro who watch music videos on YouTube and currently pay for Spotify or Apple Music separately.
+**Secondary:** YouTube Premium subscribers who don't realize YouTube Music is already included and worth using as their primary music app.
+
+---
+
+## Key Insight
+
+People don't just listen to music—they watch it, discover it live, and explore versions Spotify doesn't have.
+
+---
+
+## Single-Minded Proposition
+
+**YouTube Music gives you the song, the video, the live version, and the cover you didn't know you needed.**
+
+---
+
+## Tone & Personality
+
+Comprehensive, video-integrated, discovery-driven, unexpectedly complete, format-agnostic.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements YouTube Music's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid audio-only streaming imagery (headphones, playlists, static screens)** → **Prioritize video integration—concert footage, official videos, live performances, acoustic versions.**
+- **Avoid comparing directly to Spotify/Apple Music** → **Show what competitors can't offer—visual music experiences.**
+- **Avoid generic music discovery language** → **Use YouTube Music's red play button as a symbol of comprehensive access—every format, every version.**
+- **Avoid passive listening** → **Show active exploration—switching from audio to video, discovering live versions, finding covers.**
+- Typography should feel dynamic and format-flexible, reflecting audio/video versatility.
+
+---
+
+## Brand Integrity Rules
+
+- The master YouTube Music logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Everything You Want to Hear.*
+- At least one visual demonstrating video/audio integration or format versatility (official video + live version + cover).
+- Visual language emphasizing completeness and format flexibility over audio-only streaming.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes video integration feel essential, not optional.
+- All executions feel system-connected.
+- Work could plausibly live in a professional YouTube Music campaign.
+- Format versatility becomes the brand's competitive advantage over audio-only competitors.
+
+
+---
+
+## Local & Regional Services
+
+
+**Client:** Crest Foods
+**Campaign:** *Rock Bottom. Top Quality.*
+
+---
+
+## Brand Background
+
+Crest Foods is a family-owned Oklahoma grocery chain operating 9 stores across the Oklahoma City metro area, with the corporate office in Edmond. Founded in 1946 as Nick's Brett Drive Grocery in Midwest City by Nick and Cherry Harroz, the company generates approximately $240 million in annual revenue and employs 67 people. Current CEO Bruce Harroz (son of founders) expanded the chain with stores added in Moore (2002), Oklahoma City (2004, 2005, 2010), Norman (2013), and a ninth location in 2017. Crest Foods operates 24/7, 365 days a year under the slogan "Quality. Culture. Tradition" and the long-standing promise of "Rock Bottom Prices." The company was named The Shelby Report of the Southwest's 2024 Retailer of the Year despite facing challenges including economy, labor, and increased expenses.
+
+---
+
+## Business Challenge
+
+Crest Foods built its reputation on "Rock Bottom Prices" in an era when regional grocers could compete on price, but Walmart's scale—42% of American grocery market share, superior supply chains, remodeled stores, and Walmart+ membership—makes undercutting nearly impossible. Crest's VP admits the company faces "economy, labor and increased expenses" while trying to maintain rock-bottom pricing. Customer reviews confirm the dilemma: some praise "way way better prices than Walmart" while others note prices are "a little high on lots of items especially for someone on a fixed income." Meanwhile, Crest doesn't offer grocery pickup services (Walmart does), doesn't guarantee produce (competitors do), and has "long checkout times." The brand's challenge: if Crest can't consistently deliver the lowest prices anymore, and if Walmart offers more convenience, what's the reason to drive to Crest instead of the Walmart down the street?
+
+---
+
+## Campaign Objective
+
+Reframe Crest's "Rock Bottom Prices" promise as value beyond the receipt—positioning low prices as the baseline, with quality meat, fresh produce, and family ownership as the differentiators.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 30-65 in Oklahoma City metro, price-conscious families who want quality groceries without paying Homeland premiums or settling for Walmart selection.
+**Secondary:** Meat and produce shoppers seeking quality cuts and fresh selection beyond what Walmart offers.
+
+---
+
+## Key Insight
+
+People shop for groceries on price, but they come back for quality they can trust—especially when it comes to meat and produce.
+
+---
+
+## Single-Minded Proposition
+
+**Crest gives you Walmart's prices with the quality Walmart can't.**
+
+---
+
+## Tone & Personality
+
+Value-confident, quality-obsessed, family-proud, no-nonsense, Oklahoma-rooted.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Crest Foods' master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid generic price messaging or discount store aesthetics** → **Prioritize quality proof—prime steaks, fresh produce close-ups, butcher expertise.**
+- **Avoid comparing prices directly to Walmart** → **Show quality gaps—Crest's meat counter vs. Walmart's pre-packaged case.**
+- **Avoid heritage or nostalgia appeals** → **Focus on current quality commitment and family ownership accountability.**
+- **Avoid convenience promises (pickup, delivery)** → **Own what Crest does best—selection, quality, value per pound.**
+- Typography should feel bold and value-confident, reflecting rock-bottom pricing without cheapness.
+
+---
+
+## Brand Integrity Rules
+
+- The master Crest Foods logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Rock Bottom. Top Quality.*
+- At least one visual demonstrating quality (meat, produce) beyond what price suggests.
+- Visual language emphasizing value equation—low price PLUS high quality.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes quality feel like the differentiator, with price as the baseline.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Crest Foods campaign.
+- Quality becomes the brand's competitive advantage over Walmart's convenience.
+
+
+---
+
+
+**Client:** Homeland Grocery
+**Campaign:** *Proudly Yours.*
+
+---
+
+## Brand Background
+
+Homeland is Oklahoma's largest locally-owned grocery store chain with 30 locations statewide, operating under parent company H.A.C., Inc., which manages 80 grocery stores across Oklahoma, Texas, Kansas, and Georgia under multiple banners. Founded in 1916 and headquartered in Oklahoma City, Homeland employs 3,400 people and has been 100% employee-owned since 2011. The company operates under the tagline "Bring Savings Home!" and emphasizes its "Proudly Local & Employee-Owned" identity. In 2025, H.A.C., Inc. closed four Homeland locations due to poor financial performance and industry headwinds, facing intense competition from Walmart (42% of American households' grocery share) and supply chain challenges that led to empty shelves in 2024. Homeland hired a new president and CEO from Walmart in 2024 to navigate competitive pressures.
+
+---
+
+## Business Challenge
+
+Homeland's employee-owned, locally-rooted identity once differentiated it from Walmart and national chains, but financial struggles now undermine that promise: store closures in 2025, empty shelves in 2024, and customer complaints about prices consistently $0.20-$0.50 higher than Crest Foods erode trust. Mass retailers like Walmart dominate with 42% grocery market share through superior supply chains, competitive pricing, and membership programs, while Homeland struggles with "high prices and bad service" reviews and reports of unfriendly staff. The company's tagline "Bring Savings Home!" rings hollow when customers see higher prices and bare shelves. Meanwhile, Homeland launched a retail media partnership in July 2024 and introduced ads—adding revenue but potentially alienating shoppers who expected a different experience from employee-owned stores. Can Homeland convince Oklahomans that local ownership and employee investment deliver value worth paying for—or has Walmart's scale made regional grocers obsolete?
+
+---
+
+## Campaign Objective
+
+Reframe Homeland's employee ownership as accountability—positioning the grocer as the only Oklahoma chain where every employee has a stake in your experience, not just a paycheck.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 35-65 in Oklahoma communities, families who value local businesses and want alternatives to Walmart but need competitive prices and reliable stock.
+**Secondary:** Former Homeland customers considering return who left due to price or service issues.
+
+---
+
+## Key Insight
+
+People want to support local businesses, but not at the expense of empty shelves and higher prices—unless those employees truly have skin in the game.
+
+---
+
+## Single-Minded Proposition
+
+**At Homeland, every employee is an owner. Your experience is our investment.**
+
+---
+
+## Tone & Personality
+
+Employee-invested, accountability-driven, Oklahoma-proud, locally-committed, stake-holding.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Homeland's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid generic local business imagery or "shop local" clichés** → **Prioritize employee ownership—staff with ownership badges, "I'm an owner" moments, invested employees.**
+- **Avoid competing on price alone** → **Show accountability—employees who care because they own the outcome.**
+- **Avoid nostalgia or heritage appeals** → **Focus on present-day commitment and ownership structure as current advantage.**
+- **Avoid corporate grocery aesthetics** → **Show Oklahoma pride—state products, local suppliers, community investment.**
+- Typography should feel employee-proud and ownership-confident, reflecting stake-holding.
+
+---
+
+## Brand Integrity Rules
+
+- The master Homeland logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Proudly Yours.*
+- At least one visual demonstrating employee ownership or accountability.
+- Visual language emphasizing ownership investment over corporate employment.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes employee ownership feel like accountability, not just a business model.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Homeland campaign.
+- Ownership becomes the brand's competitive advantage over corporate chains.
+
+
+---
+
+
+**Client:** Norman Regional Health System
+**Campaign:** *Oklahoma's First Choice.*
+
+---
+
+## Brand Background
+
+Norman Regional Health System operates a 775,000-square-foot, 326-bed acute-care hospital at I-35 and Tecumseh Road in Norman, Oklahoma, plus Norman Regional Moore, a $32 million facility with physician offices and a 24-hour emergency center. The system employs more than 2,700 people with 356 physicians credentialed on the Medical Staff, generating approximately $500 million in annual revenue. In July 2024, Norman Regional moved its main campus from its historic Porter Avenue location to the newly expanded hospital. The health system announced in February 2025 it was issuing a request for proposal for a potential sale or partnership, citing "current financial challenges" and $328 million in outstanding debt. Norman Regional operates under the mission "Personalized healthcare with compassion and excellence" and vision "Oklahoma's first choice for care"—both refreshed in February 2025 to signal a new chapter following recent expansion.
+
+---
+
+## Business Challenge
+
+Norman Regional invested heavily in expansion—a new 775,000-square-foot hospital, Norman Regional Nine, Behavioral Health Center—but now faces $328 million in debt and financial challenges severe enough to explore selling or partnering with larger systems. The health system competes against INTEGRIS Health and OU Health for patients, staff, and resources while struggling with a mortality rate 3% worse than the national average and average emergency department wait times of 2 hours 29 minutes. Meanwhile, the rebranding confusion—refreshing mission/vision statements in 2025 amid sale discussions—signals strategic uncertainty rather than confidence. Norman Regional's challenge: can a regional hospital prove it delivers "Oklahoma's first choice for care" when its own leadership acknowledges needing capital and resources for long-term stability, and when quality metrics trail national averages?
+
+---
+
+## Campaign Objective
+
+Reframe Norman Regional's local ownership and community focus as strengths—positioning the health system as Oklahoma's hometown hospital that treats patients like neighbors, not numbers.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 30-60 in Norman, Moore, and surrounding Cleveland County communities who need a local alternative to Oklahoma City hospitals.
+**Secondary:** Families seeking personalized care and shorter wait times closer to home.
+
+---
+
+## Key Insight
+
+People don't want to drive to Oklahoma City for healthcare if they can trust their local hospital to deliver the same quality closer to home.
+
+---
+
+## Single-Minded Proposition
+
+**Norman Regional treats you like family because we're part of your community.**
+
+---
+
+## Tone & Personality
+
+Community-rooted, compassionate, locally-invested, neighbor-focused, personal.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Norman Regional's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid sterile hospital imagery (scrubs, equipment, medical procedures)** → **Prioritize community connection—local families, Norman landmarks, Cleveland County residents.**
+- **Avoid generic healthcare promises** → **Show proximity and convenience—"5 minutes from home, not 30 minutes to OKC."**
+- **Avoid comparing to larger systems** → **Focus on personal care, knowing your name, treating neighbors.**
+- **Avoid clinical distance** → **Show healthcare providers as community members—they live here, shop here, care here.**
+- Typography should feel warm and approachable, reflecting community values.
+
+---
+
+## Brand Integrity Rules
+
+- The master Norman Regional logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Oklahoma's First Choice.*
+- At least one visual demonstrating community connection or local proximity.
+- Visual language emphasizing personal care and community roots over clinical scale.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes local ownership feel like an advantage, not a limitation.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Norman Regional campaign.
+- Community connection becomes the brand's competitive advantage over larger OKC systems.
+
+
+---
+
+## Automotive & Mobility
+
+
+**Client:** Lime
+**Campaign:** *Move Smart.*
+
+---
+
+## Brand Background
+
+Lime delivered 200 million rides in 2024, generating $686 million in net revenue (+32% YoY) and $810 million in gross bookings (+31% YoY) while achieving $140 million in adjusted EBITDA (+49% YoY) and free cash flow positive for the second consecutive year. The San Francisco-based micromobility company operates electric scooters and bikes in 280+ cities worldwide, serving 24 million riders with the mission "Ride Green." Lime became the first micromobility company to achieve profitability in 2022 and is preparing for a U.S. IPO in 2025-2026 with Goldman Sachs and JPMorgan Chase. The company operates under the tagline "It's Time to Lime" and replaced an estimated 43 million car trips in 2024, avoiding 20,000 metric tons of CO2 emissions. However, Melbourne and Madrid banned Lime scooters in 2024 due to safety complaints, poorly parked vehicles, and emergency room visits (Melbourne: 256 injuries in 2023, including one death).
+
+---
+
+## Business Challenge
+
+Lime achieved profitability and record ridership in 2024, but city bans in Melbourne and Madrid expose the existential tension at the heart of micromobility: scooters promise sustainability and convenience but deliver emergency room visits (40+ per month in Melbourne alone), visual pollution from poorly parked units, and regulatory backlash. Paris, Melbourne, and Madrid—three major global cities—banned rental e-scooters entirely in 2024, with complaints ranging from tripping hazards to product defects (Lime recalled Okai scooters globally after they broke apart mid-ride). Meanwhile, competitor Bird's stock crashed from $8.40 to $0.20, showing how quickly micromobility companies can collapse. Lime's challenge: can the company convince cities and riders that scooters are a serious transportation solution—not a public safety liability—when hospitals report hundreds of injuries and cities keep issuing bans?
+
+---
+
+## Campaign Objective
+
+Reframe Lime's scooters as smart urban transportation that replaces short car trips—positioning micromobility as solving city congestion and emissions, not creating safety problems.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 22-40 in cities where Lime operates, urban commuters and students seeking alternatives to cars, Uber, or public transit for short trips (under 3 miles).
+**Secondary:** City officials and policymakers evaluating micromobility regulations who need evidence of responsible operations.
+
+---
+
+## Key Insight
+
+People don't ride scooters to be reckless—they ride them because short car trips waste time, money, and gas.
+
+---
+
+## Single-Minded Proposition
+
+**Lime gets you there faster than walking, cheaper than driving, and smarter than both.**
+
+---
+
+## Tone & Personality
+
+Efficiency-focused, city-smart, car-replacing, congestion-solving, emissions-reducing.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Lime's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid reckless riding or stunt imagery** → **Prioritize smart urban mobility—commuters, students, errands, practical short trips.**
+- **Avoid "fun toy" aesthetics** → **Show serious transportation use—bike lanes, helmet usage, responsible parking.**
+- **Avoid sustainability preaching** → **Focus on practical benefits—faster than walking, cheaper than Uber, no parking hassles.**
+- **Avoid ignoring safety concerns** → **Show responsible use, infrastructure integration, proper parking.**
+- Typography should feel efficient and urban-smart, reflecting practical transportation.
+
+---
+
+## Brand Integrity Rules
+
+- The master Lime logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Move Smart.*
+- At least one visual demonstrating practical urban transportation use (commute, errands, last-mile connectivity).
+- Visual language emphasizing efficiency and practicality over recreation or novelty.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes scooters feel like smart transportation, not safety risks.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Lime campaign.
+- Practical efficiency becomes the brand's competitive advantage over car trips and rideshares.
+
+
+---
+
+
+**Client:** Rivian
+**Campaign:** *Built for Adventures, Not Excuses.*
+
+---
+
+## Brand Background
+
+Rivian delivered 51,579 vehicles in 2024, generating $686 million in net revenue (+32% YoY) and achieving $140 million in adjusted EBITDA (+49% YoY) while reaching free cash flow positive for the second consecutive year. The Irvine, California-based electric adventure vehicle maker operates under the mission "Keep the world adventurous forever" and manufactures the R1T (electric truck) and R1S (electric SUV) at its Normal, Illinois factory. Rivian also produces electric delivery vans (EDVs) for Amazon, having delivered 20,000+ units as part of a 100,000-vehicle contract by 2030, earning $1 billion from Amazon in 2024. The company employs innovative features like swappable batteries and targets IPO in 2025-2026. Despite progress toward profitability, Rivian lost $5.4 billion in 2024 and ranks fifth-worst in Consumer Reports' 2024 brand reliability rankings.
+
+---
+
+## Business Challenge
+
+Rivian finally achieved free cash flow positive status in 2024, but the path there exposed fundamental problems: the company loses money on every vehicle sold (gross margin of -159.38%), burned through $1.2 billion in Q3 2024 alone (double expectations), and has spent over $19 billion since going public in 2021. Meanwhile, build quality issues plague the refreshed R1S—loose trims, non-functional USB-C ports, unaligned console pieces—suggesting vehicles are "rushed to market with little quality control." Customer service adds insult: with only one service center in some states, working owners find it "virtually impossible" to get vehicles serviced despite spending $75-100K, and wait times reach 2-3 months even in Southern California. Rivian's challenge: can an adventure brand convince buyers to trust $80K+ vehicles when Consumer Reports ranks them fifth-worst for reliability, service takes months, and the company still loses billions annually?
+
+---
+
+## Campaign Objective
+
+Reframe Rivian's "adventure forever" mission as accountability—positioning the brand's focus on durability, capability, and owner stories as proof that adventure demands reliability, not just aspiration.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 35-55, outdoor enthusiasts and families considering electric adventure vehicles who want capability but worry about Rivian's reliability and service issues.
+**Secondary:** Tesla truck shoppers seeking alternatives who value adventure over utility but need reassurance on build quality.
+
+---
+
+## Key Insight
+
+People who actually take vehicles on adventures don't want excuses—they want trucks and SUVs that work when it matters.
+
+---
+
+## Single-Minded Proposition
+
+**Rivian builds adventure vehicles for people who actually use them.**
+
+---
+
+## Tone & Personality
+
+Adventure-proven, capability-focused, durability-obsessed, no-excuses, owner-validated.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Rivian's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid pristine showroom vehicles or glamping aesthetics** → **Prioritize real adventures—muddy R1Ts, river crossings, gear loaded, sweat and dirt.**
+- **Avoid aspirational lifestyle imagery** → **Show actual owner stories from "Real Rivian Adventures" campaign—families using vehicles, not posing with them.**
+- **Avoid comparing to Tesla or other EVs** → **Focus on adventure capability—what Rivian does that others can't (ground clearance, wading depth, cargo capacity).**
+- **Avoid hiding build quality concerns** → **Emphasize durability testing, off-road validation, capability over cosmetic perfection.**
+- Typography should feel rugged and capability-confident, reflecting adventure readiness.
+
+---
+
+## Brand Integrity Rules
+
+- The master Rivian logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Built for Adventures, Not Excuses.*
+- At least one visual demonstrating real-world adventure capability or owner story.
+- Visual language emphasizing proven durability and capability over aspiration.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes adventure capability feel like the priority, with reliability implied.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Rivian campaign.
+- Real-world adventure validation becomes the brand's competitive advantage over showroom EVs.
+
+
+---
+
+
+**Client:** Tesla
+**Campaign:** *Electric. Proven. Uncompromised.*
+
+---
+
+## Brand Background
+
+Tesla generated $97.69 billion in revenue in 2024 (+0.95% YoY) but posted its first annual delivery decline in 12 years, selling 1.79 million vehicles globally (-1.1% YoY). The Palo Alto-based electric vehicle manufacturer pioneered mass-market EVs through vertical integration, direct sales, and software-first design, operating under the mission "to accelerate the world's transition to sustainable energy." Tesla lost its global EV manufacturing lead to Chinese competitor BYD in 2024 (1,774,442 vs. 1,777,965 vehicles) while U.S. market share dropped from 75% (2022) to under 50% (2024). The company operates with minimal traditional advertising, relying instead on CEO Elon Musk's public presence and word-of-mouth. Tesla's Cybertruck faced eight recalls in 2024, including accelerator pedal defects, windshield wiper failures, and panel alignment issues.
+
+---
+
+## Business Challenge
+
+Tesla's first-mover advantage is evaporating: BYD now outsells Tesla globally, legacy automakers like Volkswagen and Hyundai leverage government incentives to undercut pricing, and Tesla's U.S. market share fell from 75% to under 50% in two years. The Cybertruck—once positioned as the future of trucks—suffered eight recalls in 2024, with owners reporting "a full-time job dealing with Tesla's non-existent and abysmal customer service." Meanwhile, Elon Musk's polarizing political statements alienated core customers, with Tesla EV sales down 10% in Europe and 5% in the U.S. The company's ad-free marketing strategy worked when Tesla was the only game in town; now competitors flood the market with comparable EVs, better service networks, and actual advertising. Can Tesla convince buyers it's still the EV leader when BYD sells more cars, competitors cost less, and quality issues undermine the premium brand promise?
+
+---
+
+## Campaign Objective
+
+Reframe Tesla's vertical integration and technology leadership as reliability advantages—positioning the brand as the EV that's proven itself over 15+ years while competitors rush to catch up.
+
+---
+
+## Target Audience
+
+**Primary:** Ages 30-50, educated professionals considering their first EV who see Tesla as risky after hearing about Cybertruck recalls and Musk controversies.
+**Secondary:** Tesla owners considering switching to competitors due to quality or service frustrations.
+
+---
+
+## Key Insight
+
+People don't buy the first electric car they find—they buy the one they trust won't leave them stranded or frustrated.
+
+---
+
+## Single-Minded Proposition
+
+**Tesla didn't just build the first mass-market EV. We've been perfecting it for 15 years.**
+
+---
+
+## Tone & Personality
+
+Technology-confident, proven-reliable, innovation-grounded, uncompromising, vertically-integrated.
+
+---
+
+## Deliverables & Media Requirements
+
+### Phase 1 – Visual Identity Development (Adobe Illustrator)
+- Campaign lockup that complements Tesla's master brand
+- Three supporting graphic motifs
+
+### Phase 2 – Core Visual Assets (Adobe Photoshop)
+- One hero visual
+- Three supporting variations
+- Print execution (full-page or in-store poster)
+- Two Instagram feed ads
+- One Instagram Story or Reel cover
+- One digital display or mobile banner
+
+### Phase 3 – Motion Social
+- One 5–7 second motion-based social execution
+
+### Phase 4 – Campaign Book (Adobe InDesign)
+- Brand background & challenge
+- Visual research
+- Identity system
+- Imagery system
+- Final executions
+
+---
+
+## Visual Guardrails
+
+- **Avoid futuristic concepts or unreleased products (Cybertruck controversy)** → **Prioritize proven technology—Model 3/Y longevity, Supercharger network reliability, software updates improving over time.**
+- **Avoid Elon Musk imagery or personality-driven messaging** → **Focus on engineering, vertical integration, real owner testimonials.**
+- **Avoid comparing to gas cars** → **Compare to other EVs—Tesla's years of refinement vs. competitors' first attempts.**
+- **Avoid recall or quality issue avoidance** → **Own the continuous improvement mindset—over-the-air updates, iterative engineering.**
+- Typography should feel engineered and precise, reflecting technology leadership.
+
+---
+
+## Brand Integrity Rules
+
+- The master Tesla logo may be thoughtfully modernized through contemporary brand uplift: simplify, clarify, improve legibility while preserving core recognition.
+- Any refinements must be subtle, purposeful, and documented in the campaign book.
+- The campaign mark must live alongside the master brand, not replace it.
+- No celebrities or paid spokespersons.
+- Performance claims must be visually implied, not written.
+
+---
+
+## Mandatory Creative Elements
+
+- Campaign tagline: *Electric. Proven. Uncompromised.*
+- At least one visual demonstrating longevity, reliability, or proven technology (Supercharger network, software updates, years on road).
+- Visual language emphasizing experience and refinement over novelty.
+
+---
+
+## Practical Production Constraints
+
+- Maximum of three base photographs.
+- Campaign must function in color and monochrome.
+- Adaptable to light and dark backgrounds.
+
+---
+
+## Media-Specific Rules
+
+**Print / Poster**
+- Copy must be minimal enough to read at a glance
+- Visual storytelling should dominate the composition
+- Design must work at both billboard and magazine scales
+
+**Social**
+- Must communicate without sound
+- Legibility optimized for mobile screens and thumb-stopping scroll context
+- Design should hold attention within first second of view
+
+**Motion**
+- Idea must be instantly clear without voiceover or narration
+- Opening frames carry full conceptual weight
+- Movement and pacing should feel intentional, not rushed
+
+---
+
+## What Success Looks Like
+
+- Campaign makes Tesla's experience feel like an advantage, not a liability.
+- All executions feel system-connected.
+- Work could plausibly live in a professional Tesla campaign.
+- Proven reliability becomes the brand's competitive advantage over newer EV competitors.
+
+
+---
+
