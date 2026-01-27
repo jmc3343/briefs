@@ -61,8 +61,6 @@ Neighborhood-rooted, authentic, space-conscious, locally-immersed, anti-tourist.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Airbnb's master brand
 - Three supporting graphic motifs
@@ -89,10 +87,10 @@ Neighborhood-rooted, authentic, space-conscious, locally-immersed, anti-tourist.
 
 ### Visual Guardrails
 
-- **Avoid generic vacation imagery (beaches, landmarks, tourist attractions)** → **Prioritize neighborhood context—local bakeries, residential streets, kitchens being used, spaces lived in.**
-- **Avoid empty, staged property shots** → **Show families, groups, multi-generational trips using the space—cooking, gathering, spreading out.**
-- **Avoid hotel comparison language** → **Focus on place—where you are, not what you're avoiding.**
-- **Avoid influencer-style aspirational travel** → **Show real trips—kids playing, dogs welcome, laundry drying, life happening.**
+- Avoid generic vacation imagery (beaches, landmarks, tourist attractions) → Prioritize neighborhood context—local bakeries, residential streets, kitchens being used, spaces lived in.
+- Avoid empty, staged property shots → Show families, groups, multi-generational trips using the space—cooking, gathering, spreading out.
+- Avoid hotel comparison language → Focus on place—where you are, not what you're avoiding.
+- Avoid influencer-style aspirational travel → Show real trips—kids playing, dogs welcome, laundry drying, life happening.
 - Typography should feel grounded and neighborhood-specific, not polished or corporate.
 
 ---
@@ -202,8 +200,6 @@ People buy Alo because it looks good in photos. They keep buying it when it perf
 Intentional, grounded, movement-focused, unpretentious, elevated.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Alo's master brand
@@ -345,8 +341,6 @@ Unfiltered, pressure-free, anti-performance, Gen Z-authentic, liberating.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements BeReal's master brand
 - Three supporting graphic motifs
@@ -373,10 +367,10 @@ Unfiltered, pressure-free, anti-performance, Gen Z-authentic, liberating.
 
 ### Visual Guardrails
 
-- **Avoid polished, aspirational, or influencer aesthetics** → **Prioritize unfiltered, unglamorous, real moments—messy rooms, bad lighting, caught off-guard.**
-- **Avoid single perfect shots** → **Use dual-camera format showing front/back simultaneously—what you see vs. where you are.**
-- **Avoid Instagram/TikTok visual language (trends, poses, filters)** → **Show boring, mundane, everyday reality as the point.**
-- **Avoid performance or curation cues** → **Emphasize the two-minute window—no time to stage, just post.**
+- Avoid polished, aspirational, or influencer aesthetics → Prioritize unfiltered, unglamorous, real moments—messy rooms, bad lighting, caught off-guard.
+- Avoid single perfect shots → Use dual-camera format showing front/back simultaneously—what you see vs. where you are.
+- Avoid Instagram/TikTok visual language (trends, poses, filters) → Show boring, mundane, everyday reality as the point.
+- Avoid performance or curation cues → Emphasize the two-minute window—no time to stage, just post.
 - Typography should feel spontaneous and unpolished, not designed or branded.
 
 ---
@@ -486,8 +480,6 @@ Most fast-food brands do not own the farms, trucks, or plants that make their fo
 Confident, modern, plain-spoken, locally proud.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign logo / lockup that complements Braum's master brand
@@ -637,8 +629,6 @@ Exploratory, flexible, anti-commitment, variety-driven, liberating.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements ClassPass's master brand
 - Three supporting graphic motifs
@@ -665,10 +655,10 @@ Exploratory, flexible, anti-commitment, variety-driven, liberating.
 
 ### Visual Guardrails
 
-- **Avoid single-discipline hero shots (just yoga, just cycling)** → **Prioritize variety—multiple fitness modalities in one frame or sequence.**
-- **Avoid commitment language or loyalty visuals** → **Show freedom, exploration, trying new things without pressure.**
-- **Avoid exclusive, high-end studio aesthetics** → **Use diverse, accessible studio environments reflecting real ClassPass options.**
-- **Avoid static, single-location imagery** → **Show movement between studios, cities, modalities.**
+- Avoid single-discipline hero shots (just yoga, just cycling) → Prioritize variety—multiple fitness modalities in one frame or sequence.
+- Avoid commitment language or loyalty visuals → Show freedom, exploration, trying new things without pressure.
+- Avoid exclusive, high-end studio aesthetics → Use diverse, accessible studio environments reflecting real ClassPass options.
+- Avoid static, single-location imagery → Show movement between studios, cities, modalities.
 - Typography should feel dynamic and modular, reflecting variety and flexibility.
 
 ---
@@ -779,8 +769,6 @@ Value-confident, quality-obsessed, family-proud, no-nonsense, Oklahoma-rooted.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Crest Foods' master brand
 - Three supporting graphic motifs
@@ -807,10 +795,10 @@ Value-confident, quality-obsessed, family-proud, no-nonsense, Oklahoma-rooted.
 
 ### Visual Guardrails
 
-- **Avoid generic price messaging or discount store aesthetics** → **Prioritize quality proof—prime steaks, fresh produce close-ups, butcher expertise.**
-- **Avoid comparing prices directly to Walmart** → **Show quality gaps—Crest's meat counter vs. Walmart's pre-packaged case.**
-- **Avoid heritage or nostalgia appeals** → **Focus on current quality commitment and family ownership accountability.**
-- **Avoid convenience promises (pickup, delivery)** → **Own what Crest does best—selection, quality, value per pound.**
+- Avoid generic price messaging or discount store aesthetics → Prioritize quality proof—prime steaks, fresh produce close-ups, butcher expertise.
+- Avoid comparing prices directly to Walmart → Show quality gaps—Crest's meat counter vs. Walmart's pre-packaged case.
+- Avoid heritage or nostalgia appeals → Focus on current quality commitment and family ownership accountability.
+- Avoid convenience promises (pickup, delivery) → Own what Crest does best—selection, quality, value per pound.
 - Typography should feel bold and value-confident, reflecting rock-bottom pricing without cheapness.
 
 ---
@@ -921,8 +909,6 @@ Persistent, playful-but-serious, accountability-driven, motivational, unrelentin
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Duolingo's master brand
 - Three supporting graphic motifs
@@ -949,10 +935,10 @@ Persistent, playful-but-serious, accountability-driven, motivational, unrelentin
 
 ### Visual Guardrails
 
-- **Avoid generic travel/culture imagery (Eiffel Tower, sushi, flamenco dancers)** → **Prioritize streak data, progress charts, real conversations happening because someone stuck with it.**
-- **Avoid Duo the Owl as cute mascot** → **Use Duo as relentless accountability partner—persistent, unavoidable, motivating.**
-- **Avoid gamification as distraction** → **Show gamification as the bridge—streaks leading to real fluency moments.**
-- **Avoid finish-line celebration** → **Show the grind—day 47, day 183, day 365—progress through persistence.**
+- Avoid generic travel/culture imagery (Eiffel Tower, sushi, flamenco dancers) → Prioritize streak data, progress charts, real conversations happening because someone stuck with it.
+- Avoid Duo the Owl as cute mascot → Use Duo as relentless accountability partner—persistent, unavoidable, motivating.
+- Avoid gamification as distraction → Show gamification as the bridge—streaks leading to real fluency moments.
+- Avoid finish-line celebration → Show the grind—day 47, day 183, day 365—progress through persistence.
 - Typography should feel bold and relentless, reflecting daily commitment.
 
 ---
@@ -1062,8 +1048,6 @@ Most coffee runs feel like errands. Some feel like a boost.
 Energetic, genuine, uplifting, fast, human.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Dutch Bros master brand
@@ -1205,8 +1189,6 @@ Prestige-focused, quality-obsessed, uncompromising, cinematic, premium.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements HBO Max's master brand
 - Three supporting graphic motifs
@@ -1233,10 +1215,10 @@ Prestige-focused, quality-obsessed, uncompromising, cinematic, premium.
 
 ### Visual Guardrails
 
-- **Avoid generic streaming platform imagery or endless scrolling** → **Prioritize cinematic quality, prestige drama moments, awards, critical acclaim.**
-- **Avoid volume or quantity messaging** → **Show singular iconic shows—one great series worth subscribing for.**
-- **Avoid content graveyard references** → **Focus on what's here and what's coming, not what was removed.**
-- **Avoid comparing to competitors** → **Position HBO Max as a different category—quality tier, not volume competitor.**
+- Avoid generic streaming platform imagery or endless scrolling → Prioritize cinematic quality, prestige drama moments, awards, critical acclaim.
+- Avoid volume or quantity messaging → Show singular iconic shows—one great series worth subscribing for.
+- Avoid content graveyard references → Focus on what's here and what's coming, not what was removed.
+- Avoid comparing to competitors → Position HBO Max as a different category—quality tier, not volume competitor.
 - Typography should feel premium and cinematic, reflecting HBO's legacy.
 
 ---
@@ -1347,8 +1329,6 @@ Employee-invested, accountability-driven, Oklahoma-proud, locally-committed, sta
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Homeland's master brand
 - Three supporting graphic motifs
@@ -1375,10 +1355,10 @@ Employee-invested, accountability-driven, Oklahoma-proud, locally-committed, sta
 
 ### Visual Guardrails
 
-- **Avoid generic local business imagery or "shop local" clichés** → **Prioritize employee ownership—staff with ownership badges, "I'm an owner" moments, invested employees.**
-- **Avoid competing on price alone** → **Show accountability—employees who care because they own the outcome.**
-- **Avoid nostalgia or heritage appeals** → **Focus on present-day commitment and ownership structure as current advantage.**
-- **Avoid corporate grocery aesthetics** → **Show Oklahoma pride—state products, local suppliers, community investment.**
+- Avoid generic local business imagery or "shop local" clichés → Prioritize employee ownership—staff with ownership badges, "I'm an owner" moments, invested employees.
+- Avoid competing on price alone → Show accountability—employees who care because they own the outcome.
+- Avoid nostalgia or heritage appeals → Focus on present-day commitment and ownership structure as current advantage.
+- Avoid corporate grocery aesthetics → Show Oklahoma pride—state products, local suppliers, community investment.
 - Typography should feel employee-proud and ownership-confident, reflecting stake-holding.
 
 ---
@@ -1489,8 +1469,6 @@ Efficiency-focused, city-smart, car-replacing, congestion-solving, emissions-red
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Lime's master brand
 - Three supporting graphic motifs
@@ -1517,10 +1495,10 @@ Efficiency-focused, city-smart, car-replacing, congestion-solving, emissions-red
 
 ### Visual Guardrails
 
-- **Avoid reckless riding or stunt imagery** → **Prioritize smart urban mobility—commuters, students, errands, practical short trips.**
-- **Avoid "fun toy" aesthetics** → **Show serious transportation use—bike lanes, helmet usage, responsible parking.**
-- **Avoid sustainability preaching** → **Focus on practical benefits—faster than walking, cheaper than Uber, no parking hassles.**
-- **Avoid ignoring safety concerns** → **Show responsible use, infrastructure integration, proper parking.**
+- Avoid reckless riding or stunt imagery → Prioritize smart urban mobility—commuters, students, errands, practical short trips.
+- Avoid "fun toy" aesthetics → Show serious transportation use—bike lanes, helmet usage, responsible parking.
+- Avoid sustainability preaching → Focus on practical benefits—faster than walking, cheaper than Uber, no parking hassles.
+- Avoid ignoring safety concerns → Show responsible use, infrastructure integration, proper parking.
 - Typography should feel efficient and urban-smart, reflecting practical transportation.
 
 ---
@@ -1631,8 +1609,6 @@ Selective, quality-obsessed, unapologetic, curator-confident, time-respecting.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Netflix's master brand
 - Three supporting graphic motifs
@@ -1659,10 +1635,10 @@ Selective, quality-obsessed, unapologetic, curator-confident, time-respecting.
 
 ### Visual Guardrails
 
-- **Avoid endless scrolling or overwhelming library imagery** → **Prioritize curated selections, quality indicators, "this is the one" moments.**
-- **Avoid generic binge-watching visuals (couch, remote, popcorn)** → **Show intentional viewing—people choosing Netflix for specific shows they've heard about.**
-- **Avoid quantity messaging or "unlimited" language** → **Use Netflix's iconic red as a signal of quality, not volume.**
-- **Avoid passive consumption** → **Show active discovery and recommendation trust—"Netflix knew I'd love this."**
+- Avoid endless scrolling or overwhelming library imagery → Prioritize curated selections, quality indicators, "this is the one" moments.
+- Avoid generic binge-watching visuals (couch, remote, popcorn) → Show intentional viewing—people choosing Netflix for specific shows they've heard about.
+- Avoid quantity messaging or "unlimited" language → Use Netflix's iconic red as a signal of quality, not volume.
+- Avoid passive consumption → Show active discovery and recommendation trust—"Netflix knew I'd love this."
 - Typography should feel confident and editorial, reflecting curation over abundance.
 
 ---
@@ -1772,8 +1748,6 @@ People respect brands that don't chase approval—especially when those brands q
 Confident, unpretentious, performance-focused, independently-minded, quietly superior.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements New Balance's master brand
@@ -1915,8 +1889,6 @@ Community-rooted, compassionate, locally-invested, neighbor-focused, personal.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Norman Regional's master brand
 - Three supporting graphic motifs
@@ -1943,10 +1915,10 @@ Community-rooted, compassionate, locally-invested, neighbor-focused, personal.
 
 ### Visual Guardrails
 
-- **Avoid sterile hospital imagery (scrubs, equipment, medical procedures)** → **Prioritize community connection—local families, Norman landmarks, Cleveland County residents.**
-- **Avoid generic healthcare promises** → **Show proximity and convenience—"5 minutes from home, not 30 minutes to OKC."**
-- **Avoid comparing to larger systems** → **Focus on personal care, knowing your name, treating neighbors.**
-- **Avoid clinical distance** → **Show healthcare providers as community members—they live here, shop here, care here.**
+- Avoid sterile hospital imagery (scrubs, equipment, medical procedures) → Prioritize community connection—local families, Norman landmarks, Cleveland County residents.
+- Avoid generic healthcare promises → Show proximity and convenience—"5 minutes from home, not 30 minutes to OKC."
+- Avoid comparing to larger systems → Focus on personal care, knowing your name, treating neighbors.
+- Avoid clinical distance → Show healthcare providers as community members—they live here, shop here, care here.
 - Typography should feel warm and approachable, reflecting community values.
 
 ---
@@ -2057,8 +2029,6 @@ Flexible, empowering, minimalist-but-powerful, thoughtful, liberating.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Notion's master brand
 - Three supporting graphic motifs
@@ -2085,10 +2055,10 @@ Flexible, empowering, minimalist-but-powerful, thoughtful, liberating.
 
 ### Visual Guardrails
 
-- **Avoid rigid grids, templates, or pre-built structures** → **Prioritize blank canvases transforming into personalized systems, modularity, flexibility.**
-- **Avoid typical productivity imagery (laptops, coffee, to-do lists)** → **Show the mental process—ideas connecting, systems forming, thoughts organizing.**
-- **Avoid sterile tech UI screenshots** → **Use Notion's bold primary colors (yellows, blues, reds) introduced in 2024 campaign.**
-- **Avoid corporate productivity language** → **Show individual thinking styles—visual thinkers, list makers, database builders—each using Notion their way.**
+- Avoid rigid grids, templates, or pre-built structures → Prioritize blank canvases transforming into personalized systems, modularity, flexibility.
+- Avoid typical productivity imagery (laptops, coffee, to-do lists) → Show the mental process—ideas connecting, systems forming, thoughts organizing.
+- Avoid sterile tech UI screenshots → Use Notion's bold primary colors (yellows, blues, reds) introduced in 2024 campaign.
+- Avoid corporate productivity language → Show individual thinking styles—visual thinkers, list makers, database builders—each using Notion their way.
 - Typography should feel modular and customizable, reflecting Notion's flexibility.
 
 ---
@@ -2198,8 +2168,6 @@ Runners don't just want better shoes — they want to feel like they're part of 
 Clean, confident, precise, progressive.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements the existing On master brand
@@ -2340,8 +2308,6 @@ Efficient, science-backed, no-nonsense, results-driven, empowering.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Orangetheory's master brand
 - Three supporting graphic motifs
@@ -2368,10 +2334,10 @@ Efficient, science-backed, no-nonsense, results-driven, empowering.
 
 ### Visual Guardrails
 
-- **Avoid group class energy shots with smiling faces** → **Prioritize individual effort, sweat, heart rate monitors showing Orange Zone.**
-- **Avoid generic fitness lifestyle imagery** → **Show the 60-minute structure—treadmill, rower, floor, clock ticking.**
-- **Avoid soft, welcoming, "everyone belongs" aesthetics** → **Use hard data, numbers, zones, metrics as visual language.**
-- **Avoid instructor hero shots** → **Focus on the member, the work, the hour.**
+- Avoid group class energy shots with smiling faces → Prioritize individual effort, sweat, heart rate monitors showing Orange Zone.
+- Avoid generic fitness lifestyle imagery → Show the 60-minute structure—treadmill, rower, floor, clock ticking.
+- Avoid soft, welcoming, "everyone belongs" aesthetics → Use hard data, numbers, zones, metrics as visual language.
+- Avoid instructor hero shots → Focus on the member, the work, the hour.
 - Typography should feel precise and performance-oriented, not motivational or friendly.
 
 ---
@@ -2481,8 +2447,6 @@ People who care about the environment feel guilty buying new things—unless tho
 Purposeful, uncompromising, durable, quietly confident.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Patagonia's master brand
@@ -2624,8 +2588,6 @@ Motivational, unapologetic, resilient, accountability-driven, no-excuses.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Peloton's master brand
 - Three supporting graphic motifs
@@ -2652,10 +2614,10 @@ Motivational, unapologetic, resilient, accountability-driven, no-excuses.
 
 ### Visual Guardrails
 
-- **Avoid pristine, aspirational studio imagery** → **Prioritize home environments with real clutter, real effort, real sweat.**
-- **Avoid finish-line celebration moments** → **Show the grind—mid-workout struggle, determination, returning after a break.**
-- **Avoid celebrity instructor worship** → **Use the bike/tread as the constant, the user as the hero.**
-- **Avoid sleek product photography** → **Show equipment integrated into real homes, used daily, lived-in.**
+- Avoid pristine, aspirational studio imagery → Prioritize home environments with real clutter, real effort, real sweat.
+- Avoid finish-line celebration moments → Show the grind—mid-workout struggle, determination, returning after a break.
+- Avoid celebrity instructor worship → Use the bike/tread as the constant, the user as the hero.
+- Avoid sleek product photography → Show equipment integrated into real homes, used daily, lived-in.
 - Typography should feel bold and uncompromising, not soft or inspirational.
 
 ---
@@ -2766,8 +2728,6 @@ Adventure-proven, capability-focused, durability-obsessed, no-excuses, owner-val
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Rivian's master brand
 - Three supporting graphic motifs
@@ -2794,10 +2754,10 @@ Adventure-proven, capability-focused, durability-obsessed, no-excuses, owner-val
 
 ### Visual Guardrails
 
-- **Avoid pristine showroom vehicles or glamping aesthetics** → **Prioritize real adventures—muddy R1Ts, river crossings, gear loaded, sweat and dirt.**
-- **Avoid aspirational lifestyle imagery** → **Show actual owner stories from "Real Rivian Adventures" campaign—families using vehicles, not posing with them.**
-- **Avoid comparing to Tesla or other EVs** → **Focus on adventure capability—what Rivian does that others can't (ground clearance, wading depth, cargo capacity).**
-- **Avoid hiding build quality concerns** → **Emphasize durability testing, off-road validation, capability over cosmetic perfection.**
+- Avoid pristine showroom vehicles or glamping aesthetics → Prioritize real adventures—muddy R1Ts, river crossings, gear loaded, sweat and dirt.
+- Avoid aspirational lifestyle imagery → Show actual owner stories from "Real Rivian Adventures" campaign—families using vehicles, not posing with them.
+- Avoid comparing to Tesla or other EVs → Focus on adventure capability—what Rivian does that others can't (ground clearance, wading depth, cargo capacity).
+- Avoid hiding build quality concerns → Emphasize durability testing, off-road validation, capability over cosmetic perfection.
 - Typography should feel rugged and capability-confident, reflecting adventure readiness.
 
 ---
@@ -2907,8 +2867,6 @@ People want food their way, but most fast-food chains make you settle for theirs
 Confident, playful, unapologetic, refreshingly flexible.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Sonic's master brand
@@ -3050,8 +3008,6 @@ Personalized, music-obsessed, algorithmically-smart, indispensable, unapologetic
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Spotify's master brand
 - Three supporting graphic motifs
@@ -3078,10 +3034,10 @@ Personalized, music-obsessed, algorithmically-smart, indispensable, unapologetic
 
 ### Visual Guardrails
 
-- **Avoid generic music lifestyle imagery (headphones, concerts, dancing)** → **Prioritize data visualization, playlist algorithms, discovery moments, "how did Spotify know?" reactions.**
-- **Avoid artist worship or celebrity endorsements** → **Focus on the listener's relationship with discovery, not fandom.**
-- **Avoid sterile tech/UI screenshots** → **Use Spotify's brand green dynamically—show playlists as living, evolving systems.**
-- **Avoid passive listening visuals** → **Show active discovery—scrolling, saving, sharing new finds.**
+- Avoid generic music lifestyle imagery (headphones, concerts, dancing) → Prioritize data visualization, playlist algorithms, discovery moments, "how did Spotify know?" reactions.
+- Avoid artist worship or celebrity endorsements → Focus on the listener's relationship with discovery, not fandom.
+- Avoid sterile tech/UI screenshots → Use Spotify's brand green dynamically—show playlists as living, evolving systems.
+- Avoid passive listening visuals → Show active discovery—scrolling, saving, sharing new finds.
 - Typography should feel dynamic and rhythm-driven, reflecting music's energy.
 
 ---
@@ -3192,8 +3148,6 @@ Technology-confident, proven-reliable, innovation-grounded, uncompromising, vert
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Tesla's master brand
 - Three supporting graphic motifs
@@ -3220,10 +3174,10 @@ Technology-confident, proven-reliable, innovation-grounded, uncompromising, vert
 
 ### Visual Guardrails
 
-- **Avoid futuristic concepts or unreleased products (Cybertruck controversy)** → **Prioritize proven technology—Model 3/Y longevity, Supercharger network reliability, software updates improving over time.**
-- **Avoid Elon Musk imagery or personality-driven messaging** → **Focus on engineering, vertical integration, real owner testimonials.**
-- **Avoid comparing to gas cars** → **Compare to other EVs—Tesla's years of refinement vs. competitors' first attempts.**
-- **Avoid recall or quality issue avoidance** → **Own the continuous improvement mindset—over-the-air updates, iterative engineering.**
+- Avoid futuristic concepts or unreleased products (Cybertruck controversy) → Prioritize proven technology—Model 3/Y longevity, Supercharger network reliability, software updates improving over time.
+- Avoid Elon Musk imagery or personality-driven messaging → Focus on engineering, vertical integration, real owner testimonials.
+- Avoid comparing to gas cars → Compare to other EVs—Tesla's years of refinement vs. competitors' first attempts.
+- Avoid recall or quality issue avoidance → Own the continuous improvement mindset—over-the-air updates, iterative engineering.
 - Typography should feel engineered and precise, reflecting technology leadership.
 
 ---
@@ -3334,8 +3288,6 @@ In-depth, journalist-credible, storytelling-focused, analysis-driven, score-tran
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements The Athletic's master brand
 - Three supporting graphic motifs
@@ -3362,10 +3314,10 @@ In-depth, journalist-credible, storytelling-focused, analysis-driven, score-tran
 
 ### Visual Guardrails
 
-- **Avoid highlight reels, scoreboards, or game-action photography** → **Prioritize long-form storytelling, reporter notebooks, behind-the-scenes access, locker room insights.**
-- **Avoid hot takes or debate show aesthetics** → **Show thoughtful analysis, investigative journalism, the story behind the story.**
-- **Avoid generic sports fandom imagery** → **Use typography and layout to emphasize depth—pull quotes, bylines, journalist credibility.**
-- **Avoid free content comparisons** → **Position The Athletic as a different category—journalism vs. highlights.**
+- Avoid highlight reels, scoreboards, or game-action photography → Prioritize long-form storytelling, reporter notebooks, behind-the-scenes access, locker room insights.
+- Avoid hot takes or debate show aesthetics → Show thoughtful analysis, investigative journalism, the story behind the story.
+- Avoid generic sports fandom imagery → Use typography and layout to emphasize depth—pull quotes, bylines, journalist credibility.
+- Avoid free content comparisons → Position The Athletic as a different category—journalism vs. highlights.
 - Typography should feel editorial and credible, reflecting quality journalism.
 
 ---
@@ -3475,8 +3427,6 @@ Most people settle for safe, predictable food. Some people refuse to.
 Bold, irreverent, confident, flavorful, unapologetic.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Torchy's master brand
@@ -3618,8 +3568,6 @@ Versatile, understated, premium, effortlessly functional, West Coast ease.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Vuori's master brand
 - Three supporting graphic motifs
@@ -3760,8 +3708,6 @@ Data-driven, uncompromising, performance-focused, no-BS, optimized.
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements WHOOP's master brand
 - Three supporting graphic motifs
@@ -3788,10 +3734,10 @@ Data-driven, uncompromising, performance-focused, no-BS, optimized.
 
 ### Visual Guardrails
 
-- **Avoid sleek product shots or wrist candy imagery** → **Prioritize data visualization, recovery scores, strain metrics, decision-making.**
-- **Avoid aspirational athlete endorsements** → **Show real users making real training decisions based on WHOOP data.**
-- **Avoid lifestyle wearable aesthetics (notifications, apps, screens)** → **Use raw data, numbers, charts as visual language.**
-- **Avoid generic fitness motivation** → **Show the intelligence—training smarter, not just harder.**
+- Avoid sleek product shots or wrist candy imagery → Prioritize data visualization, recovery scores, strain metrics, decision-making.
+- Avoid aspirational athlete endorsements → Show real users making real training decisions based on WHOOP data.
+- Avoid lifestyle wearable aesthetics (notifications, apps, screens) → Use raw data, numbers, charts as visual language.
+- Avoid generic fitness motivation → Show the intelligence—training smarter, not just harder.
 - Typography should feel analytical and precise, not inspirational or friendly.
 
 ---
@@ -3901,8 +3847,6 @@ Most brands claim to care about where they're from. Whataburger never had to cla
 Proud, straightforward, unwavering, authentically Texan, unpretentious.
 
 ---
-
-### Deliverables & Media Requirements
 
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements Whataburger's master brand
@@ -4044,8 +3988,6 @@ Comprehensive, video-integrated, discovery-driven, unexpectedly complete, format
 
 ---
 
-### Deliverables & Media Requirements
-
 ### Phase 1 – Visual Identity Development (Adobe Illustrator)
 - Campaign lockup that complements YouTube Music's master brand
 - Three supporting graphic motifs
@@ -4072,10 +4014,10 @@ Comprehensive, video-integrated, discovery-driven, unexpectedly complete, format
 
 ### Visual Guardrails
 
-- **Avoid audio-only streaming imagery (headphones, playlists, static screens)** → **Prioritize video integration—concert footage, official videos, live performances, acoustic versions.**
-- **Avoid comparing directly to Spotify/Apple Music** → **Show what competitors can't offer—visual music experiences.**
-- **Avoid generic music discovery language** → **Use YouTube Music's red play button as a symbol of comprehensive access—every format, every version.**
-- **Avoid passive listening** → **Show active exploration—switching from audio to video, discovering live versions, finding covers.**
+- Avoid audio-only streaming imagery (headphones, playlists, static screens) → Prioritize video integration—concert footage, official videos, live performances, acoustic versions.
+- Avoid comparing directly to Spotify/Apple Music → Show what competitors can't offer—visual music experiences.
+- Avoid generic music discovery language → Use YouTube Music's red play button as a symbol of comprehensive access—every format, every version.
+- Avoid passive listening → Show active exploration—switching from audio to video, discovering live versions, finding covers.
 - Typography should feel dynamic and format-flexible, reflecting audio/video versatility.
 
 ---
