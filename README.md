@@ -112,30 +112,6 @@ Neighborhood-rooted, authentic, space-conscious, locally-immersed, anti-tourist.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Airbnb's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid generic vacation imagery (beaches, landmarks, tourist attractions) → Prioritize neighborhood context—local bakeries, residential streets, kitchens being used, spaces lived in.
@@ -249,30 +225,6 @@ People buy Alo because it looks good in photos. They keep buying it when it perf
 ### Tone & Personality
 
 Intentional, grounded, movement-focused, unpretentious, elevated.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Alo's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -392,30 +344,6 @@ Unfiltered, pressure-free, anti-performance, Gen Z-authentic, liberating.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements BeReal's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid polished, aspirational, or influencer aesthetics → Prioritize unfiltered, unglamorous, real moments—messy rooms, bad lighting, caught off-guard.
@@ -529,30 +457,6 @@ Most fast-food brands do not own the farms, trucks, or plants that make their fo
 ### Tone & Personality
 
 Confident, modern, plain-spoken, locally proud.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign logo / lockup that complements Braum's master brand
-- Three supporting graphic elements or motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One primary campaign image
-- Three supporting visual variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Logo & graphic system
-- Photography treatment
-- Final executions across platforms
 
 ---
 
@@ -680,30 +584,6 @@ Exploratory, flexible, anti-commitment, variety-driven, liberating.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements ClassPass's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid single-discipline hero shots (just yoga, just cycling) → Prioritize variety—multiple fitness modalities in one frame or sequence.
@@ -817,30 +697,6 @@ People shop for groceries on price, but they come back for quality they can trus
 ### Tone & Personality
 
 Value-confident, quality-obsessed, family-proud, no-nonsense, Oklahoma-rooted.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Crest Foods' master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -960,30 +816,6 @@ Persistent, playful-but-serious, accountability-driven, motivational, unrelentin
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Duolingo's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid generic travel/culture imagery (Eiffel Tower, sushi, flamenco dancers) → Prioritize streak data, progress charts, real conversations happening because someone stuck with it.
@@ -1097,30 +929,6 @@ Most coffee runs feel like errands. Some feel like a boost.
 ### Tone & Personality
 
 Energetic, genuine, uplifting, fast, human.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Dutch Bros master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -1240,30 +1048,6 @@ Prestige-focused, quality-obsessed, uncompromising, cinematic, premium.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements HBO Max's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid generic streaming platform imagery or endless scrolling → Prioritize cinematic quality, prestige drama moments, awards, critical acclaim.
@@ -1377,30 +1161,6 @@ People want to support local businesses, but not at the expense of empty shelves
 ### Tone & Personality
 
 Employee-invested, accountability-driven, Oklahoma-proud, locally-committed, stake-holding.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Homeland's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -1520,30 +1280,6 @@ Efficiency-focused, city-smart, car-replacing, congestion-solving, emissions-red
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Lime's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid reckless riding or stunt imagery → Prioritize smart urban mobility—commuters, students, errands, practical short trips.
@@ -1657,30 +1393,6 @@ People don't abandon streaming services because there's nothing to watch—they 
 ### Tone & Personality
 
 Selective, quality-obsessed, unapologetic, curator-confident, time-respecting.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Netflix's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -1800,30 +1512,6 @@ Confident, unpretentious, performance-focused, independently-minded, quietly sup
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements New Balance's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid hype culture, sneakerhead aesthetics, or trend-chasing imagery.
@@ -1937,30 +1625,6 @@ People don't want to drive to Oklahoma City for healthcare if they can trust the
 ### Tone & Personality
 
 Community-rooted, compassionate, locally-invested, neighbor-focused, personal.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Norman Regional's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -2080,30 +1744,6 @@ Flexible, empowering, minimalist-but-powerful, thoughtful, liberating.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Notion's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid rigid grids, templates, or pre-built structures → Prioritize blank canvases transforming into personalized systems, modularity, flexibility.
@@ -2220,30 +1860,6 @@ Clean, confident, precise, progressive.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements the existing On master brand
-- Three supporting graphic motifs derived from motion, data, or performance patterns
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero performance visual
-- Three supporting visual variations
-- Print execution (full-page magazine or retail poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution emphasizing movement or data
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Performance imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid lifestyle clichés and "athleisure" tropes.
@@ -2356,30 +1972,6 @@ People don't lack motivation—they lack time and a system that guarantees resul
 ### Tone & Personality
 
 Efficient, science-backed, no-nonsense, results-driven, empowering.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Orangetheory's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -2499,30 +2091,6 @@ Purposeful, uncompromising, durable, quietly confident.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Patagonia's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid idealized wilderness photography or "adventure porn."
@@ -2636,30 +2204,6 @@ People don't abandon fitness equipment because it doesn't work—they abandon it
 ### Tone & Personality
 
 Motivational, unapologetic, resilient, accountability-driven, no-excuses.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Peloton's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -2779,30 +2323,6 @@ Adventure-proven, capability-focused, durability-obsessed, no-excuses, owner-val
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Rivian's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid pristine showroom vehicles or glamping aesthetics → Prioritize real adventures—muddy R1Ts, river crossings, gear loaded, sweat and dirt.
@@ -2916,30 +2436,6 @@ People want food their way, but most fast-food chains make you settle for theirs
 ### Tone & Personality
 
 Confident, playful, unapologetic, refreshingly flexible.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Sonic's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -3059,30 +2555,6 @@ Personalized, music-obsessed, algorithmically-smart, indispensable, unapologetic
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Spotify's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid generic music lifestyle imagery (headphones, concerts, dancing) → Prioritize data visualization, playlist algorithms, discovery moments, "how did Spotify know?" reactions.
@@ -3196,30 +2668,6 @@ People don't buy the first electric car they find—they buy the one they trust 
 ### Tone & Personality
 
 Technology-confident, proven-reliable, innovation-grounded, uncompromising, vertically-integrated.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Tesla's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -3339,30 +2787,6 @@ In-depth, journalist-credible, storytelling-focused, analysis-driven, score-tran
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements The Athletic's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid highlight reels, scoreboards, or game-action photography → Prioritize long-form storytelling, reporter notebooks, behind-the-scenes access, locker room insights.
@@ -3476,30 +2900,6 @@ Most people settle for safe, predictable food. Some people refuse to.
 ### Tone & Personality
 
 Bold, irreverent, confident, flavorful, unapologetic.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Torchy's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -3619,30 +3019,6 @@ Versatile, understated, premium, effortlessly functional, West Coast ease.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Vuori's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid single-activity imagery (just yoga, just running, just gym).
@@ -3756,30 +3132,6 @@ People who train hard don't want more data—they want better decisions based on
 ### Tone & Personality
 
 Data-driven, uncompromising, performance-focused, no-BS, optimized.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements WHOOP's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
@@ -3899,30 +3251,6 @@ Proud, straightforward, unwavering, authentically Texan, unpretentious.
 
 ---
 
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements Whataburger's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
-
----
-
 ### Visual Guardrails
 
 - Avoid stereotypical Texas clichés (cowboy hats, boots, longhorns, state outlines).
@@ -4036,30 +3364,6 @@ People don't just listen to music—they watch it, discover it live, and explore
 ### Tone & Personality
 
 Comprehensive, video-integrated, discovery-driven, unexpectedly complete, format-agnostic.
-
----
-
-### Phase 1 – Visual Identity Development (Adobe Illustrator)
-- Campaign lockup that complements YouTube Music's master brand
-- Three supporting graphic motifs
-
-### Phase 2 – Core Visual Assets (Adobe Photoshop)
-- One hero visual
-- Three supporting variations
-- Print execution (full-page or in-store poster)
-- Two Instagram feed ads
-- One Instagram Story or Reel cover
-- One digital display or mobile banner
-
-### Phase 3 – Motion Social
-- One 5–7 second motion-based social execution
-
-### Phase 4 – Campaign Book (Adobe InDesign)
-- Brand background & challenge
-- Visual research
-- Identity system
-- Imagery system
-- Final executions
 
 ---
 
