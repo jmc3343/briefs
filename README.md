@@ -8,6 +8,10 @@ Creative & Production Briefs
 
 This site contains 29 semester-long advertising creative briefs across multiple industry categories for the Advertising Design & Visual Storytelling course at the University of Oklahoma's Gaylord College of Journalism and Mass Communication.
 
+<div class="alert alert-info" role="alert">
+  <strong>Disclaimer:</strong> These creative briefs are educational materials developed for classroom instruction only. They are not commissioned by, affiliated with, or endorsed by any of the brands mentioned. All business challenges, campaign strategies, and creative directions are fictional scenarios created for pedagogical purposes. Brand names and trademarks remain the property of their respective owners.
+</div>
+
 ---
 
 ## Brands by Industry
