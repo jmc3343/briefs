@@ -6,7 +6,7 @@ permalink: /
 # JMC 3343: Advertising Design & Visual Storytelling
 Creative & Production Briefs
 
-This site contains 30 semester-long advertising creative briefs across multiple industry categories for the Advertising Design & Visual Storytelling course at the University of Oklahoma's Gaylord College of Journalism and Mass Communication.
+This site contains 29 semester-long advertising creative briefs across multiple industry categories for the Advertising Design & Visual Storytelling course at the University of Oklahoma's Gaylord College of Journalism and Mass Communication.
 
 ---
 
