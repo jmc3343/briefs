@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# PR Pubs :: Summer 2016
+# JMC 3343
 This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
 
 **Instructor**
