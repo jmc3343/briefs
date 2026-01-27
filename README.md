@@ -10,6 +10,53 @@ This site contains 30 semester-long advertising creative briefs across multiple 
 
 ---
 
+## Brands by Industry
+
+### Food & Drink
+- Dutch Bros Coffee
+- Sonic Drive-In
+- Torchy's Tacos
+- Whataburger
+
+### Apparel & Footwear
+- Alo Yoga
+- New Balance
+- On Running
+- Patagonia
+- Vuori
+
+### Health & Fitness
+- ClassPass
+- Orangetheory Fitness
+- Peloton
+- WHOOP
+
+### Technology & Apps
+- Airbnb
+- BeReal
+- Duolingo
+- Notion
+- Spotify
+
+### Entertainment & Media
+- HBO Max
+- Netflix
+- The Athletic
+- YouTube Music
+
+### Local & Regional Services
+- Braum's Ice Cream & Dairy Stores
+- Crest Foods
+- Homeland Grocery
+- Norman Regional Health System
+
+### Automotive & Mobility
+- Lime
+- Rivian
+- Tesla
+
+---
+
 ## Airbnb
 
 
