@@ -2,12 +2,17 @@ nav[data-toggle=toc] {
   margin-top: 30px;
 }
 
-/* Fix sidebar overflow on desktop/tablet where nav is sticky */
+/* Fix sidebar overflow and content overlap on desktop/tablet where nav is sticky */
 @media (min-width: 769px) {
   nav[data-toggle=toc] {
     max-height: 90vh;
     overflow-y: auto;
     overflow-x: hidden;
+  }
+
+  /* Prevent content column from overlapping fixed sidebar */
+  .col-sm-8.col-md-7 {
+    margin-left: 33.33333333%; /* Width of col-sm-4 */
   }
 }
 
