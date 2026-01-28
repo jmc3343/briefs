@@ -39,9 +39,51 @@ img.button {
 
 /* small screens */
 @media (max-width: 768px) {
+  /* Mobile menu toggle button */
+  #toc-toggle {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    background-color: #6c757d !important;
+    border-color: #6c757d !important;
+    padding: 10px 15px;
+  }
+
+  #toc-toggle:hover {
+    background-color: #5a6268 !important;
+    border-color: #545b62 !important;
+  }
+
+  /* Hide sidebar column on mobile */
+  .col-sm-4 {
+    display: none;
+  }
+
+  /* Hide TOC by default on mobile */
+  nav[data-toggle='toc'] {
+    display: none !important;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    z-index: 999;
+    overflow-y: auto;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+
+  /* Show TOC when toggled */
+  nav[data-toggle='toc'].show {
+    display: block !important;
+  }
+
   /* override the Affix plugin so that the navigation isn't sticky */
   nav.affix[data-toggle='toc'] {
-    position: static;
+    position: fixed;
   }
 
   /* don't expand nested items, which pushes down the rest of the page when navigating */
