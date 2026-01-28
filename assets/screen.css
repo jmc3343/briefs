@@ -2,6 +2,15 @@ nav[data-toggle=toc] {
   margin-top: 30px;
 }
 
+/* Fix sidebar overflow on desktop/tablet where nav is sticky */
+@media (min-width: 769px) {
+  nav[data-toggle=toc] {
+    max-height: 90vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}
+
 .github-fork-ribbon {
   background-color: #337ab7;
 }
